@@ -1,0 +1,22 @@
+leaf_part_base_shape
+acuminate-orbicular,0
+acute,1
+angular-cordate,2
+attenuate,3
+attenuate-cuneate,4
+attenuate-orbicular,5
+auriculate,6
+cordate,7
+cordate-truncate,8
+cuneate,9
+cuneate-orbicular,10
+cup-shaped,11
+oblique,12
+obtuse,13
+orbicular,14
+saucerlike,15
+stellate,16
+stipitate glandular,17
+subacute,18
+symmetric,19
+truncate,20

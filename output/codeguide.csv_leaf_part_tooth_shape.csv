@@ -1,0 +1,11 @@
+leaf_part_tooth_shape
+acuminate,0
+acute,1
+bilaterally symmetric,2
+branched,3
+incised,4
+mucronate,5
+obtuse,6
+orbicular,7
+retuse,8
+slender,9

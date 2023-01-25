@@ -1,0 +1,12 @@
+leaf_part_venation
+even-pinnate,0
+impressed,1
+midrib,2
+odd-pinnate,3
+parallel,4
+pinnate,5
+reticulate,6
+rib,7
+striate,8
+vein,9
+veined,10

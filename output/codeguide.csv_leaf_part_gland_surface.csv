@@ -1,0 +1,7 @@
+leaf_part_gland_surface
+glabrous,0
+glandular,1
+hairy,2
+pilose,3
+surface,4
+tomentose,5

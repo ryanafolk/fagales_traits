@@ -1,0 +1,43 @@
+part_shape
+,0
+acuminate,1
+acute,2
+acute-ovate,3
+angular,4
+angulate,5
+apiculate,6
+bilaterally symmetric,7
+branched,8
+campanulate,9
+convex,10
+convex-orbicular,11
+cup-shaped,12
+cupular,13
+disk,14
+ellipsoid,15
+ellipsoid-ovoid,16
+elliptic,17
+elongate,18
+fusiform,19
+lanceolate-obovate,20
+oblong,21
+obovoid,22
+orbicular,23
+orbicular-ovoid,24
+ovate,25
+ovoid,26
+ovoid-spheric,27
+pendulous,28
+radially symmetric,29
+rhomboid,30
+saucerlike,31
+slender,32
+spheric,33
+stalked,34
+stellate,35
+stipitate glandular,36
+straight,37
+subglobose,38
+sulcate,39
+triangular,40
+valvate,41
