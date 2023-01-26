@@ -263,6 +263,9 @@ for i,j in zip([accepted_quantitative_fields, accepted_meristic_fields], [quanti
 		elif len(synonyms['Accepted term'].tolist()) > 1:
 			#print(traitdataset[synonyms['Low'].tolist()])
 			try:
+				# Numpy-Pandas functionality is tricky working column-wise. 
+				# This trick addresses shortcoming of pandas.mean() by coercing to numpy array and back again. 
+				# Picking the right axes on these arrays was tricky -- make sure well-filled in columns aren't empty in the outputs
 				low_list = traitdataset[na_rm_list(synonyms['Low'].tolist())].apply(pandas.to_numeric, errors='coerce').to_numpy()
 				low_list = numpy.nanmean(low_list, axis = 1)
 				#print(low_list)
