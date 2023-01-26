@@ -3,63 +3,106 @@ leaf_part_shape
 acuminate,1
 acuminate-caudate,2
 acute,3
-bilaterally symmetric,4
-branched,5
-bullate,6
-caudate,7
-concave,8
-convex,9
-cordate,10
-cuneate,11
-cuneate-obovate,12
-curved,13
-deltoid-ovate,14
-elliptic,15
-elliptic-lanceolate,16
-elliptic-oblong,17
-elliptic-obovate,18
-elliptic-ovate,19
-falcate-lanceolate,20
-falcate-oblong,21
-fused,22
-incised,23
-lanceolate,24
-lanceolate-oblong,25
-lanceolate-obovate,26
-lanceolate-ovate,27
-linear,28
-linear-oblanceolate,29
-oblanceolate,30
-oblanceolate-obovate,31
-oblong,32
-oblong-obovate,33
-oblong-ovate,34
-obovate,35
-obovate-reniform,36
-obtuse,37
-orbicular,38
-ovate,39
-ovate-rhomboic,40
-ovate-rhomboid,41
-ovate-triangular,42
-ovoid,43
-petiolate,44
-pinnatifid,45
-recurved,46
-rhomboic,47
-rhomboid,48
-saccate,49
-saucerlike,50
-slender,51
-spatulate,52
-spheric,53
-stellate,54
-stipitate glandular,55
-straight,56
-subulate,57
-sulcate,58
-triangular,59
-trifoliolate,60
-turbinate,61
-twisted,62
-valvate,63
+acutely angular,4
+bilaterally symmetric,5
+branched,6
+broad ovate,7
+bullate,8
+caudate,9
+concave,10
+convex,11
+cordate,12
+cuneate,13
+cuneate-obovate,14
+curved,15
+deltoid-ovate,16
+elliptic,17
+elliptic or ovate-lanceolate-ovate,18
+elliptic to obovate,19
+"elliptic, ovate",20
+"elliptic-elliptic-lanceolate, rarely ovate",21
+elliptic-lanceolate,22
+elliptic-oblong,23
+elliptic-obovate,24
+elliptic-ovate,25
+"elliptical, often inclined to obovate-ovate",26
+falcate-lanceolate,27
+falcate-oblong,28
+fused,29
+heart-shaped,30
+incised,31
+lanceolate,32
+lanceolate or elliptic-oblong,33
+lanceolate-oblong,34
+lanceolate-oblong to ovate-ovate,35
+lanceolate-oblong-oblong or elliptic,36
+lanceolate-obovate,37
+lanceolate-ovate,38
+linear,39
+linear-oblanceolate,40
+oblanceolate,41
+oblanceolate-obovate,42
+oblong,43
+"oblong, mostly heart-ovate-shaped",44
+oblong-obovate,45
+oblong-ovate,46
+obovate,47
+obovate or orbicularish,48
+"obovate or ovate,  oval",49
+obovate to elliptic,50
+obovate-reniform,51
+obtuse,52
+orbicular,53
+orbicularish to  ovate,54
+oundish obovate,55
+oval or inclined to ovate,56
+ovate,57
+ovate or oval,58
+ovate to  lanceolate,59
+ovate to deltoid,60
+ovate to elliptic,61
+ovate to orbicularish,62
+ovate to oval,63
+"ovate, inclined to oblong",64
+ovate-ovate to elliptic,65
+ovate-ovate to rhombic,66
+ovate-ovate to rhombic-triangular,67
+ovate-rhomboic,68
+ovate-rhomboid,69
+ovate-triangular,70
+ovoid,71
+petiolate,72
+pinnatifid,73
+recurved,74
+rhomboic,75
+rhomboid,76
+saccate,77
+saucerlike,78
+slender,79
+spatulate,80
+spheric,81
+stellate,82
+stipitate glandular,83
+straight,84
+subulate,85
+sulcate,86
+triangular,87
+trifoliolate,88
+turbinate,89
+twisted,90
+valvate,91
+widest about the middle,92
+widest about the middle to slightly lower higher,93
+"widest about the middle, sometimes above or below",94
+"widest about the middle, sometimes below",95
+widest about the widest at the middle to sometimes below,96
+widest at or below the middle,97
+widest at the middle,98
+widest at the middle to slightly below,99
+widest at the middle to sometimes above,100
+widest below the middle to rarely above,101
+widest below the middle to sometimes about the middle,102
+widest mostly below the middle to rarely above,103
+widest mostly below to rarely above the middle,104
+widest slightly below to slightly above the middle decurrent,105
+widest somewhat below to somewhat above the middle,106

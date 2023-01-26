@@ -1,34 +1,46 @@
 inflorescence_shape
 ,0
-acute,1
-angulate,2
-bilaterally symmetric,3
-branched,4
-campanulate,5
-capitulate,6
-conelike,7
-cup-shaped,8
-cupular,9
-cymbiform,10
-disk,11
-ellipsoid,12
-ellipsoid-ovoid,13
-elongate,14
-hemispheric,15
-obconic,16
-oblong,17
-oblong-ovoid,18
-orbicular,19
-ovoid,20
-pendulous,21
-recurved,22
-saucerlike,23
-spheric,24
-spikelike,25
-spikes,26
-stalked,27
-stellate,28
-subglobose,29
-symmetric,30
-truncate,31
-turbinate,32
+Male catkins glutinous when young,1
+Staminate inflorescences catkin-like,2
+"Staminate inflorescences catkin-like, pistillate inflorescences in racemes of two to four, pedunculate, globose to oblong",3
+acute,4
+angulate,5
+bilaterally symmetric,6
+branched,7
+campanulate,8
+capitulate,9
+catkin,10
+catkin-like,11
+compound,12
+conelike,13
+cup-shaped,14
+cupular,15
+cymbiform,16
+disk,17
+ellipsoid,18
+ellipsoid-ovoid,19
+elongate,20
+hemispheric,21
+obconic,22
+oblong,23
+oblong-ovoid,24
+orbicular,25
+ovate,26
+ovoid,27
+ovoid to globose,28
+pendulous,29
+"pendulous, slender",30
+racemes,31
+rachis,32
+recurved,33
+saucerlike,34
+spheric,35
+spikelet,36
+spikelike,37
+spikes,38
+stalked,39
+stellate,40
+subglobose,41
+symmetric,42
+truncate,43
+turbinate,44

@@ -1,22 +1,35 @@
 fruit_part_surface
-canescent,0
-floccose,1
-glabrate,2
-glabrous,3
-glandular,4
-hairy,5
-hirsute,6
-hispid,7
-membranous,8
-pilose,9
-prickly,10
-puberulent,11
-pubescent,12
-scurfy,13
-sericeous,14
-smooth,15
-surface,16
-tomentose,17
-tomentulose,18
-verrucose,19
-villose,20
+ to ferruginous-pubescent especially when immature-white,0
+2 mm long aorbicular bracts and bracteoles-with short coarse hairs 1,1
+canescent,2
+"densely and minutely pubescent, becoming glabrous",3
+densely pubescent,4
+floccose,5
+glabrate,6
+glabrous,7
+glabrous except scattered hairs between bracteoles,8
+glandular,9
+hairy,10
+hirsute,11
+hispid,12
+membranous,13
+often sparsely pubescent,14
+pilose,15
+prickly,16
+puberulent,17
+pubescent,18
+pubescent at least when young,19
+"pubescent when young-pubescent, sometimes ferruginous-tessellated,  shortly white",20
+scurfy,21
+sericeous,22
+smooth,23
+sparsely pubescent,24
+spiny,25
+surface,26
+tessellated,27
+tomentose,28
+tomentulose,29
+verrucose,30
+villose,31
+"warty, occasionally densely pubescent",32
+woody,33
