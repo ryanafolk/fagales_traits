@@ -1,4 +1,6 @@
 leaf_part_axil_surface
-pubescent,0
-tomentose,1
-villose,2
+glabrous,0
+nan,1
+pubescent,2
+tomentose,3
+villose,4

@@ -2,8 +2,11 @@ leaf_part_trichome_surface
 glabrous,0
 glandular,1
 membranous,2
-pilose,3
-puberulent,4
-pubescent,5
-surface,6
-villose,7
+nan,3
+pilose,4
+puberulent,5
+pubescent,6
+scurfy,7
+surface,8
+tomentose,9
+villose,10

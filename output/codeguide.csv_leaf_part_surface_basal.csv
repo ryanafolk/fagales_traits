@@ -1,5 +1,7 @@
 leaf_part_surface_basal
 glabrous,0
-puberulent,1
-tomentose,2
-villose,3
+nan,1
+puberulent,2
+pubescent,3
+tomentose,4
+villose,5

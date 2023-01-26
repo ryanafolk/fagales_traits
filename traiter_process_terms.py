@@ -10,7 +10,8 @@
 Run like:
 mkdir output
 cat discard_terms.csv unit_columns.csv > all_fields_dropped.csv
-python3 traiter_process_terms.py ./Fagales_2023-01-23/Fagales_2023-01-23.csv ./output/pre-coded.csv ./output/coded.csv ./output/coded_onevalue.csv ./output/codeguide.csv ./output/distancematrix.csv ./all_fields_dropped.csv ./concatenate_terms.csv ./range_terms_quantitative.csv ./range_terms_count.csv 0.9
+python3 traiter_process_terms.py ./Fagales_2023-01-23/Fagales_2023-01-23.csv ./Manual_trait_extraction/Fagales_fill-in_controlled_fields.csv ./output/out ./output/codeguide.csv ./output/distancematrix ./all_fields_dropped.csv ./concatenate_terms.csv ./range_terms_quantitative.csv ./range_terms_count.csv 0.95
+# If you don't want to use the second dataset, you can just define an empty data frame.
 
 '''
 
@@ -26,42 +27,16 @@ import itertools
 pandas.options.mode.chained_assignment = 'raise' # Force declaration of line numbers for Pandas warnings
 
 infile = sys.argv[1] # Input csv
-outfile = sys.argv[2] # Pre-coded output csv
-outcoded = sys.argv[3] # Coded output csv
-outcoded_onevalue = sys.argv[4] # Coded output csv, randomly chosen from list
-codeguide = sys.argv[5] # Guide to coding done
-distancematrix = sys.argv[6] # Distance matrix
-droplist = sys.argv[7] # Column drop list
-categorical = sys.argv[8] # Categorical controlled fields
-quantitative = sys.argv[9] # Quantitative controlled fields
-meristic = sys.argv[10] # Meristic controlled fields
-missing = float(sys.argv[11]) # Missing data value (exclude if missing more than given proportion)
+inmanual = sys.argv[2] # Input csv 2 -- a second spreadsheet over which the first takes precedence
+outfile = sys.argv[3] # Pre-coded output csv
+codeguide = sys.argv[4] # Guide to coding done
+distancematrix = sys.argv[5] # Distance matrix
+droplist = sys.argv[6] # Column drop list
+categorical = sys.argv[7] # Categorical controlled fields
+quantitative = sys.argv[8] # Quantitative controlled fields
+meristic = sys.argv[9] # Meristic controlled fields
+missing = float(sys.argv[10]) # Missing data value (exclude if missing more than given proportion)
 
-##########
-# Read CSVs
-##########
-
-traitdataset = pandas.read_csv(infile, sep=',', header='infer', encoding = 'utf-8', low_memory = False) # Encoding can be problematic
-categorical_field_controlled = pandas.read_csv(categorical, sep=',', header='infer', encoding = 'utf-8') 
-quantitative_field_controlled = pandas.read_csv(quantitative, sep=',', header='infer', encoding = 'utf-8') 
-meristic_field_controlled = pandas.read_csv(meristic, sep=',', header='infer', encoding = 'utf-8') 
-
-# If you get BOM-related errors use this:
-# perl -e 's/\xef\xbb\xbf//;' -pi~ sax_traits*
-
-# E.g., run as:
-# ./sax_trait_matrix_process.py saxtraits_final.csv out.csv coded_out.csv coded_oneval_out.csv codeguide.csv distancematrix.csv
-
-# List of terms to remove
-censorlist = ["widely","broadly","narrowly","very","obliquely","subterete","semiterete","subpeltate","terete","peltate","subcylindrical","cylindrical","pale","bright","dark","deep","spots-[A-Za-z-]*","dull","dirty","stripes-[A-Za-z-]*","compact","cylindric","narrow","terminal","simple"]
-
-# Separate term synonym list
-partialmatchsynonymlist = [["circular", "orbicular"], ["subelliptic", "elliptic"], ["suboblong", "oblong"], ["round", "orbicular"], ["subflabellate", "flabellate"], ["subspatulate", "spatulate"], ["suborbicular", "orbicular"], ["rounded-ovate", "orbicular-ovate"], ["reniform-rounded", "orbicular-reniform"], ["ovate-rounded", "ovate-orbicular"], ["subovate", "ovate"], ["subreniform", "reniform"], ["subcircular", "orbicular"], ["oblong-terete", "oblong"], ["lorate", "linear"], ["ensiform", "linear"], ["flabelliorm", "flabellate"], ["orbiculate", "orbicular"], ["rounded-reniform", "orbicular-reniform"], ["suborbiculate", "orbicular"], ["subrhomboidal", "rhomboid"], ["ovate-roundish", "ovate-orbicular"], ["roundish", "orbicular"], ["ovate-circular", "ovate-orbicular"], ["rotund", "orbicular"], ["subcordate", "cordate"], ["subensate", "ensiform"], ["sublinear", "linear"], ["semicircular", "orbicular"], ["semi-circular", "orbicular"], ["ovate-suborbicular", "ovate-orbicular"], ["subcuneate", "cuneate"], ["pentagonal", "polygonal"], ["septagonal", "polygonal"], ["pentangular", "polygonal"], ["angular-orbiculate", "polygonal"], ["orbicular-pentagonal", "polygonal"], ["rectangular", "rhomboid"], ["subobovate", "obovate"], ["navicular", "cymbiform"], ["keeled", "cymbiform"], ["liguliform", "ligulate"], ["semi-orbicular", "orbicular"], ["semiorbicular", "orbicular"], ["deltate", "deltoid"], ["subdeltoid", "deltoid"], ["sublanceolate", "lanceolate"], ["suboblanceolate", "oblanceolate"]]
-fullmatchsynonymlist = [["^corymbose cymes$", "corymbs"], ["^corymbose$", "corymbs"], ["^corymbiform$", "corymbs"], ["^paniculate cymes$", "panicles"], ["^spicate$", "spikes"], ["^spiciform$", "spikes"], ["^corymbose panicles$", "corymbs"], ["^spicate thyrses$", "thyrses"], ["^subcorymbose$", "corymbs"], ["^corymbose-paniculate$", "corymbs"], ["^corymbiform panicles$", "corymbs"], ["^cymose-corymbiform$", "corymbs"], ["^paniculate-corymbiform$", "corymbs"], ["^spicate-paniculate$", "panicles"], ["^racemose thyrses$", "thyrses"], ["^thyrsoid panicle$", "thyrses"], ["^paniculate$", "panicles"], ["^cymose$", "cymes"], ["^racemiform cymes$", "cymes"], ["^spicate racemes$", "spikes"], ["^corymbiform cymes$", "corymbs"], ["^thyrsoid$", "thyrses"], ["^subpaniculate$", "panicles"], ["^thyrsoid$", "thyrses"]]
-colorsynonymlist = [["pinkish", "pink"], ["lilac", "purple"], ["whitish", "white"], ["yellowish", "yellow"], ["reddish", "red"], ["greenish", "green"], ["golden-yellow", "yellow"], ["crimson", "red"], ["cream", "white"], ["sulphur-yellow", "yellow"], ["rose-coloured", "pink"], ["rose", "pink"], ["brownish", "brown"], ["lemon", "yellow"], ["creamy", "cream"], ["salmon-pink", "orange-pink"], ["violet", "purple"], ["ivory-white", "white"], ["pink-violet", "pink-purple"], ["ivory", "white"], ["straw-colored", "yellow"], ["lavendar", "purple"], ["violetish", "purple"], ["purplish", "purple"], ["glaucous-pink", "pink"], ["olive-green", "green"], ["stramineous", "yellow"], ["grey-green", "green"], ["deep rose-coloured", ""], ["maroon", "red-brown"], ["gray-green", "green"], ["lavender", "purple"], ["purpleish", "purple"], ["scarlet", "red"]]
-
-# Full synonymy list
-combinedsyn = partialmatchsynonymlist + fullmatchsynonymlist + colorsynonymlist
 
 
 
@@ -153,17 +128,66 @@ def na_rm_list(l):
 def flatten_list(l):
 	l2 = [item for sublist in l for item in sublist]
 	return l2
-
+	
 def list_intersection(l, m):
 	l2 = list(set(l) & set(m))
-	return l2
+	return l2	
+	
+	
+	
+##########
+# Read CSVs
+##########
+
+traitdataset = pandas.read_csv(infile, sep=',', header='infer', encoding = 'utf-8', low_memory = False).astype(str) # Encoding can be problematic
+print("Number of raw trait columns, first dataset.")
+print(len(traitdataset.columns.values))
+print("Number of species, first dataset.")
+print(len(traitdataset['taxon'].values))
+#print(traitdataset.dtypes)
+
+manualdataset = pandas.read_csv(inmanual, sep=',', header='infer', encoding = 'utf-8', low_memory = False).astype(str) # Encoding can be problematic
+print("Number of raw trait columns, second dataset.")
+print(len(manualdataset.columns.values))
+print("Number of species, second dataset.")
+print(len(manualdataset['taxon'].values))
+#print(manualdataset.dtypes)
+
+traitdataset = pandas.merge(traitdataset, manualdataset, on = list_intersection(traitdataset.columns, manualdataset.columns), how='outer') # Left join if you don't want the manual dataset to add species
+print("Number of raw trait columns, merged datasets.")
+print(len(traitdataset.columns.values))
+print("Number of species, merged datasets.")
+print(len(traitdataset['taxon'].values))
+
+categorical_field_controlled = pandas.read_csv(categorical, sep=',', header='infer', encoding = 'utf-8') 
+quantitative_field_controlled = pandas.read_csv(quantitative, sep=',', header='infer', encoding = 'utf-8') 
+meristic_field_controlled = pandas.read_csv(meristic, sep=',', header='infer', encoding = 'utf-8') 
+
+# If you get BOM-related errors use this:
+# perl -e 's/\xef\xbb\xbf//;' -pi~ sax_traits*
+
+# E.g., run as:
+# ./sax_trait_matrix_process.py saxtraits_final.csv out.csv coded_out.csv coded_oneval_out.csv codeguide.csv distancematrix.csv
+
+# List of terms to remove
+censorlist = ["widely","broadly","narrowly","very","obliquely","subterete","semiterete","subpeltate","terete","peltate","subcylindrical","cylindrical","pale","bright","dark","deep","spots-[A-Za-z-]*","dull","dirty","stripes-[A-Za-z-]*","compact","cylindric","narrow","terminal","simple"]
+
+# Separate term synonym list
+partialmatchsynonymlist = [["circular", "orbicular"], ["subelliptic", "elliptic"], ["suboblong", "oblong"], ["round", "orbicular"], ["subflabellate", "flabellate"], ["subspatulate", "spatulate"], ["suborbicular", "orbicular"], ["rounded-ovate", "orbicular-ovate"], ["reniform-rounded", "orbicular-reniform"], ["ovate-rounded", "ovate-orbicular"], ["subovate", "ovate"], ["subreniform", "reniform"], ["subcircular", "orbicular"], ["oblong-terete", "oblong"], ["lorate", "linear"], ["ensiform", "linear"], ["flabelliorm", "flabellate"], ["orbiculate", "orbicular"], ["rounded-reniform", "orbicular-reniform"], ["suborbiculate", "orbicular"], ["subrhomboidal", "rhomboid"], ["ovate-roundish", "ovate-orbicular"], ["roundish", "orbicular"], ["ovate-circular", "ovate-orbicular"], ["rotund", "orbicular"], ["subcordate", "cordate"], ["subensate", "ensiform"], ["sublinear", "linear"], ["semicircular", "orbicular"], ["semi-circular", "orbicular"], ["ovate-suborbicular", "ovate-orbicular"], ["subcuneate", "cuneate"], ["pentagonal", "polygonal"], ["septagonal", "polygonal"], ["pentangular", "polygonal"], ["angular-orbiculate", "polygonal"], ["orbicular-pentagonal", "polygonal"], ["rectangular", "rhomboid"], ["subobovate", "obovate"], ["navicular", "cymbiform"], ["keeled", "cymbiform"], ["liguliform", "ligulate"], ["semi-orbicular", "orbicular"], ["semiorbicular", "orbicular"], ["deltate", "deltoid"], ["subdeltoid", "deltoid"], ["sublanceolate", "lanceolate"], ["suboblanceolate", "oblanceolate"]]
+fullmatchsynonymlist = [["^corymbose cymes$", "corymbs"], ["^corymbose$", "corymbs"], ["^corymbiform$", "corymbs"], ["^paniculate cymes$", "panicles"], ["^spicate$", "spikes"], ["^spiciform$", "spikes"], ["^corymbose panicles$", "corymbs"], ["^spicate thyrses$", "thyrses"], ["^subcorymbose$", "corymbs"], ["^corymbose-paniculate$", "corymbs"], ["^corymbiform panicles$", "corymbs"], ["^cymose-corymbiform$", "corymbs"], ["^paniculate-corymbiform$", "corymbs"], ["^spicate-paniculate$", "panicles"], ["^racemose thyrses$", "thyrses"], ["^thyrsoid panicle$", "thyrses"], ["^paniculate$", "panicles"], ["^cymose$", "cymes"], ["^racemiform cymes$", "cymes"], ["^spicate racemes$", "spikes"], ["^corymbiform cymes$", "corymbs"], ["^thyrsoid$", "thyrses"], ["^subpaniculate$", "panicles"], ["^thyrsoid$", "thyrses"]]
+colorsynonymlist = [["pinkish", "pink"], ["lilac", "purple"], ["whitish", "white"], ["yellowish", "yellow"], ["reddish", "red"], ["greenish", "green"], ["golden-yellow", "yellow"], ["crimson", "red"], ["cream", "white"], ["sulphur-yellow", "yellow"], ["rose-coloured", "pink"], ["rose", "pink"], ["brownish", "brown"], ["lemon", "yellow"], ["creamy", "cream"], ["salmon-pink", "orange-pink"], ["violet", "purple"], ["ivory-white", "white"], ["pink-violet", "pink-purple"], ["ivory", "white"], ["straw-colored", "yellow"], ["lavendar", "purple"], ["violetish", "purple"], ["purplish", "purple"], ["glaucous-pink", "pink"], ["olive-green", "green"], ["stramineous", "yellow"], ["grey-green", "green"], ["deep rose-coloured", ""], ["maroon", "red-brown"], ["gray-green", "green"], ["lavender", "purple"], ["purpleish", "purple"], ["scarlet", "red"]]
+
+# Full synonymy list
+combinedsyn = partialmatchsynonymlist + fullmatchsynonymlist + colorsynonymlist
+
+
+
 
 ##########
 # Suppress unselected columns
 ##########
 
-print("Number of raw trait columns.")
-print(len(traitdataset.columns.values))
+
 with open(droplist, mode='r', encoding='utf-8-sig') as f: # Encoding to remove u'\ufeff'
     drop = [line.rstrip('\n') for line in f]
 #print(drop)
@@ -190,10 +214,10 @@ for term in accepted_categorical_fields:
 	synonyms = categorical_field_controlled[categorical_field_controlled['Accepted term'] == term] 
 	#print(str(synonyms['Accepted term'].tolist()[0]))
 	if len(synonyms['Synonym'].tolist()) == 1:
-		traitdataset[synonyms['Accepted term'].tolist()[0]] = traitdataset[synonyms['Synonym'].tolist()[0]]
+		traitdataset[term] = traitdataset[synonyms['Synonym'].tolist()[0]].replace('nan', numpy.nan)
 		traitdataset = traitdataset.drop(synonyms['Synonym'].tolist()[0], axis = 1)
 	elif len(synonyms['Synonym'].tolist()) > 1:
-		traitdataset[term] = traitdataset[synonyms['Synonym'].tolist()].apply(list, axis = 1)
+		traitdataset[term] = traitdataset[synonyms['Synonym'].tolist()].replace('nan', numpy.nan).apply(list, axis = 1)
 		traitdataset = traitdataset.drop(synonyms['Synonym'].tolist(), axis = 1)
 	else:
 		print("Illegal cell in controlled vocabulary.")
@@ -239,16 +263,24 @@ for i,j in zip([accepted_quantitative_fields, accepted_meristic_fields], [quanti
 		elif len(synonyms['Accepted term'].tolist()) > 1:
 			#print(traitdataset[synonyms['Low'].tolist()])
 			try:
-				low_list = traitdataset[synonyms['Low'].tolist()].mean(axis = 1).tolist()
+				low_list = traitdataset[na_rm_list(synonyms['Low'].tolist())].apply(pandas.to_numeric, errors='coerce').to_numpy()
+				low_list = numpy.nanmean(low_list, axis = 1)
 				#print(low_list)
 				try:
-					high_list = traitdataset[synonyms['High'].tolist()].mean(axis = 1).tolist()
-					traitdataset[term] = [numpy.nanmean(i) for i in zip(low_list, high_list)]
-				except:
-					low_list = traitdataset[synonyms['Low'].tolist()].mean(axis = 1).tolist()
+					high_list = traitdataset[na_rm_list(synonyms['High'].tolist())].apply(pandas.to_numeric, errors='coerce').to_numpy()
+					high_list = numpy.nanmean(high_list, axis = 1)
+					#print(high_list)
+					#print(list(numpy.nanmean([low_list, high_list], axis = 0)))
+					traitdataset[term] = numpy.nanmean([low_list, high_list], axis = 0)
+				except Exception as e:
+					print(e)
+					low_list = traitdataset[na_rm_list(synonyms['Low'].tolist())].apply(pandas.to_numeric, errors='coerce').to_numpy()
+					low_list = numpy.nanmean(low_list, axis = 1)
 					traitdataset[term] = low_list
-			except:
-				high_list = traitdataset[synonyms['High'].tolist()].mean(axis = 1).tolist()
+			except Exception as e:
+				print(e)
+				high_list = traitdataset[na_rm_list(synonyms['High'].tolist())].apply(pandas.to_numeric, errors='coerce').to_numpy()
+				high_list = numpy.nanmean(high_list, axis = 1)
 				traitdataset[term] = high_list
 			# drop na from these lists !!!!
 			field_remove_list = flatten_list([na_rm_list(synonyms['Low extreme'].tolist()), na_rm_list(synonyms['Low'].tolist()), na_rm_list(synonyms['High'].tolist()), na_rm_list(synonyms['High extreme'].tolist())])
@@ -265,6 +297,7 @@ print(len(traitdataset.columns.values))
 # Example filled-in field
 #print(traitdataset['fruit_part_size_length'])
 
+traitdataset.to_csv(path_or_buf = "_".join([outfile, "precleaned.csv"]), sep=",")
 
 
 ##########
@@ -289,7 +322,7 @@ for i in accepted_meristic_fields:
 #print(traitdataset['fruit_part_size_length'].tolist())
 
 # Write uncoded result
-traitdataset.to_csv(path_or_buf = outfile, sep=",")
+traitdataset.to_csv(path_or_buf = "_".join([outfile, "postcleaned.csv"]), sep=",")
 
 
 #print(traitdataset)
@@ -312,7 +345,7 @@ traitdataset = traitdataset.replace({numpy.nan:'nan'})
 print("Number of trait columns after dropping numerical data due to missing data threshold.")
 print(len(traitdataset.columns.values))
 
-traitdataset.to_csv(path_or_buf = "_".join([outfile, "missingdropped.csv"]), sep=",")
+traitdataset.to_csv(path_or_buf = "_".join([outfile, "droppedmissing.csv"]), sep=",")
 
 
 
@@ -343,7 +376,7 @@ for w in list_intersection(accepted_categorical_fields, traitdataset.columns):
 	codesdone.append([w, codes])
 
 # Write coded result
-traitdataset.to_csv(path_or_buf=outcoded, sep=",")
+traitdataset.to_csv(path_or_buf = "_".join([outfile, "droppedmissing_coded.csv"]), sep=",")
 
 
 ##########
@@ -361,7 +394,7 @@ for i in list_intersection(accepted_categorical_fields, traitdataset.columns):
 			newcolumn.append(None)
 	traitdataset[i] = newcolumn
 	
-traitdataset.to_csv(path_or_buf=outcoded_onevalue, sep=",")
+traitdataset.to_csv(path_or_buf = "_".join([outfile, "droppedmissing_coded_onevalue.csv"]), sep=",")
 for i in codesdone:
 	filename = "".join([codeguide, "_", i[0], ".csv"])
 	#print(i[1])
@@ -445,7 +478,7 @@ combined_dataframe.mask(combined_dataframe == '') # Empty string to NA
 combined_dataframe.fillna(0) # NA (plus empty strings from last line) to 0
 
 print(type(combined_dataframe))
-combined_dataframe.to_csv(path_or_buf=distancematrix, sep=",")
+combined_dataframe.to_csv(path_or_buf = "".join([distancematrix, ".csv"]), sep=",")
 
 
 
@@ -469,4 +502,4 @@ print(len(remove_list))
 
 
 combined_dataframe_subset = subset_columnrow(combined_dataframe, remove_list)
-combined_dataframe_subset.to_csv(path_or_buf="_".join([distancematrix, "occ_tree_matched.csv"]), sep=",")
+combined_dataframe_subset.to_csv(path_or_buf = "_".join([distancematrix, "occ_tree_matched.csv"]), sep=",")

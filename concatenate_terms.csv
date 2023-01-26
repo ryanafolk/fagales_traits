@@ -541,3 +541,10 @@ leaf_part_margin_count_margin,leaf_part_margin_count.1.leaf_margin
 leaf_part_sinus_shape,leaf_part_sinus_shape.1.shape
 leaf_part_sinus_shape,leaf_part_sinus_shape.2.shape
 leaf_part_tube_shape,leaf_part_tube_shape.1.shape
+article_surface,article_surface.1
+article_shape,article_shape.1
+phyllichnia_shape,phyllichnia_shape.1
+leaf position,leaf position.1
+branch_position,branch_position.1
+leaflet_shape,leaflet_shape.1
+fruit_position,fruit_position.1

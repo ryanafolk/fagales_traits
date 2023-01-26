@@ -1,6 +1,7 @@
 fruit_part_scales_color
 brown,0
 brown-red,1
-red,2
-white,3
-yellow,4
+nan,2
+red,3
+white,4
+yellow,5

@@ -160,6 +160,9 @@ part_segment_subpart.1.subpart_as_loc
 part_surface.1.subpart_as_loc
 part_surface.2.subpart_as_loc
 part_venation.1.part_as_loc
+taxon_id
+link
+path
 female_flower_part_size.1.length_units
 flower_part_hair_size.1.diameter_units
 flower_part_leaf-axil_size.1.length_units

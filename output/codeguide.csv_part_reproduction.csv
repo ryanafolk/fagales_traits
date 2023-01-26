@@ -1,3 +1,5 @@
 part_reproduction
-dioecious,0
-monoecious,1
+androgynous,0
+dioecious,1
+monoecious,2
+nan,3

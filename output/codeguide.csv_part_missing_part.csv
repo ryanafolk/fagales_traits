@@ -1,3 +1,5 @@
 part_missing_part
-rarely shrub,0
-rarely tree,1
+except branch and inflorescence,0
+nan,1
+rarely shrub,2
+rarely tree,3

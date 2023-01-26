@@ -1,7 +1,8 @@
 leaf_part_surface_lateral
 glabrous,0
-pilose,1
-pubescent,2
-surface,3
-tomentose,4
-villose,5
+nan,1
+pilose,2
+pubescent,3
+surface,4
+tomentose,5
+villose,6

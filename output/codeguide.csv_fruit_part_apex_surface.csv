@@ -1,6 +1,10 @@
 fruit_part_apex_surface
 glabrate,0
-hairy,1
-puberulent,2
-pubescent,3
-villose,4
+glabrous,1
+hairy,2
+nan,3
+puberulent,4
+pubescent,5
+sericeous,6
+tomentose,7
+villose,8

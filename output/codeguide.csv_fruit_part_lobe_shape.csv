@@ -3,7 +3,8 @@ angular,0
 cuneate,1
 elongate,2
 linear,3
-oblong,4
-obtuse,5
-tapering,6
-triangular,7
+nan,4
+oblong,5
+obtuse,6
+tapering,7
+triangular,8

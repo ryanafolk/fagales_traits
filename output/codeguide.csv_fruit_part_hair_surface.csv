@@ -1,6 +1,9 @@
 fruit_part_hair_surface
 glabrous,0
 glandular,1
-pilose,2
-surface,3
-tomentose,4
+nan,2
+pilose,3
+scurfy,4
+silky,5
+surface,6
+tomentose,7

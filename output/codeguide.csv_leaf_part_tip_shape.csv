@@ -1,4 +1,11 @@
 leaf_part_tip_shape
-mucronate,0
-retuse,1
-subacute,2
+apiculate-caudate,0
+caudate,1
+fused,2
+mucronate,3
+nan,4
+obtuse,5
+orbicular,6
+retuse,7
+subacute,8
+subulate,9

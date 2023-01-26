@@ -1,0 +1,18 @@
+branch_position
+ascending,0
+ascending or curved,1
+ascending or drooping,2
+ascending or spreading,3
+"ascending, pungent",4
+"ascending, verticillate",5
+"ascending, ±pungent",6
+drooping,7
+drooping or ascending,8
+drooping to ascending,9
+drooping to spreading,10
+erect,11
+erect to spreading,12
+nan,13
+spreading or drooping,14
+spreading to ascending,15
+"spreading, twisted",16

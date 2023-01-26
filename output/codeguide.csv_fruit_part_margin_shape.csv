@@ -1,3 +1,5 @@
 fruit_part_margin_shape
 concave,0
-straight,1
+convex,1
+nan,2
+straight,3

@@ -1,9 +1,10 @@
 part_scales_surface
 glabrate,0
 glabrous,1
-puberulent,2
-pubescent,3
-silky,4
-smooth,5
-tomentose,6
-villose,7
+nan,2
+puberulent,3
+pubescent,4
+silky,5
+smooth,6
+tomentose,7
+villose,8

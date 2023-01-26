@@ -1,3 +1,6 @@
 fruit_part_hair_shape
-capitate,0
-fasciculate,1
+acuminate,0
+capitate,1
+fasciculate,2
+filiform,3
+nan,4

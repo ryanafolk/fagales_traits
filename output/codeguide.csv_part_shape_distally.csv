@@ -1,5 +1,6 @@
 part_shape_distally
 acute,0
-obtuse,1
-orbicular,2
-subacute,3
+nan,1
+obtuse,2
+orbicular,3
+subacute,4

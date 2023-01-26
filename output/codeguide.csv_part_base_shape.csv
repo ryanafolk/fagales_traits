@@ -1,3 +1,6 @@
 part_base_shape
-cuneate,0
-oblique,1
+cordate,0
+cuneate,1
+nan,2
+oblique,3
+orbicular,4
