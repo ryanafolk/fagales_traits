@@ -28,7 +28,7 @@ pandas.options.mode.chained_assignment = 'raise' # Force declaration of line num
 
 infile = sys.argv[1] # Input csv
 inmanual = sys.argv[2] # Input csv 2 -- a second spreadsheet over which the first takes precedence
-outfile = sys.argv[3] # Pre-coded output csv
+outfile = sys.argv[3] # Output prefix
 codeguide = sys.argv[4] # Guide to coding done
 distancematrix = sys.argv[5] # Distance matrix
 droplist = sys.argv[6] # Column drop list
@@ -267,14 +267,14 @@ for i,j in zip([accepted_quantitative_fields, accepted_meristic_fields], [quanti
 				# This trick addresses shortcoming of pandas.mean() by coercing to numpy array and back again. 
 				# Picking the right axes on these arrays was tricky -- make sure well-filled in columns aren't empty in the outputs
 				low_list = traitdataset[na_rm_list(synonyms['Low'].tolist())].apply(pandas.to_numeric, errors='coerce').to_numpy()
-				low_list = numpy.nanmean(low_list, axis = 1)
+				low_list = numpy.nanmean(low_list, axis = 1) # First we take a column-wise mean of the terms we regard as synonyms in the low field, ignoring nan 
 				#print(low_list)
 				try:
 					high_list = traitdataset[na_rm_list(synonyms['High'].tolist())].apply(pandas.to_numeric, errors='coerce').to_numpy()
-					high_list = numpy.nanmean(high_list, axis = 1)
+					high_list = numpy.nanmean(high_list, axis = 1) # First we take a column-wise mean of the terms we regard as synonyms in the high field, ignoring nan 
 					#print(high_list)
 					#print(list(numpy.nanmean([low_list, high_list], axis = 0)))
-					traitdataset[term] = numpy.nanmean([low_list, high_list], axis = 0)
+					traitdataset[term] = numpy.nanmean([low_list, high_list], axis = 0) # Ignoring min and max fields, we then take a column-wise mean of the single high and low columns
 				except Exception as e:
 					print(e)
 					low_list = traitdataset[na_rm_list(synonyms['Low'].tolist())].apply(pandas.to_numeric, errors='coerce').to_numpy()
@@ -317,7 +317,7 @@ for i in accepted_categorical_fields:
 for i in accepted_quantitative_fields:
 	traitdataset[i] = traitdataset[i].apply(numcleaner)
 
-# Format meristic columns
+# Format meristic columns, note they take a further data type step compared to quantitative
 for i in accepted_meristic_fields:
 	traitdataset[i] = traitdataset[i].apply(numcleaner) # Take midpoint of range, if a list of ranges, will be a list of the midpoints of each
 	traitdataset[i] = traitdataset[i].apply(integerify) # Make sure count is integer (average)
