@@ -1,0 +1,8 @@
+leaf_part_base_surface
+glabrous,0
+hirsute,1
+hispid,2
+nan,3
+pubescent,4
+surface,5
+villose,6

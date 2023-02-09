@@ -1,0 +1,14 @@
+leaf_part_margin_shape
+arcuate,0
+aristate,1
+emarginate,2
+fused,3
+incised,4
+incurved,5
+nan,6
+oblique-rhomboid,7
+orbicular,8
+ovate-triangular,9
+recurved,10
+straight,11
+subincurved,12

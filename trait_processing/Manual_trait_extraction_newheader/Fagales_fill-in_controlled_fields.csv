@@ -1,0 +1,215 @@
+﻿taxon,tree_size.1.height_low,tree_size.1.height_high,leaf_duration.1.duration,leaf_count.1.low,leaf_count.1.high,leaf_shape.1.shape,leaf_count.1.location,leaf_color.1.color,leaf_surface.1.surface,leaf_apex_shape.1.shape,leaf_base_shape.1.shape,leaf_margin.1.margin,leaf_venation.1.venation,article_surface.1,article_shape.1,phyllichnia_shape.1,article_length.1.low,article_length.1.high,article_width.1.low,article_width.1.high,branch_shape.1.shape,branch_size.1.length_low,branch_size.1.length_high,leaf_size.1.length_low,leaf_size.1.length_high,leaf_size.1.width_low,leaf_size.1.width_high,leaflet_shape.1.shape,leaflet_size.1.length_low,leaflet_size.1.length_high,leaflet_size.1.width_low,leaflet_size.1.width_high,leaflet_count.1.low,leaflet_count.1.high,inflorescence_shape.1.shape,inflorescence_size.1.length_low,inflorescence_size.1.length_high,inflorescence_size.1.width_low,inflorescence_size.1.width_high,infructescence_shape.1.shape,infructescence_peduncle_size.1.length_low,infructescence_peduncle_size.1.length_high,infructescence_surface.1.surface,infructescence_size.1.location,infructescence_size.1.length_low,infructescence_size.1.length_high,infructescence_size.1.width_low,infructescence_size.1.width_high
+Allocasuarina acuaria,1,3,,4,,,"erect, spreading, recurved",,,,,,,pubescent when young,,"rounded,broad median groove",0.15,0.3,0.06,0.09,ascending,1.5,3,,,,,,,,,,0,,,1,4,,,,,,,,1.5,3.5,1.5,2.8
+Allocasuarina acutivalvis,3,8,,10,14,,erect,,,,,,,,,"flat, slightly verruculose",0.1,0.25,0.07,0.12,ascending,20,,,,,,,,,,,0,,,1,8,,,,,,,,1.5,1.9,1.3,1.8
+Allocasuarina brachystachya,3,,,5,7,,erect,,,,,,,usually minutely pubescent in furrows,,often median groove,0.2,0.5,0.04,0.07,ascending,7,,0.2,0.5,,,,,,,,0,,,0.5,1.7,,,,,,,,0.7,1.4,0.5,0.8
+Allocasuarina campestris,1,3,deciduous,7,9,,erect,,,,,,,"smooth, often pubescent in furrows,rounded,flat,small ridge",,,0.6,1.3,0.06,0.12,ascending,20,,0.3,1.2,,,,,,,,0,,,0.04,2.8,,,,,,,,1.9,4.2,1,1.7
+Allocasuarina corniculata,2,3,,8,10,,"erect,slightly spreading",,,,,,,"smooth, glabrous",,"flat,slightly rounded",0.6,1.1,0.09,1.4,ascending,26,,0.3,0.6,,,,,,,,0,,,0.5,2,,,,,,,,0.8,1.5,0.7,0.9
+Allocasuarina crassa,1,2,persistent,7,10,,"spreading,slightly recurved",,,,,,,"smooth, with densely pubescent furrows",,strongly rounded,1,2,0.12,0.2,"spreading,ascending",17,,1.1,3,,,,,,,,0,,,2,,,,,,,,,1.5,3.4,1.2,2.5
+Allocasuarina decaisneana,10,16,,4,,,usually erect,,,,,,,pubescent becoming glabrous,,"flat,broad shallow median groove",2,6,0.07,0.15,drooping,40,,1.7,3.2,,,,,,,,0,,,2,4,,,,,,,,2.8,9.5,2,3.5
+Allocasuarina decussata,1,15,,4,,,erect,,,,,,,occasionally finely pubescent when young,quadrangular,sharply angular,0.3,0.7,0.06,0.08,ascending,14,,0.6,1,,,,,,,,0,,,1,3.5,,,,,,,,1,2,1.5,2.4
+Allocasuarina defungens,0.5,2,deciduous,5,7,,erect,,,,,,,"smooth, glabrous",,rounded,0.6,0.8,0.05,0.06,ascending,12,,0.2,0.5,,,,,,,,0,,,0.4,1,,,,,,,,0.8,1.1,0.5,0.7
+Allocasuarina dielsiana,4,9,deciduous,6,8,,slightly spreading,,,,,,,"smooth, glabrous",,angular,0.6,1,0.08,0.1,ascending,20,,0.5,0.7,,,,,,,,0,,,0.5,0.6,,,,,,,,1.4,3,1.2,1.7
+Allocasuarina diminuta,1,5,persistent,6,9,,"erect,spreading",,,,,,,"often glaucous, glabrous",terete,"rounded,angular",0.5,1.2,0.06,0.11,ascending,23,,0.3,0.8,,,,,,,,0,,,0.5,5,,,,,,,,0.5,2,0.5,1.2
+Allocasuarina distyla,1,3,"persistent,deciduous",6,8,,erect,,,,,,,"occasionally glaucous, pubescent in furrows",,"angular,rounded,occasionally sparsely and minutely pubescent",1,2,0.08,0.15,ascending,35,,0.5,1.2,,,,,,,,0,,,1.5,5,,,,,,,,1.3,3.5,1.1,2.2
+Allocasuarina drummondiana,0.5,3,persistent,6,7,,"erect,apex slightly spreading",,,,,,,"smooth, pubescent in furrows","terete,angular","angular,rounded,central ridge",0.12,0.25,0.09,0.12,,2,,0.5,0.9,,,,,,,,0,,,0.4,1,,,,,,,,0.8,1.5,0.7,0.8
+Allocasuarina duncanii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Allocasuarina emuina,0.5,1.5,persistent,6,7,,"erect,slightly spreading",not overlapping,,,,,,"smooth, pubescent in furrows",,angular to rounded,0.4,0.8,0.05,0.09,ascending,12,,0.3,0.7,,,,,,,,0,,,1,3,,,,,,,,1.2,2.8,0.6,1.5
+Allocasuarina eriochlamys,1,3,deciduous,8,10,,"erect,slightly spreading",,,,,,,"smooth, often pubescent in furrows",,"flat,slightly rounded",0.5,1.8,0.05,0.11,ascending,23,,0.3,1,,,,,,,,0,,,1,3.5,,,,,,,,2,4.5,1.3,2.1
+Allocasuarina fibrosa,0.5,1.5,,4,,,erect,with broad whitish translucent margins at least towards apex,,,,,,glabrous,terete,,0.8,1.6,,,,2,5,1.5,2,,,,,,,,0,,,0.4,0.7,,,,,,,,1.1,2.5,0.9,1.1
+Allocasuarina filidens,1.5,3,"persistent,deciduous",5,6,,"spreading,recurved",,,,,,,"smooth, when young with hairs protruding up to 2 mm from furrows but becoming glabrous",,"angular,median ridge",1.2,1.5,0.05,0.08,ascending,20,,1.5,2,,,,,,,,0,,,,,,,,,,,,1.4,3,1.1,1.8
+Allocasuarina fraseriana,5,15,,6,8,,somewhat spreading,,,,,,,occasionally strongly glaucous,,"rounded,verruculose,smooth",0.7,1.5,0.08,0.13,ascending,30,,0.7,1.2,,,,,,,,0,,,3,8,,,,,,,,1.5,4,1.5,2.2
+Allocasuarina glareicola,1,2,persistent,5,7,,"erect,slightly spreading",,,,,,,"smooth, glabrous",,rounded,0.5,1.1,0.05,0.07,ascending,20,,0.2,0.5,,,,,,,,0,,,0.2,2.5,,,,,,,,1,1.3,0.7,0.8
+Allocasuarina globosa,1.5,,deciduous,10,12,,"erect,slightly spreading",,,,,,,"smooth, shortly pubescent in furrows",,slightly rounded,1.7,2.8,0.09,0.12,ascending,12,,0.6,1,,,,,,,,0,,,,,,,subglobose,0,,tessellated,,1.5,1.7,1.3,1.5
+Allocasuarina grampiana,1.5,4,persistent,6,7,,"erect,rarely slightly spreading",,,,,,,"smooth, glabrous, with a waxy bloom",,angular to rounded,0.5,1.2,0.07,0.1,ascending,15,,0.4,0.8,,,,,,,,0,,,1,4,,,long-cylindrical,2,6,,,1.3,3.5,0.7,0.9
+Allocasuarina grevilleoides,0.15,0.3,deciduous,4,,,"erect,slightly spreading",,,,,,,often pubescent when young,"terete,subquadrangular","flat,broad shallow median groove",1,2.4,0.05,0.08,ascending,1,3,0.3,0.6,,,,,,,,0,,,0.2,0.5,,,"inconspicuous, ovoid, irregular",0,,"densely and minutely pubescent, glabrous",,0.9,1.4,0.6,0.9
+Allocasuarina gymnanthera,2,5,persistent,6,8,,erect,,,,,,,"smooth, mostly with pubescent furrows",,"slightly rounded, often sparsely and minutely pubescent",0.5,1.2,0.05,0.1,ascending,20,,0.4,0.7,,,,,,,,0,,,2.5,6,,,usually long-cylindrical,3,8,often sparsely pubescent,,1.4,4,0.9,1.2
+Allocasuarina helmsii,1,5,persistent,5,6,,erect,,,,,,,"smooth, glabrous",,"flat,slightly rounded,faint median groove",0.3,0.7,0.07,0.09,erect,16,,0.3,0.5,,,,,,,,0,,,0.5,2.5,,,long-cylindrical,0,4,"tessellated, shortly white-pubescent, ferruginous-pubescent",,1.5,3.3,0.8,1.3
+Allocasuarina huegeliana,4,10,,8,10,,,,,,,,,,,,0.8,1.3,0.08,0.09,"drooping,ascending",,,0.5,0.7,,,,,,,,0,,,2,10,,, ,3,5,,,1.4,3.5,1,1.4
+Allocasuarina humilis,0.2,2,persistent,5,7,,erect,,,,,,,"smooth, sometimes waxy, glabrous,finely pubescent in furrows",terete,"angular,markedly rounded,minutely serrate median ridge",0.3,0.6,0.08,0.12,"erect,spreading",12,,0.4,0.5,,,,,,,,0,,,1.6,1.8,,,"cylindrical, slightly longer than broad",0,,tessellated,,1.2,2.2,1,1.7
+Allocasuarina hystricosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Allocasuarina inophloia,3,10,,7,9,,erect,,,,,,,glabrous,,"slightly rounded,verruculose median ridge",0.4,0.7,0.05,0.06,"drooping,ascending",21,,0.3,0.5,,,,,,,,0,,,2,4,,,cylindrical ,3,8,densely pubescent,,1,2,0.9,1.2
+Allocasuarina lehmanniana,1.5,4,persistent,7,8,,,,,,,,,occasionally glaucous,,"rounded,angular",0.5,0.9,0.07,0.12,,,,0.4,0.8,,,,,,,,0,,,1,3,,, ,2,38,,,1.2,3.5,0.7,1.2
+Allocasuarina littoralis,5,15,persistent,6,8,,"erect,rarely spreading",,,,,,,"smooth, pubescent in furrows",,"angular,rounded,median ridge",0.4,1,0.04,0.1,"ascending,drooping",20,,0.3,0.9,,,,,,,,0,,,0.5,5,,,"cylindrical, rarely broader than long",4,23,pubescent at least when young,,1,3,0.8,2.1
+Allocasuarina luehmannii,5,15,,10,14,,erect,,,,,,,finely pubescent especially in furrows when immature,,"flat,slightly rounded, verruculose",0.8,2.2,0.1,0.2,ascending,40,,0.5,1,,,,,,,,0,,,1.5,4.5,,,"very shortly cylindrical, broader than long",0,5,pubescent at least when young,,0.5,1.2,0.8,1.4
+Allocasuarina mackliniana,0.5,3,deciduous,7,10,,"recurved,spreading",,,,,,,"smooth, pubescent in furrows,glabrous in furrows",,slightly rounded,0.7,1.7,0.08,0.14,ascending,20,,0.7,2,,,,,,,,0,,,1,4,,,"cylindrical, occasionally broader than long",0,3,,,1.2,2.2,0.8,1.4
+Allocasuarina media,1,3,persistent,6,8,,"erect,slightly spreading",,,,,,,mostly glabrous in furrows,terete,rounded to angular,0.5,1.2,0.05,0.08,ascending,19,,0.3,0.8,,,,,,,,0,,,1,4.5,,,cylindrical,0,12,,,1.4,2.7,0.8,1.5
+Allocasuarina microstachya,0.1,1,,4,,,erect but apex eventually spreading,,,,,,,,"quadrangular, smooth on faces, verruculose on angles with furrows often becoming open and obvious","angular,very finely verruculose on angle,serrate on angle",0.2,0.6,0.06,0.08,,5,,0.4,1.3,,,,,,,,0,,,0.15,0.3,,,"shortly cylindrical,ovoid, irregular",0,,,,0.8,1.2,0.5,1
+Allocasuarina misera,0.5,2,"persistent,deciduous",5,7,,"erect,appressed,occasionally spreading",,,,,,,"smooth, usually glabrous in furrows",,"rounded,nearly flat",0.4,1,0.03,0.08,ascending,10,,0.3,0.8,,,,,,,,0,,,0.5,1.5,,,cylindrical,0,5,,,0.9,1.6,0.7,1.3
+Allocasuarina monilifera,1.5,4,persistent,6,9,,"erect,appressed,slightly spreading",,,,,,,at least slightly waxy,,"strongly,slightly rounded",0.6,1.1,0.06,0.12,,,,,,,,,,,,,0,,,1,3.5,,, ,2,10,,,1.5,3,0.8,1.4
+Allocasuarina muelleriana,0.5,3,persistent,5,8,,erect,,,,,,,"often somewhat verruculose, often waxy, often pubescent in furrows","angular,terete, often somewhat verruculose","strongly angular,white central rib, often minutely serrate",0,16,,,,3,0.9,1.8,,,,,,,,,,,,,,,,,,,,,,,,
+Allocasuarina nana,0.2,2,,5,6,,erect,,,,,,,pubescent furrows,,slightly rounded,0.5,0.6,0.05,0.08,ascending,8,,0.3,0.6,,,,,,,,0,,,0.5,1,,,"cylindrical,barrel-shaped",0,3,,,1.4,2.4,1,1.5
+Allocasuarina ophiolitica,1,3,persistent,7,9,,"erect,slightly spreading",,,,,,,,,rounded to angular,0.7,1.4,0.06,0.1,,19,,0.5,1.3,,,,,,,,0,,,1,2.5,,, ,3,15,,,0.9,2,0.7,1.2
+Allocasuarina paludosa,0.3,3,deciduous,6,8,,"erect,spreading",,,,,,,"smooth, usually densely pubescent in furrows",,"flat,slightly rounded,median groove",0.5,1.4,0.07,0.1,"ascending,curved",20,,0.5,0.9,,,,,,,,0,,,1,2.5,,,"cylindrical,ovoid",0,2,,,1,1.8,0.7,1.3
+Allocasuarina paradoxa,0.5,2,deciduous,7,11,,"spreading,recurved",,,,,,,"smooth, glabrous",,rounded,0.6,1.4,0.06,0.12,ascending,15,,0.3,2,,,,,,,,0,,,1,3,,,"cylindrical, sessile,on ",3,,,,1.3,2.5,0.7,1.3
+Allocasuarina pinaster,1,3,,4,,,erect,,,,,,,"quadrangular, usually pubescent",,"flat,shallow median groove",2,5,0.1,0.12,,2,6,4.5,5,,,,,,,,0,,,0.5,1,,,,0,5,,,1.4,2.5,1.2,1.6
+Allocasuarina portuensis,3,5,deciduous,7,8,,"spreading,recurved",,,,,,,"terete, usually glaucous, glabrous",,"rounded,sometimes angular",1.3,2,0.08,0.1,"drooping,spreading",27,,0.7,1.1,,,,,,,,0,,,5,10,,,cylindrical,2,15,,,1.2,2.5,0.8,1
+Allocasuarina pusilla,0.2,2,persistent,5,7,,erect,,,,,,,"smooth, glabrous, usually glaucous",,"flat,slightly rounded, with faint median groove",0.3,0.9,0.04,0.1,"ascending,spreading",12,,0.3,0.5,,,,,,,,0,,,0.3,2,,,"subglobose,shortly cylindrical, occasionally as broad as long",0,,,,1,1.5,0.8,1.1
+Allocasuarina ramosissima,1,,deciduous,5,,,"ascending,spreading",dark brown with broad white erose margins,,,,,,"terete to subangular, glabrous,pubescent",,"rounded,lacking median groove",0.6,2,0.06,0.1,"ascending,verticillate",1,6,0.6,1.3,,,,,,,,0,,,0.15,0.2,,,"ovoid,cylindrical, sessile,on ",0,,short coarse hairs,,0.9,1.3,0.7,0.9
+Allocasuarina rigida,0.5,4,deciduous,7,10,,"spreading,recurved,erect",,,,,,,"smooth, usually glabrous",,"angular to sometimes rounded,median ridge",1,2.5,0.07,0.15,ascending,33,,0.4,1.3,,,,,,,,0,,,1,7,,,"cylindrical,ovoid",2,9,pubescent,,0.8,2.7,0.7,1.4
+Allocasuarina robusta,0.2,3,persistent,5,7,,"suberect,spreading",,,,,,,"smooth, glabrous",,"rounded,slightly rounded",0.7,1.4,0.07,0.11,ascending,20,,0.6,1,,,,,,,,0,,,0.5,4.5,,,"cylindrical, often irregular",0,3,sparsely pubescent,,1.2,2,0.7,1.2
+Allocasuarina rupicola,1,3,persistent,7,8,,"erect,slightly spreading when old",,,,,,,,,,0.8,1.1,0.07,0.09,,18,,0.2,0.6,,,,,,,,0,,,1,2.5,,,shortly cylindrical; ,2,14,,,0.6,1.9,0.6,1
+Allocasuarina scleroclada,1,3,deciduous,10,11,,erect,,,,,,,"smooth, occasionally pubescent in furrows",,flat to slightly rounded,2,5.2,0.1,0.15,"spreading,drooping",23,,1.3,2.7,,,,,,,,0,,,0.6,1.6,,,subcylindrical,0,,"glabrous,scattered hairs",,1.8,2.5,1.3,1.9
+Allocasuarina simulans,,,,6,,,,,,,,,,"pubescent furrows,glabrous furrows",,rounded to angular,1.3,2.2,0.09,0.13,,19,,0.5,1.1,,,,,,,,0,,,1.5,4.5,,,irregular,3,14,,,1.4,3.3,0.9,1.2
+Allocasuarina spinosissima,2,4,,9,11,,erect,,,,,,,verruculose,,,0.8,1.3,0.1,0.18,,,,0.5,1,,,,,,,,0,,,1.5,3,,,"ovoid,cylindrical",0,6,,,1,2.3,0.8,1.2
+Allocasuarina striata,1,4,persistent,5,7,,erect,,,,,,,"smooth, usually glabrous, often with a waxy bloom",,rounded occasionally only slightly so,0.8,2,0.08,0.14,ascending,10,,0.6,1.8,,,,,,,,0,,,1,3,,,cylindrical,3,12,,,1.6,3.3,1,1.3
+Allocasuarina tessellata,3,5,,8,9,,,,,,,,,glabrous,,rounded,0.7,1.4,0.07,0.1,ascending,,,,,,,,,,,,0,,,2,4,,,,7,13,,,2.6,5.5,1.4,1.8
+Allocasuarina thalassoscopica,1,,"persistent,deciduous",,,,erect,,,,,,,,,angular,0.7,1.2,0.07,0.08,,,,0.3,0.6,,,,,,,,0,,,0.5,4.5,,, ,8,14,,,1,2.6,0.9,1.5
+Allocasuarina thuyoides,0.3,2,,5,6,,erect,,,,,,,glabrous,,"slightly rounded,flat, faint median groove",0.1,0.3,0.04,0.06,,3,,0.3,0.5,,,,,,,,0,,,0.1,0.5,,,"shortly cylindrical,globose, as long as broad",2,7,spiny,,0.8,2,0.8,1.5
+Allocasuarina tortiramula,1.7,,deciduous,7,,,"spreading,erect",,,,,,,"smooth, glabrous,shortly pubescent in furrows",,"rounded,median groove",0.6,1,0.08,0.1,"spreading,twisted",10,,0.5,0.8,,,,,,,,0,,,0.5,0.9,,,cylindrical,0,,,,1,1.5,1,
+Allocasuarina torulosa,5,20,,4,5,,erect,,,,,,,"terete, quadrangular on young growth, minutely pubescent in furrows",,slightly rounded,0.5,0.6,0.04,0.05,drooping,14,,0.3,0.8,,,,,,,,0,,,0.5,3,,,"shortly cylindrical,barrel-shaped",8,30,"warty, occasionally densely pubescent","pendent,spreading",1.5,3.3,1.2,2.5
+Allocasuarina trichodon,0.5,3,,8,10,,spreading,,,,,,,glabrous,,"markedly angular,median ridge",0.9,1.5,0.09,0.1,ascending,30,,1.8,3.5,,,,,,,,0,,,3,8,,,"cylindrical,barrel-shaped",0,,pubescent,,1.5,5,1.4,2
+Allocasuarina verticillata,4,10,,9,13,,spreading,,,,,,,mostly densely pubescent in furrows,,"slightly rounded,verruculose ridge",1.5,4,0.07,0.15,drooping,40,,0.7,1.2,,,,,,,,0,,,0.3,1.2,,,"cylindrical,barrel-shaped",0,10,,,2,5,1.7,3
+Allocasuarina zephyrea,0.5,2,persistent,7,9,,"spreading,erect",,,,,,,occasionally slightly glaucous,,"angular,rounded",0.4,1.5,0.06,0.13,,19,,0.4,1.2,,,,,,,,0,,,1,3.5,,, ,2,15,,,1,2.5,0.6,1.1
+Alnus acuminata,25,,deciduous,,,ovate to elliptic,,,"glabrous, pubescent","long-acuminate,acute,obtuse,rounded",,"slightly revolute,serrate,serrulate",10–16 lateral veins on each side of the midvein,,,,,,,,,,,3.5,9.5,3.5,9,,,,,,0,,"Staminate inflorescences catkin-like, pistillate inflorescences in racemes of two to four, pedunculate, globose to oblong",3.5,15,,,,,,,,1.5,3,0.15,0.32
+Alnus alnobetula,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Alnus cordata,25,,deciduous,,,roundish to broadly ovate,,"upper surface dark lustrous green, lower surface paler","glabrous, tufts of brownish down","shortly pointed,rounded",usually deeply notched,"finely toothed, simply toothed",,,,,,,,,,,,3.8,10,2.8,10,,,,,,0,,,5,7.6,,,egg-shaped,,,,erect,2.5,3.2,1.6,1.9
+Alnus elliptica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Alnus fauriei,7,,deciduous,,,,,"bright yellow-green, lower surface pale green","glabrous, glossy, dense tufts of brown hair","rounded,emarginate",,doubly serrated,six to seven lateral veins on each side of the midvein,,,,,,,,,,,5,12,4,11,,,,,,0,,Staminate inflorescences catkin-like,6.5,22,,,,,,woody,,2.5,4,0.6,0.8
+Alnus firma,10,,deciduous,,,ovate-oblong to ovate-lanceolate,,,downy,slender-pointed,"rounded,wedge-shaped","finely toothed,doubly toothed",with many parallel veins,,,,,,,,,,,5,11.5,2.5,5,,,,,,0,,,5,7.5,,,Oval,,,,,1,2.5,,
+Alnus jorullensis,25,,deciduous,,,obovate to elliptic,,,leathery,mostly rounded ,cuneate,doubly serrated,,,,,,,,,,,,5,12.7,3.8,5.7,,,,,,0,,,,,,,,,,,,,,,
+Alnus matsumurae,17,,deciduous,,,obovate,,"upper surface dull green, lower surface white","glabrous,sparsely pubescent, tufts of hair",,,deeply serrate,seven to nine lateral veins on each side of the midvein,,,,,,,,,,,5,9,4.5,7,,,,,,0,,,4,8,,,,,,woody,,1.3,1.7,1,1.2
+Alnus maximowiczii,10,,deciduous,,,broadly ovate,,,"hairy,glabrous,tufts of down",pointed,"rounded,slightly heart-shaped",fringe-toothed,"veins in eight to eleven pairs, bright green on both surfaces",,,,,,,,,,,5,10,3.8,7.6,,,,,,0,,,5,,,,"egg-shaped,cylindrical",,,,,1.5,1.9,,
+Alnus mayrii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Alnus nitida,33,,deciduous,,,ovate to oval,,"shining-green above, pale beneath","glabrous,tufts of down, thin-textured",slender-pointed,"rounded,broadly wedge-shaped","coarsely toothed, almost entire",,,,,,,,,,,,7.6,15.2,5,7.6,,,,,,0,,pendulous,10,15.2,0.6,,oblong,,,,erect,1.9,3.2,,
+Alnus orientalis,15,,deciduous,,,ovate to oval,,glossy green above,"glabrous,tufts of down",,"rounded,broadly wedge-shaped,slightly heart-shaped","coarsely toothed,irregularly toothed",,,,,,,,,,,,6.3,10,2.5,6.3,,,,,,0,,Male catkins glutinous when young,,,,,egg-shaped,,,,,1.9,2.5,1.3,1.9
+Alnus pendula,3,8,deciduous,,,narrowly ovate to broadly lanceolate,appressed,"upper surface green and not glossy, lower surface pale green",silky hairs,long-acuminate,,doubly serrated,20–26 lateral veins on each side of the midvein,,,,,,,,,,,4.5,12,2.2,4.5,,,,,,0,,catkin-like,5,12,,,,,,woody,,1.2,1.6,0.8,1.2
+Alnus pubescens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Alnus serrulatoides,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Alnus sieboldiana,12,,deciduous,,,ovate to deltoid,,"upper surface green, lower surface pale green with appressed pubescence on veins",,,"apex acute,shortly acuminate",,12–15 lateral veins on each side of the midvein,,,,,,,,,,,6,10,3,6,,,,,,0,,catkin-like,4.5,9,,,,,,,,2.5,3,1.5,2
+Alnus subcordata,20,,deciduous,,,"ovate,oval",,"dark green above, paler beneath","glabrous, downy",short abrupt point,"rounded,slightly heart-shaped","irregularly toothed, often doubly toothed",primary veins in eight to ten pairs,,,,,,,,,,,7.6,15.2,5,10,,,,,,0,,catkin,15,,,,,,,,nodding,1.9,2.5,,
+Betula alpestris,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula aurata,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula bomiensis,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula caerulea,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula corylifolia,20,23,deciduous,,,"ovate-elliptical, often inclined to obovate",,,"glabrous, slightly glaucous,silky-hairy",pointed,"truncate,widely tapered","coarsely toothed,triangularly toothed,doubly toothed",veins in ten to thirteen pairs,,,,,,,,,,,3.8,7.6,2.5,5,,,,,,0,,catkin,5,,1.5,,,,,,,,,,
+Betula divaricata,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula dutillyi,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula eastwoodiae,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula globispica,21,,deciduous,,,broad ovate,,,downy,abruptly tapered,"wedge-shaped,rounded base","sharply toothed,coarsely toothed",with eight to ten pairs of veins,,,,,,,,,,,4.4,7,,,,,,,,0,,ovoid to globose,2.5,3.8,,,,,,,,,,,
+Betula grossa,15,20,deciduous,,,"ovate-oblong, mostly heart-shaped",,,,slenderly pointed,often unequal,irregularly toothed,,,,,,,,,,,,5,10,2.5,5,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula jarmolenkoana,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula lanata,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula litwinowii,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula maximowicziana,25,30,deciduous,,,heart-shaped,,,,pointed,,,,,,,,,,,,,,7.5,15,5.5,11,,,,,,0,,catkin,10,12,,,,,,,,,,,
+Betula medwediewii,4.5,,deciduous,,,ovate to roundish,,,,,,,,,,,,,,,,,,5,10,2.5,7.5,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula obscura,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula pamirica,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula piperi,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula purpusii,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula raddeana,,,deciduous,,,broadly ovate,,,,pointed,"rounded,slightly heart-shaped,broadly wedge-shaped","coarsely toothed,unequally toothed",,,,,,,,,,,,4,5,2.5,3,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula raymundii,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula sandbergii,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula sargentii,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula szechuanica,20,,deciduous,,,triangular-ovate to rhombic-ovate,,,,,"rounded,cuneate",,,,,,,,,,,,,4.5,8,3,5.5,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula turkestanica,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula utahensis,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Betula winteri,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Canacomyrica monticola,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carpinus betulus,15,25,deciduous,,,"oval,ovate",,,,,,,,,,,,,,,,,,3.8,9,2.5,5,,,,,,0,,,3.8,,,,"ovate, ribbed",,,,,0.6,,0.6,
+Carpinus japonica,12,15,deciduous,,,"ovate, inclined to oblong",,,,"long,taper-pointed","mostly heart-shaped at the but sometimes rounded,wedge-shaped",,,,,,,,,,,,,5,11,2,4.5,,,,,,0,,narrowly ovate,2.5,5,,,,,,,,,,,
+Carpinus laxiflora,14,15,deciduous,,,ovate to oval,,,,"abruptly narrowed,slender","rounded,slightly heart-shaped",,,,,,,,,,,,,3.8,9,2.5,3.8,,,,,,0,,,,,,,,,,,,,,,
+Carpinus orientalis,,,deciduous,,,ovate,,,,pointed,"rounded,slightly wedge-shaped",,,,,,,,,,,,,2.5,5,1.2,2.5,,,,,,0,,,1.2,2,,,,,,,,,,,
+Carpinus tropicalis,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Carya alba,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carya carolinae-septentrionalis,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carya palmeri,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carya sinensis,30,,deciduous,,,,,,,,,,,,,,,,,,,,,13,30,,,"ovate-lanceolate,elliptical",25,30,7,10,7,,,,,,,,,,,,,,,
+Castanea neglecta,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanea sativa,30,,deciduous,,,oblong,,,,"narrowed, pointed","rounded, slightly heart-shaped,tapered",,,,,,,,,,,,,12.7,23,5,9,,,,,,0,,,3.8,5,,,globose,,,very prickly,,,,,
+Castanopsis acuminatissima,10,36,persistent,,,widest at or below the middle,"acute,sometimes decurrent",,,,"rounded,attenuate",,,,,,,,,,,,,4.5,17,2.5,6,,,,,,0,,rachis,5,10,,,,,,,,10,15,,
+Castanopsis annamensis,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis argentea,15,30,persistent,,,widest at the middle,,,,,,,,,,,,,,,,,,13,16,5,7,,,,,,0,,rachis,15,25,0.2,0.3,,,,,,,,,
+Castanopsis armata,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis borneensis,10,33,persistent,,,widest at the middle to slightly below,,,,abruptly acuminate,"rounded,acute",,,,,,,,,,,,,5,13,2,4,,,,,,0,,rachis,10,15,0.1,0.2,,,,,,,,,
+Castanopsis brevispinula,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis buruana,20,,persistent,,,"elliptic-lanceolate, rarely ovate-elliptic",,,,,,,,,,,,,,,,,,10,15,4,5,,,,,,0,,rachis,10,15,,,,,,,,,,,
+Castanopsis chevalieri,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis clemensii,10,30,persistent,,,widest mostly below to rarely above the middle,,,,"rounded,subacuminate","rounded,subcordate",,,,,,,,,,,,,6,12,2,6,,,,,,0,,rachis,,,,,,,,,,,,,
+Castanopsis curtisii,20,,persistent,,,"lanceolate,elliptic-oblong",,,,,,entire,,,,,,,,,,,,6,13,2,5,,,,,,0,,,,,,,"pear-shaped,reniform",,,,,3,,2,
+Castanopsis cuspidata,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis densinervia,12,36,persistent,,,widest mostly below the middle to rarely above,,,,"rounded,subacuminate","rounded,subcordate,sometimes acute, occasionally asymmetrical",,,,,,,,,,,,,6,17,3,8,,,,,,0,,rachis,3,7,0.3,0.4,,,,,,5,10,0.4,5
+Castanopsis diversifolia,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis dongchoensis,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis endertii,15,20,persistent,,,elliptic-oblong,,,,,,,,,,,,,,,,,,10,15,5,6,,,,,,0,,rachis,10,12,0.1,0.2,rachis,,,,,15,20,0.1,0.2
+Castanopsis evansii,5,24,persistent,,,widest about the middle,,,,"abruptly acute,bluntly acute","tapering,rarely rounded, rarely abruptly acute",,,,,,,,,,,,,10,17,3.5,5.5,,,,,,0,,rachis,10,15,0.1,0.2,,,,,,10,,,
+Castanopsis faberi,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis formosana,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis foxworthyi,5,15,persistent,,,"widest about the middle",,,,"somewhat rounded,acutish,abruptly acuminate","attenuate,rounded-acute",,,,,,,,,,,,,8,22.5,4,8,,,,,,0,,rachis,10,15,,,,,,,,,,,
+Castanopsis fulva,18,24,persistent,,,widest at the middle to sometimes above,,,,"sharply acute,acuminate","rounded,abruptly acute",,,,,,,,,,,,,9,17,3,6.5,,,,,,0,,rachis,10,20,,,,,,,,,,,
+Castanopsis hypophoenicea,12,30,persistent,,,elliptic-oblong,,,,,,,,,,,,,,,,,,10,15,4,5,,,,,,0,,rachis,5,10,,,,,,,,,,,
+Castanopsis inermis,10,30,persistent,,,widest slightly below to slightly above the middle decurrent,,,,acute,"rounded,acute",,,,,,,,,,,,,10,15,4,7.5,,,,,,0,,rachis,10,15,0.1,,rachis,,,,,,,,
+Castanopsis javanica,10,40,persistent,,,widest about the middle to slightly lower higher,,,,"bluntly acute,acuminate","attenuate-acute,rarely rounded-acute",,,,,,,,,,,,,10,13,3,6,,,,,,0,,rachis,10,15,,,,,,,,,,,
+Castanopsis lanceifolia,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis lecomtei,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis longipetiolata,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis lucida,12,20,persistent,,,widest about the middle,,,,"rounded,acutish","rounded,attenuate-acute",,,,,,,,,,,,,16,20,8,10,,,,,,0,,rachis,10,20,,,,,,,,,,,
+Castanopsis megacarpa,12,36,persistent,,,"lanceolate-oblong,elliptic-oblong",,,,,,,,,,,,,,,,,,10,25,3,10,,,,,,0,,rachis,10,20,,,,,,,,,,,
+Castanopsis microphylla,20,30,persistent,,,widest at the middle to slightly below,,,,acuminate,"attenuate-acute,seldom nearly rounded",,,,,,,,,,,,,5,9,1.5,3,,,,,,0,,rachis,5,10,0.1,,,,,,,,,,
+Castanopsis motleyana,10,40,persistent,,,widest at the middle to sometimes above,,,,acute,attenuate-acute,,,,,,,,,,,,,15,23,7,10,,,,,,0,,rachis,10,20,0.2,0.3,rachis,,,,,10,20,0.3,0.5
+Castanopsis namdinhensis,,,persistent,,,,,,,acuminate,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis neocavaleriei,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis nephelioides,10,20,persistent,,,"ovate-elliptic,ovate-lanceolate",,,,,,,,,,,,,,,,,,8,15,3,6,,,,,,0,,rachis,10,20,,,,,,,,10,,,
+Castanopsis oligoneura,10,25,persistent,,,widest at the middle,,,,,"attenuate, acute, top acuminate,sub-acuminate",,,,,,,,,,,,,7,15,3,6,,,,,,0,,rachis,10,20,0.15,0.2,,,,,,,,,
+Castanopsis oviformis,15,30,persistent,,,widest somewhat below to somewhat above the middle,,,,"rounded,abruptly acuminate","rounded,acute",,,,,,,,,,,,,6,15,4,5.5,,,,,,0,,rachis,5,15,0.1,0.15,,,,,,,,,
+Castanopsis paucispina,12,30,persistent,,,widest below the middle to sometimes about the middle,,,,attenuate,"rounded,acute",,,,,,,,,,,,,8,14,3,5.5,,,,,,0,,rachis,5,10,0.1,0.15,,,,,,,,,
+Castanopsis pedunculata,18,,persistent,,,elliptic-oblong,,,,,,,,,,,,,,,,,,8,16,2,2.5,,,,,,0,,,,,,,rachis,,,,,18,,0.5,
+Castanopsis philipensis,6,28,persistent,,,widest below the middle to rarely above,slightly decurrent,,,"gradually tapering, acuminate","acute,rarely rounded",,,,,,,,,,,,,6,16,2,5,,,,,,0,,rachis,10,25,,,,,,,,,,,
+Castanopsis pierrei,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis piriformis,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis psilophylla,10,27,persistent,,,"widest about the middle, sometimes below",slightly decurrent,,,"acute,sharply acuminate","rounded,acute",,,,,,,,,,,,,10,,3.5,,,,,,,0,,rachis,5,15,0.1,0.2,rachis,,,,,20,,,
+Castanopsis purpurea,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis rhamnifolia,10,25,persistent,,,ovate-elliptic,,,,,,,,,,,,,,,,,,8,10,3,4,,,,,,0,,rachis,5,10,0.1,0.2,rachis,,,,,5,,1,2
+Castanopsis schefferiana,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis sieboldii,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis touranensis,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Castanopsis tungurrut,20,25,persistent,,,widest about the widest at the middle to sometimes below,,,,"acute,tapering,subacuminate","rounded,acute",,,,,,,,,,,,,12,15,5,6,,,,,,0,,rachis,10,25,0.1,0.2,rachis,,,,,,,,
+Castanopsis wallichii,12,15,persistent,,,,,,,,,,,,,,,,,,,,,3.5,9,1,3.5,,,,,,0,,rachis,5,10,0.1,0.2,,,,,,,,,
+Casuarina collina,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Casuarina cristata,10,20,deciduous,8,12,,erect,,"somewhat glaucous, occasionally sparsely pubescent",,,,,slightly wrinkled,,"flat,slight median groove",0.8,1.7,0.5,0.7,,,,,,0.06,0.09,,,,,,0,,,1.3,5,,,,,,,,1.3,1.8,1,1.6
+Casuarina grandis,50,60,,,,,,,,,,,,,,angulate,0.6,1.1,,,,,,,,0.04,,,,,,,0,,,,,,,globose-cylindrical,,,,,0.6,1.1,0.9,1.1
+Casuarina junghuhniana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Casuarina obesa,,,,12,16,,occasionally slightly spreading,,,,,,,usually glaucous,,flat,0.3,1,,,,,,,,,,,,,,,0,,,,,,,,0,10,,,1,2,0.8,1
+Casuarina oligodon,30,,,,,,,,,,,,,sharply angled,,,0.4,0.7,0.05,0.08,,,,,,,,,,,,,0,,spikelet,1.5,4.5,,,"shortly cylindrical,subcylindrical",,,,,0.4,1,0.07,0.09
+Casuarina pauper,5,15,,9,13,,,,ferruginous-pubescent,,,,,"strongly glaucous, shortly and densely pubescent",,,0.1,,0.18,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,
+Ceuthostoma terminale,30,,,,,,,,,,,,,,,dorsally rounded,0.4,0.7,0.07,0.1,,,,,,,,,,,,,0,,,,,,,,,,,,,,0.4,0.6
+Corylus colurna,20,25,deciduous,,,"obovate,ovate, broadly oval",,,,pointed ,heart-shaped,"double-toothed,almost lobed",,,,,,,,,,,,6,15,5,11.5,,,,,,0,,catkin,5,8,,,round,,,,,1.2,2,1.2,2
+Corylus jacquemontii,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,catkin,,,,,,,,,,,,,
+Corylus maxima,3.5,6,deciduous,,,obovate or roundish,,,,slender,heart-shaped,,,,,,,,,,,,,5,12,4,10,,,,,,0,,catkin,5,8,,,ovate-oblong,,,,,,,,
+Corylus sieboldiana,3.5,4.5,deciduous,,,oundish obovate,,,,pointed,heart-shaped,"doubly toothed,shallowly lobed",,,,,,,,,,,,7.5,15,10,,,,,,,0,,catkin,,,,,conical,,,,,1.2,,,
+Engelhardia colebrookeana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,catkin,,,,,,,,,,,,,
+Engelhardia mexicana,10,,,,,,,,,,,,,,,,,,,,,,,10,,2,,,,,,,,,catkin,,,,,globose,,,,,0.7,,0.7,
+Engelhardia apoensis,40,50,,,,,,,,,,,,,,,,,,,,,,13,23,,,ovate,9,13,2.25,3,7,10,catkin,,,,,,,,,,,,,
+Engelhardia rigida,15,30,"persistent,deciduous",,,,,,,,,,,,,,,,,,,,,3,6,,,entire,5.5,10.5,2.5,4,4,6,catkin,1.5,5,,,,,,,,0.3,,0.3,0.8
+Engelhardia serrata,20,25,deciduous,,,,,,,,,,,,,,,,,,,,,5,18,,,"elliptic,elliptic-lanceolate",6,13,2.5,4.5,6,14,catkin,3,10,,,"globose,ovoid",,,,,0.3,,3,
+Engelhardia spicata,20,,deciduous,,,,,,,,,,,,,,,,,,,,,15,35,,,"elliptic,elliptic-lanceolate,elliptic-ovate",7,15,2,7,4,14,catkin,,,,,"globose,ovoid",,,,,0.3,0.6,0.3,0.6
+Engelhardia unijuga,25,30,"persistent,deciduous",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fagus crenata,30,,deciduous,,,ovate to rhombic-ovate,,,,,,,,,,,,,,,,,,5,8,3,5,,,,,,0,,,,,,,oval,,,,,,,,
+Fagus japonica,25,,deciduous,,,ovate to elliptic-ovate,,,,,,,,,,,,,,,,,,5,8,2.5,5,,,,,,0,,,,,,,oval,,,,,,,,
+Fagus orientalis,40,,deciduous,,,elliptic to obovate,,,,,,,,,,,,,,,,,,6.5,15.5,4,9,,,,,,0,,,,,,,oval,,,,,1.2,2.2,1.2,2.2
+Fagus sylvatica,50,,deciduous,,,"elliptic, ovate",,,,,,,,,,,,,,,,,,4,10,2.5,4,,,,,,0,,,,,,,oval,,,,,1,2.5,1,2.5
+Fagus taurica,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,oval,,,,,,,,
+Gymnostoma australianum,4,7,persistent,,,acutely angular,,,,,,,,smooth,,,0.2,0.4,,,,,,0.4,0.7,,,,,,,,,,compound,0.15,0.2,,,short-cylindrical,,5,"white-pubescent,ferruginous-pubescent",,0.7,0.1,0.8,0.1
+Gymnostoma chamaecyparis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gymnostoma deplancheanum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gymnostoma glaucescens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gymnostoma nobile,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gymnostoma nodiflorum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gymnostoma papuanum,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gymnostoma poissonianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gymnostoma rumphianum,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gymnostoma sumatranum,,,persistent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gymnostoma vitiense,,,,,,,,,,,,,,,,,0.3,0.5,0.05,0.08,,,,,,,,,,,,,,,,0.1,0.5,,,,,,,,1.4,2.3,1.1,2
+Gymnostoma webbianum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Juglans ailanthifolia,15,20,deciduous,,,,,,,,,,,,,,,,,,,,,40,50,,,"elongated,elliptical",10,16,,,11,17,racemes,10,25,,,"round,somewhat ovoid",,,,,3,,,
+Juglans australis,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Juglans boliviana,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Juglans cathayensis ,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Juglans hirsuta,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,sessile with truncate base,15,,2.5,6,9,15,racemes,,,,,,,,,,,,,
+Juglans manshurica,25,,deciduous,,,,,,,,,,,,,,,,,,,,,40,90,,,"elliptic,ovate-elliptic,long elliptic-lanceolate",6,17,2,7.5,9,19,"pendulous, slender",9,40,,,ovoid,,,,,3,7.5,3,5
+Juglans mollis,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,"ovate,lanceolate",6,15,3,5,10,14,racemes,,,,,,,,,,,,,
+Juglans neotropica,,,deciduous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Juglans olanchana,15,40,deciduous,,,,,,,,,,,,,,,,,,,,,45,65,30,35,,14,17,5,6,17,21,racemes,,,,,,,,,,,,,
+Juglans pyriformis,40,,deciduous,,,,,,,,,,,,,,,,,,,,,40,60,30,,lanceolate,10,15,3,4.5,18,31,racemes,,,,,,,,,,,,,
+Juglans sp1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Juglans sp2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Juglans steyermarkii,15,,deciduous,,,,,,,,,,,,,,,,,,,,,60,,30,,"ovate,lanceolate",14,17,5,8,16,18,racemes,,,,,,,,,,,,,

@@ -1,0 +1,34 @@
+leaf_part_margin_margin
+ciliate,0
+crenate,1
+crenate-dentate,2
+crenulate,3
+crisped,4
+crisped-undulate,5
+dentate,6
+dentate-incised,7
+dentate-lobulate,8
+dentate-serrate,9
+dentate-undulate,10
+denticulate,11
+denticulate-serrate,12
+denticulate-triangular,13
+doubly serrate,14
+doubly serrate-incised,15
+entire,16
+incised-serrate,17
+incurved-serrate-setiform,18
+lobulate,19
+lobulate-serrate,20
+mucronate-serrate,21
+mucronate-serrate-setiform,22
+recurved-serrate-setiform,23
+serrate,24
+serrate-setiform,25
+serrate-setiform-subincurved,26
+serrate-undulate,27
+serrulate,28
+sinuate,29
+tooth,30
+toothed,31
+undulate,32

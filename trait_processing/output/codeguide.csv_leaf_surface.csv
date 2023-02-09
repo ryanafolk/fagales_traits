@@ -1,0 +1,37 @@
+leaf_surface
+canescent,0
+downy,1
+eglandular,2
+ferruginous-pubescent,3
+floccose,4
+glabrate,5
+glabrous,6
+"glabrous,  glaucous,silky-hairy",7
+"glabrous, downy",8
+"glabrous, glossy, dense tufts of brown hair",9
+"glabrous, pubescent",10
+"glabrous, tufts of brownish down",11
+"glabrous,sparsely pubescent, tufts of hair",12
+"glabrous,tufts of down",13
+"glabrous,tufts of down, thin-textured",14
+glandular,15
+"glaucous,  sparsely pubescent",16
+granular,17
+hairy,18
+"hairy,glabrous,tufts of down",19
+hirsute,20
+hispid,21
+leathery,22
+membranous,23
+pilose,24
+puberulent,25
+pubescent,26
+scurfy,27
+sericeous,28
+silky,29
+silky hairs,30
+smooth,31
+surface,32
+tomentose,33
+tomentulose,34
+villose,35

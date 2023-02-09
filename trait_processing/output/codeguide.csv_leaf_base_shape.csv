@@ -1,0 +1,49 @@
+leaf_base_shape
+"acuminate-attenuate, acute,  acuminate,sub",0
+acuminate-orbicular,1
+acute,2
+"acute, rounded",3
+"acute,seldom nearly rounded-attenuate",4
+"acute-acute, rounded-attenuate",5
+acute-attenuate,6
+"acute-attenuate,rounded",7
+"acute-rounded,attenuate",8
+angular-cordate,9
+"apex acute, acuminate",10
+attenuate,11
+attenuate-cuneate,12
+attenuate-orbicular,13
+auriculate,14
+cordate,15
+cordate-truncate,16
+cuneate,17
+cuneate-orbicular,18
+cup-shaped,19
+heart-shaped,20
+"heart-shaped-shaped at the but sometimes rounded,wedge",21
+ly notched,22
+oblique,23
+obtuse,24
+orbicular,25
+"rounded,  heart-shaped,tapered",26
+"rounded, heart-shaped",27
+"rounded, heart-shaped-shaped, wedge",28
+"rounded, wedge-shaped",29
+"rounded, wedge-shaped-shaped, heart",30
+"rounded,abruptly acute",31
+"rounded,acute",32
+"rounded,attenuate",33
+"rounded,cuneate",34
+"rounded,subcordate",35
+"rounded,subcordate,sometimes acute,  asymmetrical",36
+"rounded,wedge-shaped",37
+saucerlike,38
+"shaped,rounded base-wedge",39
+stellate,40
+subacute,41
+subcordate,42
+symmetric,43
+"tapering, rounded,  abruptly acute",44
+truncate,45
+"truncate, tapered",46
+unequal,47

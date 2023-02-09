@@ -1,0 +1,19 @@
+petiole_shape
+acuminate,0
+acute,1
+attenuate,2
+caudate,3
+fasciculate,4
+oblique,5
+oblong,6
+obtuse,7
+orbicular,8
+recurved,9
+retuse,10
+slender,11
+stellate,12
+stipitate glandular,13
+sulcate,14
+symmetric,15
+triangular,16
+turbinate,17

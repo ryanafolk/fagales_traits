@@ -1,0 +1,13 @@
+leaf_part_apex_margin
+crenate,0
+crenate-undulate,1
+dentate,2
+dentate-mucronate,3
+dentate-undulate,4
+entire,5
+lobulate,6
+nan,7
+serrulate,8
+sinuate,9
+toothed,10
+undulate,11
