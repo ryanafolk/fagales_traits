@@ -1,15 +1,15 @@
 leaf_base_shape
-"acuminate-attenuate, acute,  acuminate,sub",0
-acuminate-orbicular,1
-acute,2
-"acute, rounded",3
-"acute,seldom nearly rounded-attenuate",4
-"acute-acute, rounded-attenuate",5
+abruptly acute,0
+acuminate,1
+acuminate-attenuate,2
+acuminate-orbicular,3
+acute,4
+acute-acute,5
 acute-attenuate,6
-"acute-attenuate,rounded",7
-"acute-rounded,attenuate",8
-angular-cordate,9
-"apex acute, acuminate",10
+acute-rounded,7
+angular-cordate,8
+apex acute,9
+asymmetrical,10
 attenuate,11
 attenuate-cuneate,12
 attenuate-orbicular,13
@@ -19,31 +19,29 @@ cordate-truncate,16
 cuneate,17
 cuneate-orbicular,18
 cup-shaped,19
-heart-shaped,20
-"heart-shaped-shaped at the but sometimes rounded,wedge",21
-ly notched,22
-oblique,23
-obtuse,24
-orbicular,25
-"rounded,  heart-shaped,tapered",26
-"rounded, heart-shaped",27
-"rounded, heart-shaped-shaped, wedge",28
-"rounded, wedge-shaped",29
-"rounded, wedge-shaped-shaped, heart",30
-"rounded,abruptly acute",31
-"rounded,acute",32
-"rounded,attenuate",33
-"rounded,cuneate",34
-"rounded,subcordate",35
-"rounded,subcordate,sometimes acute,  asymmetrical",36
-"rounded,wedge-shaped",37
-saucerlike,38
-"shaped,rounded base-wedge",39
-stellate,40
-subacute,41
-subcordate,42
-symmetric,43
-"tapering, rounded,  abruptly acute",44
-truncate,45
-"truncate, tapered",46
-unequal,47
+heart,20
+heart-shaped,21
+heart-shaped-shaped,22
+heart-shaped-shaped at the but  rounded,23
+ly notched,24
+oblique,25
+obtuse,26
+orbicular,27
+rounded,28
+rounded base-wedge,29
+rounded-attenuate,30
+saucerlike,31
+seldom nearly rounded-attenuate,32
+shaped,33
+stellate,34
+sub,35
+subacute,36
+subcordate,37
+symmetric,38
+tapered,39
+tapering,40
+truncate,41
+unequal,42
+wedge,43
+wedge-shaped,44
+wedge-shaped-shaped,45

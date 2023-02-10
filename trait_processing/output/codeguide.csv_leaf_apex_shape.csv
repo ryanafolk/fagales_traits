@@ -1,48 +1,43 @@
 leaf_apex_shape
 abruptly acuminate,0
-"abruptly acute, acute",1
-"abruptly narrowed,slender",2
+abruptly acute,1
+abruptly narrowed,2
 abruptly tapered,3
 acuminate,4
-"acuminate,acute,obtuse,rounded-long",5
-acuminate-caudate,6
-acuminate-long,7
-acuminate-mucronate,8
-acute,9
-"acute, acuminate",10
-"acute,acuminate",11
-"acute,tapering,subacuminate",12
-acute-caudate,13
-angular,14
-apiculate,15
-attenuate,16
-caudate,17
-cuspidate,18
-falcate,19
-"long,taper-pointed",20
-mucronate,21
-"narrowed, pointed",22
-obcordate,23
-oblique,24
-obtuse,25
-obtuse-orbicular,26
-orbicular,27
-ovate,28
-pointed,29
-"pointed,rounded",30
-pointed-slender,31
-recurved,32
-retuse,33
-rounded,34
-"rounded,abruptly acuminate",35
-"rounded,acutish",36
-"rounded,acutish,abruptly acuminate",37
-"rounded,emarginate",38
-"rounded,subacuminate",39
-short abrupt point,40
-slender,41
-slenderly pointed,42
-subacute,43
-"tapering, acuminate",44
-triangular,45
-truncate,46
+acuminate-caudate,5
+acuminate-long,6
+acuminate-mucronate,7
+acute,8
+acute-caudate,9
+acutish,10
+angular,11
+apiculate,12
+attenuate,13
+caudate,14
+cuspidate,15
+emarginate,16
+falcate,17
+long,18
+mucronate,19
+narrowed,20
+obcordate,21
+oblique,22
+obtuse,23
+obtuse-orbicular,24
+orbicular,25
+ovate,26
+pointed,27
+pointed-slender,28
+recurved,29
+retuse,30
+rounded,31
+rounded-long,32
+short abrupt point,33
+slender,34
+slenderly pointed,35
+subacuminate,36
+subacute,37
+taper-pointed,38
+tapering,39
+triangular,40
+truncate,41

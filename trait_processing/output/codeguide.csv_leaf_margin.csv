@@ -1,47 +1,44 @@
 leaf_margin
 acuminate-tooth,0
-"coarsely toothed,  entire",1
-"coarsely toothed, toothed",2
-"coarsely toothed,irregularly toothed",3
-"coarsely toothed,triangularly toothed,doubly toothed",4
-crenate,5
-crenate-dentate,6
-crenate-serrate,7
-crisped,8
-crisped-undulate,9
-dentate,10
-dentate-serrate,11
-dentate-undulate,12
-denticulate,13
-denticulate-serrate,14
-"double-toothed, lobed",15
-doubly serrate,16
-doubly serrate-incised,17
-doubly serrated,18
-"doubly toothed, lobed",19
-entire,20
-entire-serrate,21
-"finely toothed, simply toothed",22
-"finely toothed,doubly toothed",23
-fringe-toothed,24
-incised-serrate,25
-incurved-serrate-setiform,26
-irregularly toothed,27
-"irregularly toothed,  doubly toothed",28
-lobate,29
-lobulate,30
-ly serrate,31
-mucronate-serrate,32
-mucronate-serrate-setiform,33
-recurved-serrate-setiform,34
-"revolute,serrate,serrulate",35
-serrate,36
-serrate-setiform,37
-serrate-setiform-subincurved,38
-serrate-undulate,39
-serrulate,40
-sinuate,41
-tooth,42
-toothed,43
-"toothed,coarsely toothed",44
-undulate,45
+coarsely toothed,1
+crenate,2
+crenate-dentate,3
+crenate-serrate,4
+crisped,5
+crisped-undulate,6
+dentate,7
+dentate-serrate,8
+dentate-undulate,9
+denticulate,10
+denticulate-serrate,11
+double-toothed,12
+doubly serrate,13
+doubly serrate-incised,14
+doubly serrated,15
+doubly toothed,16
+entire,17
+entire-serrate,18
+finely toothed,19
+fringe-toothed,20
+incised-serrate,21
+incurved-serrate-setiform,22
+irregularly toothed,23
+lobate,24
+lobed,25
+lobulate,26
+ly serrate,27
+mucronate-serrate,28
+mucronate-serrate-setiform,29
+recurved-serrate-setiform,30
+revolute,31
+serrate,32
+serrate-setiform,33
+serrate-setiform-subincurved,34
+serrate-undulate,35
+serrulate,36
+simply toothed,37
+sinuate,38
+tooth,39
+toothed,40
+triangularly toothed,41
+undulate,42

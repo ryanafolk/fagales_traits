@@ -847,3 +847,5 @@ sepal_flower_morphology,sepal_flower_morphology.1.flower_morphology
 article_surface,article_surface.1
 article_shape,article_shape.1
 phyllichnia_shape,phyllichnia_shape.1
+leaf_count_location,leaf_count.1.location
+leaf_count_location,leaf_count.3.location

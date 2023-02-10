@@ -69,6 +69,18 @@ names <- gsub("Canacomyrica", "darkgoldenrod1", names)
 plot(cmdscale(distancematrix), xlab="Coordinate 1", ylab="Coordinate 2", main="MDS", col = names, pch = 19)
 legend("bottomleft", title="Families", c("Betulaceae", "Casuarinaceae", "Fagaceae", "Juglandaceae", "Myricaceae"), fill = c("blue", "red", "forestgreen", "plum", "darkgoldenrod1"), horiz = TRUE, cex = 0.4)
 
+mds <- cmdscale(distancematrix)
+dataset <- read.csv(file="out_droppedmissing_coded_onevalue.csv", row.names = NULL, header = TRUE)
+dataset %>% distinct(taxon, .keep_all = TRUE) -> dataset
+row.names(dataset) <- dataset$taxon
+dataset$taxon <- NULL
+
+MDS1_loadings <- apply(dataset, 2, function(x) summary(lm(x ~ mds[,1]))$r.squared)
+MDS2_loadings <- apply(dataset, 2, function(x) summary(lm(x ~ mds[,2]))$r.squared)
+
+noquote(format(sort(MDS1_loadings, decreasing = TRUE), scientific = FALSE))
+noquote(format(sort(MDS2_loadings, decreasing = TRUE), scientific = FALSE))
+
 ## reduced taxa plot
 #
 #subset <- as.matrix(dist_subset(distance, c(grep(".*maulensis.*", colnames(distance), value = TRUE), grep(".*angustifolia.*", colnames(distance), value = TRUE), grep(".*scarlatina.*", colnames(distance), value = TRUE), grep(".*lutea.*", colnames(distance), value = TRUE), grep(".*angustifolia.*", colnames(distance), value = TRUE), grep(".*chilensis.*", colnames(distance), value = TRUE), grep(".*arzae.*", colnames(distance), value = TRUE), grep(".*australis.*", colnames(distance), value = TRUE), grep(".*fulgens.*", colnames(distance), value = TRUE), grep(".*davidii.*", colnames(distance), value = TRUE))))
@@ -140,8 +152,8 @@ PC3 = trait_mds$PC3
 names(PC3) <- row.names(trait_mds)
 PC3 = data.frame(PC3)
 plot(trait_mds$PC1, trait_mds$PC2)
-ggplot(trait_mds, aes(PC1,PC2)) + geom_point() + geom_text(aes(label=row.names(trait_mds)), size = 1, hjust = 0, nudge_x = 0.05)
-ggplot(trait_mds, aes(PC1,PC2)) + geom_point() + geom_text(aes(label=row.names(trait_mds)), size = 1, hjust = 0, position=position_jitter(width=.1,height=.1))
+ggplot(trait_mds, aes(Re(PC1),Re(PC2))) + geom_point() + geom_text(aes(label=row.names(trait_mds)), size = 1, hjust = 0, nudge_x = 0.05)
+ggplot(trait_mds, aes(Re(PC1),Re(PC2))) + geom_point() + geom_text(aes(label=row.names(trait_mds)), size = 1, hjust = 0, position=position_jitter(width=.1,height=.1))
 
 plotdata <- Re(PC1$PC1) # Sometimes phyl.pca returns complex numbers, so we can just look at the real portion (in practice relative scaling doesn't differ)
 names(plotdata) <- row.names(trait_mds)

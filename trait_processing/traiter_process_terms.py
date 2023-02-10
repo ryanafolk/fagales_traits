@@ -116,10 +116,12 @@ def subset_columnrow(input, subsetlist):
 	return sub
 	
 def commaseparate(value):
-	value = str(value) # Force numbers as strings for regex and split
-	if value.find(',')!=-1: 
-		value = value.split(",")
-	return value
+	if type(value) is list:
+		if len(value) == 1:
+			if value[0].find(',')!=-1: 
+				value = value[0].split(",")
+				value = [x.strip() for x in value] # Remove leading and trailing spaces
+	return(value)
 
 def na_rm_list(l):
 	l2 = [element for element in l if str(element) != "nan"]
@@ -151,7 +153,6 @@ print("Number of raw trait columns, second dataset.")
 print(len(manualdataset.columns.values))
 print("Number of species, second dataset.")
 print(len(manualdataset['taxon'].values))
-manualdataset.applymap(commaseparate)
 #print(manualdataset.dtypes)
 
 traitdataset = pandas.merge(traitdataset, manualdataset, on = list_intersection(traitdataset.columns, manualdataset.columns), how='outer') # Left join if you don't want the manual dataset to add species
@@ -171,7 +172,7 @@ meristic_field_controlled = pandas.read_csv(meristic, sep=',', header='infer', e
 # ./sax_trait_matrix_process.py saxtraits_final.csv out.csv coded_out.csv coded_oneval_out.csv codeguide.csv distancematrix.csv
 
 # List of terms to remove
-censorlist = ["occasionally", "slightly", "shortly", "usually", "rarely", "often", "inconspicuous", "unequally", "somewhat", "shallowly", "bluntly", "sharply", "almost", "top", "mostly", "abrubtly", "gradually", "widely","broadly","narrowly","very","obliquely","subterete","semiterete","subpeltate","terete","peltate","subcylindrical","cylindrical","pale","bright","dark","deep","spots-[A-Za-z-]*","dull","dirty","stripes-[A-Za-z-]*","compact","cylindric","narrow$","terminal","simple"]
+censorlist = ["sometimes", "occasionally", "slightly", "shortly", "usually", "rarely", "often", "inconspicuous", "unequally", "somewhat", "shallowly", "bluntly", "sharply", "almost", "top", "mostly", "abrubtly", "gradually", "widely","broadly","narrowly","very","obliquely","subterete","semiterete","subpeltate","terete","peltate","subcylindrical","cylindrical","pale","bright","dark","deep","spots-[A-Za-z-]*","dull","dirty","stripes-[A-Za-z-]*","compact","cylindric","narrow$","terminal","simple"]
 
 # Full synonymy list
 with open('synonyms.csv') as csvfile:
@@ -319,6 +320,14 @@ for i in accepted_meristic_fields:
 
 #print(traitdataset['fruit_part_size_length'].tolist())
 
+# Set taxon as row label
+traitdataset.set_index("taxon", inplace=True)
+
+# Interpret comma-separated cells as list (for the second dataset)
+print(traitdataset.loc['Allocasuarina acuaria']['leaf_count_location'])
+traitdataset = traitdataset.applymap(commaseparate)
+print(traitdataset.loc['Allocasuarina acuaria']['leaf_count_location'])
+
 # Write uncoded result
 traitdataset.to_csv(path_or_buf = "_".join([outfile, "postcleaned.csv"]), sep=",")
 
@@ -411,8 +420,7 @@ for i in codesdone:
 ##########
 
 print("\n\nFormatting distance matrix.")
-# Set taxon as row label
-traitdataset.set_index("taxon", inplace=True)
+
 	
 # Clean up dataframe
 for column in traitdataset.select_dtypes([numpy.object]): # Selecting objects needed for empty columns (?)

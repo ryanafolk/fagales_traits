@@ -105,9 +105,6 @@ leaf_axil_surface.2.location
 leaf_axil_venation.1.location
 leaf_base_subpart.1.location
 leaf_base_subpart_male.1.location
-leaf_color.1.location
-leaf_count.1.location
-leaf_count.3.location
 leaf_gland_color.1.location
 leaf_gland_subpart.1.location
 leaf_gland_surface.1.location

@@ -1,0 +1,945 @@
+taxon,bark_size.1.length_high,bark_color,fruit_shape,infructescence_shape,leaf_color,leaf_hair_surface,peduncle_shape,nut_apex_shape,nut_surface,nutlet_surface,branch_color,petiole_venation,nut_color,bract_apex_shape,branch_surface,nutlet_shape,twig_surface,bud_shape,petiole_apex_shape,article_surface,leaf_apex_shape,bract_margin,petiole_base_shape,phyllichnia_shape,leaf_duration,petiole_color,rachis_shape,rachis_surface,bark_surface,leaf_hair_shape,leaf_margin,bract_surface,leaf_axil_venation,leaf_venation,petiole_surface,branch_shape,bract_color,petiole_shape,leaf_count_location,leaf_base_shape,twig_color,bract_shape,inflorescence_shape,peduncle_surface,nut_shape,leaf_surface,leaf_shape,bud_surface,bud_color,bract_size_width,nut_size_length,bract_size_length,leaf_size_width,fruit_size_length,nutlet_size_width,infructescence_size_width,article_size_width,inflorescence_size_width,peduncle_size_length,nutlet_size_length,leaf_size_length,nut_size_width,inflorescence_size_length,infructescence_size_length,bract_size_thickness,bud_size_length,tree_size_height,branch_size_length,nut_size_thickness,article_size_length,petiole_size_length,rachis_size_thickness,twig_size_diameter,rachis_size_length
+Alnus,nan,,,27,,,,,,,,,,,,,,12,,,,,,,,,,,,,17,,,,,,,,,,,,,,,27,49,8,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus glutinosa,nan,5,20,36,,,,,,,,,,,,,,3,,,21,,,,,,,,0,,13,,,15,,,,,,17,,,,,,7,40,,,nan,nan,nan,5.5,nan,nan,1.0,nan,nan,5.5,nan,6.0,nan,nan,1.85,nan,8.0,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus incana,nan,16,20,25,,,,,,,,,,,,,,3,,,23,,,,,,,,0,,13,,,,,,,,,27,,,,,,,49,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,5.5,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus incana subsp. rugosa,9.0,9,,25,14,,,,,,,,,,,,,3,,,8,,,,,,,,0,,13,,,15,,,,,,27,,,,,,27,49,,,nan,nan,nan,5.5,nan,nan,0.8,nan,nan,3.0,nan,7.5,nan,nan,1.35,nan,5.0,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus incana subsp. tenuifolia,nan,5,,25,,,,,,,,,,,,,,3,,,8,,,,,,,,0,,2,,,,,,,,,17,,,,,,7,49,,,nan,nan,nan,5.25,nan,nan,0.8,nan,nan,3.0,nan,7.0,nan,nan,1.5,nan,5.5,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus maritima,nan,9,14,25,,,,,,,,,,,,,,12,,,8,,,,,,,,0,,,,,,,,,,,17,,,,,,27,18,,,nan,nan,nan,3.5,nan,nan,1.2,nan,nan,7.5,nan,6.75,nan,nan,2.0,nan,3.75,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus oblongifolia,nan,9,20,0,,,,,,,,,,,,,,12,,,4,,,,,,,,0,,32,,,,,,,,,17,,,,,,34,76,,,nan,nan,nan,4.5,1.75,nan,nan,nan,nan,7.5,nan,7.0,nan,nan,nan,nan,6.0,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus rhombifolia,nan,9,3,25,,,,,,,,,,,,,,3,,,25,,,,,,,,0,,32,,,,,,,,,27,,,,,,19,76,,,nan,nan,nan,3.5,nan,nan,0.7,nan,nan,5.5,nan,6.5,nan,nan,1.6,nan,6.0,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus rubra,nan,9,24,25,,,,,,,,,,,,,,3,,,8,,,,,,,,0,,13,,,,,,,,,17,,,,,,27,49,,,nan,nan,nan,7.0,nan,nan,0.6,nan,nan,5.5,nan,11.0,nan,nan,2.25,nan,8.0,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus serrulata,10.0,9,14,13,,,,,,,,,,,,,,7,,,23,,,,,,,,0,,36,,,,,,,,,17,,,,,,7,18,,,nan,nan,nan,5.75,nan,nan,0.6,nan,nan,2.0,nan,9.5,nan,nan,1.6,nan,4.5,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus viridis,10.0,,14,12,,,,,,,,,,,,,,12,,,8,,,,,,,,0,,13,,,,,,,,,27,,,,,,7,49,,,nan,nan,nan,5.5,nan,nan,nan,nan,nan,nan,nan,7.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus viridis subsp. crispa,nan,6,,,24,,,,,,,,,,,,,,,,8,,,,,,,,,,32,,,,,,,,,27,,,,,,7,49,,,nan,nan,nan,4.0,nan,nan,0.5,nan,nan,3.0,nan,4.75,nan,nan,1.6,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus viridis subsp. fruticosa,nan,6,,,24,,,,,,,,,,,,,,,,8,,,,,,,,,,13,,,15,,,,,,15,,,,,,19,49,,,nan,nan,nan,4.5,nan,nan,0.5,nan,nan,2.0,nan,6.5,nan,nan,1.6,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus viridis subsp. sinuata,nan,9,,,28,,,,,,,,,,,,,,,,4,,,,,,,,,,13,,,,,,,,,27,,,,,,7,49,,,nan,nan,nan,5.5,nan,nan,0.8,nan,nan,2.0,nan,7.0,nan,nan,2.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula,nan,,,27,,,,,,,,,,,,,,14,,,,,,,,,,,,,32,,,,,,,,,,,,,,,29,49,8,,nan,nan,nan,4.25,nan,nan,nan,nan,nan,nan,nan,5.25,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula alleghaniensis,nan,,23,25,,,,,,,,,,,,,5,,,,4,,,,,,,,,,13,,1,15,,,,,9,27,,,,,,19,49,,,nan,nan,nan,4.25,nan,nan,1.0,nan,nan,nan,nan,8.0,nan,nan,2.25,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula cordifolia,nan,,22,0,,,,,,,,,,,,,1,,,,4,,,,,,,,,,13,,1,15,,,,,9,15,,,,,,19,49,,,nan,nan,nan,6.0,nan,nan,0.6,nan,nan,nan,nan,8.0,nan,nan,4.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula glandulosa,3.0,5,,0,,,,,,,,,,,,,5,,,,25,,,,,,,,0,,3,,1,15,,,,,9,27,,,,,,27,40,,,nan,nan,nan,1.75,nan,nan,0.5,nan,nan,nan,nan,1.75,nan,nan,1.75,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula kenaica,nan,10,,0,,,,,,,,,,,,,5,,,,4,,,,,,,,0,,7,,1,15,,,,,9,17,,,,,,19,49,,,nan,nan,nan,3.5,nan,nan,0.5,nan,nan,nan,nan,4.5,nan,nan,3.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula lenta,nan,,6,25,,,,,,,,,,,,,1,,,,4,,,,,,,,,,32,,1,15,,,,,9,27,,,,,,27,49,,,nan,nan,nan,4.5,nan,nan,1.5,nan,nan,nan,nan,7.5,nan,nan,2.75,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula michauxii,0.5,5,,0,,,,,,,,,,,,,5,,,,25,,,,,,,,0,,3,,,15,,,,,9,17,,,,,,27,43,,,nan,nan,nan,0.85,nan,nan,0.5,nan,nan,nan,nan,0.75,nan,nan,0.75,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula minor,5.0,7,,0,,,,,,,,,,,,,5,,,,8,,,,,,,,0,,40,,,15,,,,,9,17,,,,,,7,49,,,nan,nan,nan,2.25,nan,nan,0.5,nan,nan,nan,nan,3.5,nan,nan,2.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula murrayana,nan,,,25,,,,,,,,,,,,,5,,,,8,,,,,,,,,,13,,,15,,,,,9,17,,,,,,19,49,,,nan,nan,nan,4.5,nan,nan,1.5,nan,nan,nan,nan,8.0,nan,nan,3.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula nana,1.0,5,,0,,,,,,,,,,,,,1,,,,25,,,,,,,,0,,2,,,15,,,,,9,27,,,,,,19,45,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula nana subsp. exilis,1.0,7,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,17,,,,,,7,45,,,nan,nan,nan,1.05,nan,nan,0.5,nan,nan,nan,nan,0.85,nan,nan,0.85,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula nana subsp. nana,1.0,5,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,17,,,,,,19,45,,,nan,nan,nan,1.4,nan,nan,0.4,nan,nan,nan,nan,1.15,nan,nan,1.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula neoalaskana,nan,,,0,,,,,,,,,,,,,1,,,,4,,,,,,,,,,13,,1,15,,,,,9,27,,,,,,7,17,,,nan,nan,nan,4.0,nan,nan,0.8,nan,nan,nan,nan,5.5,nan,nan,3.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula nigra,nan,,16,36,,,,,,,,,,,,,5,,,,4,,,,,,,,,,13,,1,15,,,,,9,41,,,,,,27,52,,,nan,nan,nan,4.5,nan,nan,1.0,nan,nan,nan,nan,6.0,nan,nan,2.25,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula occidentalis,10.0,4,,0,,,,,,,,,,,,,5,,,,4,,,,,,,,0,,32,,,15,,,,,9,27,17,,,,,19,49,,,nan,nan,nan,2.75,nan,nan,0.8,nan,nan,nan,nan,3.9,nan,nan,2.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula papyrifera,nan,,22,27,,,,,,,,,,,,,5,,,,4,,,,,,,,,,13,,1,15,,,,,9,27,,,,,,19,49,,,nan,nan,nan,5.5,nan,nan,0.6,nan,nan,nan,nan,7.0,nan,nan,3.75,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula pendula,nan,,23,0,,,,,,,,,,,,,1,,,,4,,,,,,,,,,13,,,15,,17,,,9,17,,,,,,19,49,,,nan,nan,nan,3.75,nan,nan,0.6,nan,nan,nan,nan,5.0,nan,nan,2.75,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula populifolia,nan,10,1,0,,,,,,,,,,,,,5,,,,4,,,,,,,,0,,13,,,15,,,,,9,17,,,,,,27,49,,,nan,nan,nan,5.5,nan,nan,0.8,nan,nan,nan,nan,6.5,nan,nan,1.75,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula pubescens,nan,7,,,,,,,,,,,,,,,,,,,8,,,,,,,,0,,32,,1,,,,,,,,,,,,,19,49,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula pubescens subsp. pubescens,nan,,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,7,,1,,,,,,,27,,,,,,19,49,,,nan,nan,nan,3.0,nan,nan,nan,nan,nan,nan,nan,3.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula pubescens subsp. tortuosa,nan,,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,32,,,,,,,,,41,,,,,,27,49,,,nan,nan,nan,1.5,nan,nan,0.4,nan,nan,nan,nan,1.75,nan,nan,1.25,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula pumila,4.0,7,16,0,,,,,,,,,,,,,5,,,,25,,,,,,,,0,,7,,,15,,,,,9,17,,,,,,29,18,,,nan,nan,nan,3.0,nan,nan,0.8,nan,nan,nan,nan,3.75,nan,nan,1.15,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula uber,10.0,5,,12,,,,,,,,,,,,,1,,,,25,,,,,,,,0,,32,,1,15,,,,,9,27,,,,,,7,45,,,nan,nan,nan,3.0,nan,nan,1.0,nan,nan,nan,nan,3.5,nan,nan,1.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betulaceae,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32,,,16,,,,,,,,,,,,27,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betuloideae,nan,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,2.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus,nan,,,,,,,,,,,,,,,0,,12,,,,,,,,,,,,,36,,,15,,,,,9,,,16,,,,7,49,8,,nan,nan,nan,4.5,nan,nan,nan,nan,nan,nan,nan,7.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus caroliniana,nan,18,,,,,,,,,,,,1,,,,,,,,,,,,,,,0,,13,,,15,,,,,,,,16,,,,27,49,,,2.0999999999999996,nan,2.75,nan,nan,nan,nan,nan,3.0,nan,nan,3.5,nan,7.5,7.25,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus caroliniana subsp. caroliniana,nan,6,,,,,,,,,,,,1,,,,,,,8,,,,,,,,0,,13,,,15,,,,,,15,,38,,,,19,49,,,1.8499999999999999,nan,2.5,nan,nan,nan,nan,nan,3.0,nan,nan,3.5,nan,5.75,4.75,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus caroliniana subsp. virginiana,nan,3,,,,,,,,,,,,,,,,,,,14,,,,,,,,0,,13,,,15,,,,,,15,,,,,,19,49,,,2.15,nan,3.0,4.75,nan,nan,nan,nan,nan,nan,nan,10.0,nan,nan,8.25,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Coryloideae,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,4.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Corylus,nan,6,,,,,,,,,,,,,,,,12,,,,19,,,,,,,0,,13,4,,15,,,,,9,15,,,,,34,8,49,8,,nan,nan,nan,7.75,nan,nan,nan,nan,nan,nan,nan,8.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Corylus americana,nan,9,,,,,,5,,,,,,,,,5,,,,4,,,,,,,,0,,32,13,1,,7,,,,,27,,,17,,,27,49,,,nan,3.0,nan,8.0,nan,nan,nan,nan,3.0,nan,nan,10.5,nan,3.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Corylus avellana,nan,5,,,,,,,,,,,,,,,5,,,,4,,,,,,,,0,,13,13,1,,7,,,,,15,,,17,,,19,49,,,nan,8.5,nan,8.0,nan,nan,nan,nan,3.0,nan,nan,8.5,nan,5.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Corylus cornuta,8.0,5,,,,,,,,,,,,,,,5,,,,8,,,,,,,,0,,13,,1,,1,,,,,27,,,17,,,27,45,,,nan,nan,nan,7.75,nan,nan,nan,nan,3.0,5.25,nan,7.0,nan,4.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Corylus cornuta subsp. californica,nan,5,,,,,,,6,,,,,,,,5,,,,8,,,,,,,,,,13,,1,,7,,,,,15,,,17,,,19,45,,,nan,7.5,nan,5.25,nan,nan,nan,nan,3.0,nan,nan,5.5,nan,4.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Corylus cornuta subsp. cornuta,nan,5,,,,,,,,,,,,,,,5,,,,11,,,,,,,,0,,13,,1,,7,,,,,15,,,17,,,7,49,,,nan,1.25,nan,6.25,nan,nan,nan,nan,3.0,nan,nan,8.5,nan,4.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Ostrya,nan,,,,,,,,,,,,,,,12,,12,,,,,,,,,,,,,13,,,15,,,,,9,,,44,,,,27,49,,,nan,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan,nan,7.75,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Ostrya chisosensis,nan,6,,,,,,,,,,,,,,,5,,,,8,,,,,,,,,,13,,,15,1,,,,,17,,,,,,27,18,,,0.75,nan,1.4,2.5,nan,nan,1.5,nan,nan,nan,nan,4.25,nan,nan,3.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Ostrya knowltonii,nan,6,,,,,,,,,,,,,,,5,,,,8,,,,,,,,,,13,,,15,,,,,,15,,,,,,27,49,,,0.75,nan,1.4,3.25,nan,nan,1.8,nan,nan,nan,nan,4.5,nan,nan,3.25,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Ostrya virginiana,nan,6,,,,,,,,,,,,,,,5,,,,4,,,,,,,,,,13,,,15,7,,,,,17,,,,,,34,49,,,0.9,nan,1.4,4.5,nan,nan,2.0,nan,nan,nan,nan,9.0,nan,nan,5.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Casuarina,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Casuarina cunninghamiana,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Casuarina cunninghamiana subsp. cunninghamiana,nan,6,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,3,,,,,,1,,,,,,,,nan,nan,nan,nan,3.5,nan,4.0,nan,nan,5.5,nan,nan,nan,nan,10.5,nan,nan,nan,7.5,nan,nan,nan,nan,nan,nan
+Casuarina equisetifolia,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Casuarina equisetifolia subsp. equisetifolia,nan,0,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,3,,,,,,1,,,,,,,,nan,nan,nan,nan,7.0,nan,9.0,nan,nan,6.5,nan,nan,nan,nan,18.0,nan,nan,nan,6.5,nan,nan,nan,nan,nan,nan
+Casuarina glauca,nan,6,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,8,,,,,,1,,,,,,,,nan,nan,nan,nan,4.25,nan,7.0,nan,nan,7.5,nan,nan,nan,nan,13.5,nan,nan,nan,14.0,nan,nan,nan,nan,nan,nan
+Casuarinaceae,nan,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,,,,,,,,,,,0,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanea,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,39,,,8,,,,,,,,,,,6,,55,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanea dentata,10.0,9,,,,,,,,,,,,,,,1,,,,8,,,,,,,,0,,39,,,,,,,,,17,,,,,28,7,40,,,nan,21.5,nan,65.0,nan,nan,nan,nan,nan,nan,nan,173.0,21.5,nan,nan,nan,nan,nan,nan,nan,nan,20.0,nan,nan,nan
+Castanea ozarkensis,nan,5,,,45,,,,,,,,,,,,1,,,,8,,,,,,,,,,32,,,15,,,,,,15,,,,,31,6,40,,,nan,10.0,nan,nan,14.0,nan,nan,nan,nan,nan,nan,10.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,160.0,nan,nan,nan
+Castanea pumila,nan,9,,,,,,,,,,,,,,,0,,,,,,,,,,,,0,,32,,,15,,,,,,27,,,,,32,18,18,,,nan,10.0,nan,50.0,nan,nan,nan,nan,nan,nan,nan,115.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,5.0,nan,nan,nan
+Chrysolepis,nan,,,,,,,,,,,,19,,,,,12,,,,,,,,,,,,,40,,,15,,,,,,,,,,,6,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Chrysolepis chrysophylla,45.0,,,,,,,,3,,,,1,,,,,,,,4,,,,,,,,,,17,,,6,,,,,,,20,,,,,,,,,nan,10.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,6.5,nan,nan,nan
+Chrysolepis chrysophylla var. chrysophylla,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Chrysolepis chrysophylla var. minor,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Chrysolepis sempervirens,1.0,9,,,17,,,,3,,,,1,,,,,,,,23,,,,,,,,0,,17,,,,,,,,,,20,,,,,6,37,,,nan,10.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,75.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,12.5,nan,nan,nan
+Fagaceae,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32,,,16,,,,,,,,,,,,27,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Fagus,nan,,,,,,,,14,,,,,,,,,,,,,,,,,,,,,,39,,,8,,,,,,,,,,,,,3,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Fagus grandifolia,nan,9,,,,11,,,3,,,,,,,,1,5,,,4,,,,,,,,0,7,,,,6,,,,,,17,,,,,,7,49,7,2,nan,17.5,nan,50.0,17.5,nan,nan,nan,nan,nan,nan,90.0,14.0,nan,nan,nan,17.5,nan,nan,nan,nan,8.0,nan,nan,nan
+Lithocarpus,nan,,7,,,,,,,,,,,,,,,11,,,,,,,,,,,,,32,,,15,,,,,,,,,,,31,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus densiflorus,nan,9,26,,3,,,,15,,,,9,,,,6,,,,,,,,,,,,0,,40,,,15,,,,,,,20,,,,38,27,12,,,nan,25.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,90.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus densiflorus var. densiflorus,nan,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,12,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,120.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus densiflorus var. echinoides,nan,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,60.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus,nan,,,,,,,,,,,,,,,,,15,,,,,,,,,,,,,17,,,8,,,,,,,,,,,31,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus Sect. Lobatae,nan,5,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,17,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus Sect. Protobalanus,nan,7,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,17,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus Sect. Quercus,nan,18,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,17,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus acerifolia,15.0,9,,,,,,,10,,,,1,,,,1,3,,,8,,,,,,,,,,,,,15,1,,,,,26,8,,,,2,27,18,1,4,nan,11.125,nan,125.0,nan,nan,nan,nan,nan,nan,nan,54.75,13.5,nan,nan,nan,nan,nan,nan,nan,nan,32.5,nan,2.25,nan
+Quercus agrifolia,25.0,0,,,,,,,3,,,,,,,,5,12,,,13,,,,,,,,,,17,,,15,7,,,,,15,2,,,,37,27,18,,2,nan,15.375,nan,25.0,nan,nan,nan,nan,nan,nan,nan,45.0,12.25,nan,nan,nan,4.5,nan,nan,nan,nan,9.5,nan,2.25,nan
+Quercus ajoensis,3.0,9,,,45,,2,,10,,,,,,,,5,15,,,8,,,,,,,,,,,,,15,,,,,,15,2,,,,34,7,49,6,6,nan,3.5,nan,15.0,nan,nan,nan,nan,nan,40.0,nan,25.0,7.0,nan,nan,nan,1.25,nan,nan,nan,nan,3.5,nan,1.5,nan
+Quercus alba,25.0,9,,,19,,3,,3,,,,1,,,,5,12,,,26,,,,,,,,,,,,,15,,,,,,17,14,,,,16,27,40,1,6,nan,18.0,nan,90.0,nan,nan,nan,nan,nan,25.0,nan,150.0,13.5,nan,nan,nan,3.0,nan,nan,nan,nan,17.5,nan,2.5,nan
+Quercus arizonica,18.0,,,,3,7,3,,3,,,,1,,,,6,12,,,8,,,,,,,,,0,17,,,11,,,,,,15,20,,,,34,19,18,0,2,nan,8.75,nan,nan,nan,nan,nan,nan,nan,15.0,nan,6.5,12.5,nan,nan,nan,nan,nan,nan,nan,nan,60.0,nan,2.0,nan
+Quercus arkansana,15.0,0,,,,,,,14,,,,,,,,0,12,,,25,,,,,,,,,,17,,,15,0,,,,,15,12,,,,2,7,61,,6,nan,10.0,nan,67.5,nan,nan,nan,nan,nan,nan,nan,100.0,12.5,nan,nan,nan,3.5,nan,nan,nan,nan,15.0,nan,2.25,nan
+Quercus austrina,nan,9,,,19,11,2,,0,,,,12,,,,,1,,,25,,,,,,,,,6,,,,15,,,,,,11,17,,,,17,7,40,5,6,nan,9.5,nan,21.125,nan,nan,nan,nan,nan,15.0,nan,44.5,11.5,nan,nan,nan,nan,nan,nan,nan,nan,4.0,nan,2.25,nan
+Quercus berberidifolia,2.0,9,,,14,3,,9,3,,,,1,,,,,12,,,8,,,,,,,,,,17,,,15,,,,,,41,20,,,,13,7,40,5,6,nan,11.5,nan,15.0,nan,nan,nan,nan,nan,nan,nan,22.5,17.5,nan,nan,nan,2.5,nan,nan,nan,nan,3.0,nan,nan,nan
+Quercus bicolor,30.0,9,,,24,,10,,3,,,,12,,,,1,15,,,25,,,,,,,,,6,40,,,15,,,,,,4,2,,,,6,7,40,1,2,nan,15.25,nan,90.0,nan,nan,nan,nan,nan,55.0,nan,76.25,16.75,nan,nan,nan,nan,nan,nan,nan,nan,17.5,nan,2.5,nan
+Quercus boyntonii,nan,5,,,39,,2,9,3,,,,1,,,,7,12,,,26,,,,,,,,,6,,,,15,,,,,,17,2,,,,34,30,40,6,6,nan,10.5,nan,40.0,nan,nan,nan,nan,nan,6.0,nan,75.0,10.75,nan,nan,nan,2.5,nan,nan,nan,nan,7.5,nan,2.25,nan
+Quercus buckleyi,15.0,9,,,24,,,,14,,,,,,,,1,12,,,4,,,,,,,,0,,,,,15,1,,,,,17,20,,,,10,7,45,,6,nan,13.25,nan,81.5,nan,nan,nan,nan,nan,nan,nan,41.625,12.5,nan,nan,nan,5.0,nan,nan,nan,nan,32.5,nan,nan,nan
+Quercus carmenensis,nan,9,,,24,,,,,,,,,,,,5,9,,,8,,,,,15,,,,,,,,15,,,,,,17,17,,,,,19,40,,2,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,30.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.25,nan
+Quercus chapmanii,nan,5,,,18,1,3,9,16,,,,1,,,,7,15,,,26,,,,,,,,,0,,,,15,,,,,,11,20,,,,34,7,40,,6,nan,12.75,nan,22.0,nan,nan,nan,nan,nan,3.5,nan,50.0,11.75,nan,nan,nan,1.5,nan,nan,nan,nan,2.0,nan,1.5,nan
+Quercus chihuahuensis,10.0,9,,,24,,3,,9,,,,12,,,,6,9,,,25,,,,,,,,,6,17,,,15,,,,,,15,12,,,7,34,27,18,6,14,nan,12.25,nan,25.0,nan,nan,nan,nan,nan,25.0,nan,45.0,11.75,nan,nan,nan,2.25,nan,nan,nan,nan,4.0,nan,2.5,nan
+Quercus chrysolepis,nan,,,,4,3,,,3,,,,,,,,5,,,,8,,,,,,,,,,7,,,15,7,,,,,26,3,,,,34,27,37,,,nan,22.5,nan,22.5,nan,nan,nan,nan,nan,nan,nan,45.0,15.0,nan,nan,nan,5.0,nan,nan,nan,nan,8.5,nan,1.5,nan
+Quercus coccinea,nan,5,,,16,,,,9,,,,1,,,,1,12,,,8,,,,,,,,,,,,,15,1,,,,,41,8,,,,2,27,18,6,6,nan,13.5,nan,105.0,nan,nan,nan,nan,nan,nan,nan,115.0,19.75,nan,nan,nan,5.5,nan,nan,nan,nan,42.5,nan,2.75,nan
+Quercus cornelius-mulleri,2.0,9,,,45,,,,,,,,1,,,,7,12,,,25,,,,,,,,,6,40,,,15,,,,,,17,2,,,,19,27,49,,2,nan,nan,nan,15.0,nan,nan,nan,nan,nan,nan,nan,25.0,nan,nan,nan,nan,2.75,nan,nan,nan,nan,3.5,nan,1.25,nan
+Quercus depressipes,nan,9,,,,,,9,3,,,4,8,,,,0,18,9,,,,3,,,8,,,,,,,,,10,,,,,,13,,,,38,,37,,12,nan,5.5,nan,16.5,nan,nan,nan,nan,nan,11.0,nan,17.5,nan,nan,nan,nan,1.25,nan,nan,nan,nan,1.5,nan,1.25,nan
+Quercus douglasii,nan,9,,,24,,,,,,,,,,,,0,12,,,25,,,,,1,,,,6,17,,,15,,,,,,27,17,,,,19,27,40,6,14,nan,7.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,4.0,12.5,nan,nan,nan,4.0,nan,nan,nan,nan,50.0,nan,nan,nan
+Quercus dumosa,nan,,,,16,1,,1,,,,,,,,,5,15,,,8,,,,,,,,0,3,42,,,15,,,,,,8,17,,,,19,18,7,1,6,nan,10.75,nan,10.5,nan,nan,nan,nan,nan,nan,nan,15.0,9.5,nan,nan,nan,1.5,nan,nan,nan,nan,1.5,nan,1.25,nan
+Quercus durata,2.0,,,,47,,,8,9,,,,,,,,7,15,,,37,,,,,,,,,,17,,,5,,,,,,17,20,,,,0,27,12,1,6,nan,12.5,nan,11.0,nan,nan,nan,nan,nan,nan,nan,27.5,16.25,nan,nan,nan,1.5,nan,nan,nan,nan,3.0,nan,2.0,nan
+Quercus durata var. durata,nan,,,,18,11,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,69,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus durata var. gabrielensis,nan,,,,24,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,15,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus ellipsoidalis,nan,12,,,16,,,,9,,,,1,,,,1,12,,,8,,,,,,,,,,,,,15,1,,,,,41,8,,,,13,27,18,,6,nan,10.5,nan,75.0,nan,nan,nan,nan,nan,nan,nan,100.0,13.25,nan,nan,nan,4.0,nan,nan,nan,nan,35.0,nan,2.25,nan
+Quercus emoryi,15.0,0,,,,2,,,14,,,,,,,,5,12,,,8,,,,,,,,,,17,,,6,7,,,,,15,8,,,,26,7,49,3,6,nan,9.125,nan,30.0,nan,nan,nan,nan,nan,nan,nan,61.5,8.75,nan,nan,nan,4.5,nan,nan,nan,nan,5.0,nan,2.0,nan
+Quercus engelmannii,10.0,9,,,14,,2,,10,,,,1,,,,6,12,,,8,,,,,,,,,,40,,,15,,,,,,17,2,,,,26,6,37,,6,nan,20.0,nan,15.0,nan,nan,nan,nan,nan,5.5,nan,45.0,13.0,nan,nan,nan,1.5,nan,nan,nan,nan,3.5,nan,1.25,nan
+Quercus falcata,30.0,12,,,,,,,14,,,,,,,,5,12,,,8,,,,,,,,,,,,,15,1,,,,,27,8,,,,10,18,49,5,6,nan,10.0,nan,110.0,nan,nan,nan,nan,nan,nan,nan,200.0,12.5,nan,nan,nan,6.0,nan,nan,nan,nan,40.0,nan,2.5,nan
+Quercus fusiformis,nan,5,,,14,,1,,3,,,,1,,,,7,18,,,24,,,,,,,,,4,40,,,15,,,,,,27,12,,,5,2,7,21,,10,nan,11.5,nan,30.0,nan,nan,nan,nan,nan,16.5,nan,62.5,nan,nan,nan,nan,2.25,nan,nan,nan,nan,5.0,nan,2.25,nan
+Quercus gambelii,nan,9,,,14,,2,,16,,,,12,,,,,12,,,25,,,,,,,,,,17,,,15,,,,,,41,8,,,,32,6,18,6,2,nan,6.5,nan,nan,nan,nan,nan,nan,nan,10.0,nan,20.0,nan,nan,nan,nan,3.0,nan,nan,nan,nan,100.0,nan,nan,nan
+Quercus garryana,nan,18,,,47,8,2,9,3,,,,1,,,,,,,,25,,,,,,,,,6,,,,15,,,,,,17,20,,,8,26,27,40,2,2,nan,27.5,nan,50.0,nan,nan,nan,nan,nan,10.0,nan,72.5,17.0,nan,nan,nan,7.0,nan,nan,nan,nan,7.0,nan,3.0,nan
+Quercus garryana var. breweri,nan,,,,24,,,,,,,,,,,,4,12,,,,,,,,,,,,,,,,,,,,,,,17,,,,,,,2,6,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,3.5,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus garryana var. garryana,nan,,,,24,,,,,,,,,,,,4,5,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,6,13,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,9.0,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus garryana var. semota,nan,,,,28,,,,,,,,,,,,4,12,,,,,,,,,,,,,,,,,,,,,,,18,,,,,,,5,2,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,3.5,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus geminata,nan,5,,,14,,3,,3,,,,1,,,,7,12,,,8,,,,,,,,,6,17,,,5,,,,,,17,20,,,5,2,7,28,,2,nan,11.5,nan,20.0,nan,nan,nan,nan,nan,55.0,nan,47.5,nan,nan,nan,nan,1.75,nan,nan,nan,nan,6.5,nan,2.25,nan
+Quercus georgiana,15.0,5,,,,,,,3,,,,,,,,1,12,,,8,,,,,,,,,,,,,15,,,,,,26,17,,,,38,7,49,,6,nan,8.625,nan,55.0,nan,nan,nan,nan,nan,nan,nan,85.0,11.5,nan,nan,nan,3.75,nan,nan,nan,nan,14.5,nan,1.5,nan
+Quercus graciliformis,8.0,9,,,,,,,10,,,,,,,,5,12,,,8,,,,,,,,,,17,,,,1,,,,,17,2,,,,13,27,28,,3,nan,8.625,nan,17.5,nan,nan,nan,nan,nan,nan,nan,67.5,8.5,nan,nan,nan,2.25,nan,nan,nan,nan,15.0,nan,1.5,nan
+Quercus gravesii,13.0,0,,,24,,,,2,,,,,,,,1,12,,,13,,,,,,,,,,,,,6,0,,,,,26,2,,,,10,27,49,,2,nan,4.75,nan,39.125,nan,nan,nan,nan,nan,nan,nan,52.5,9.75,nan,nan,nan,3.5,nan,nan,nan,nan,15.0,nan,2.0,nan
+Quercus grisea,10.0,9,,,19,7,2,,2,,,,1,,,,7,18,,,8,,,,,,,,,6,,,,15,,,,,,15,12,,,,34,19,37,,6,nan,7.0,nan,22.5,nan,nan,nan,nan,nan,30.0,nan,30.0,11.5,nan,nan,nan,1.5,nan,nan,nan,nan,6.5,nan,1.5,nan
+Quercus havardii,1.5,9,,,18,,2,,10,,,,1,,,,0,18,,,25,,,,,,,,,,42,,,15,,,,,,27,20,,,,2,19,69,6,6,nan,11.0,nan,35.0,nan,nan,nan,nan,nan,10.0,nan,75.0,20.0,nan,nan,nan,2.0,nan,nan,nan,nan,7.0,nan,1.75,nan
+Quercus hemisphaerica,35.0,,,,,,,,14,,,,,,,,1,12,,,8,,,,,,,,,,17,,,,1,,,,,27,2,,,,42,27,49,,10,nan,10.125,nan,25.0,nan,nan,nan,nan,nan,nan,nan,75.0,13.5,nan,nan,nan,3.75,nan,nan,nan,nan,3.0,nan,1.75,nan
+Quercus hinckleyi,nan,9,,,14,,8,,3,,,,,,,,1,,,,23,,,,,,,,,,5,,,15,,,,,,15,2,,,,34,27,45,,,nan,8.5,nan,15.0,nan,nan,nan,nan,nan,4.0,nan,15.0,11.25,nan,nan,nan,0.75,nan,nan,nan,nan,2.0,nan,1.25,nan
+Quercus hypoleucoides,10.0,0,,,45,,,,14,,,,,,,,5,12,,,8,,,,,,,,,,17,,,,7,,,,,27,8,,,,26,29,49,,2,nan,8.0,nan,27.5,nan,nan,nan,nan,nan,nan,nan,82.5,8.5,nan,nan,nan,3.5,nan,nan,nan,nan,7.25,nan,2.25,nan
+Quercus ilicifolia,6.0,9,,,24,,,,14,,,,,,,,5,12,,,8,,,,,,,,,,,,,15,7,,,,,17,10,,,,37,7,49,,6,nan,9.325,nan,60.0,nan,nan,nan,nan,nan,nan,nan,85.0,11.625,nan,nan,nan,3.25,nan,nan,nan,nan,17.5,nan,2.25,nan
+Quercus imbricaria,20.0,6,,,,,,,9,,,,,,,,1,12,,,23,,,,,,,,,,17,,,,1,,,,,17,2,,,,40,19,49,,6,nan,10.25,nan,45.0,nan,nan,nan,nan,nan,nan,nan,140.0,14.0,nan,nan,nan,4.5,nan,nan,nan,nan,15.0,nan,2.25,nan
+Quercus incana,10.0,0,,,,,,,10,,,,,,,,5,12,,,23,,,,,,,,,,17,,1,15,11,,,,,4,8,,,,34,29,49,,6,nan,10.75,nan,23.5,nan,nan,nan,nan,nan,nan,nan,65.0,13.5,nan,nan,nan,5.25,nan,nan,nan,nan,5.0,nan,1.75,nan
+Quercus inopina,5.0,9,,,47,2,,,9,,,,,,,,5,12,,,23,,,,,,,,,,17,,,6,1,,,,3,15,7,,,,13,7,49,1,5,nan,9.125,nan,35.0,nan,nan,nan,nan,nan,nan,nan,65.0,11.75,nan,nan,nan,4.0,nan,nan,nan,nan,5.0,nan,2.5,nan
+Quercus intricata,nan,9,,,6,12,2,,,,,,1,,,,5,,,,23,,,,,,,,,,6,,,15,,,,,,17,12,,,7,34,7,37,0,6,nan,nan,nan,9.0,nan,nan,nan,nan,nan,15.0,nan,17.5,nan,nan,nan,nan,1.25,nan,nan,nan,nan,2.5,nan,1.25,nan
+Quercus john-tuckeri,3.0,9,,,24,3,,1,,,,,,,,,7,12,,,8,,,,,,,,,6,24,,,15,,,,,,41,20,,,,34,27,18,,2,nan,nan,nan,12.5,nan,nan,nan,nan,nan,nan,nan,22.5,nan,nan,nan,nan,1.75,nan,nan,nan,nan,2.5,nan,1.25,nan
+Quercus kelloggii,25.0,5,,,,,,,14,,,,,,,,0,12,,,8,,,,,,,,,,,,,15,7,,,,,26,8,,,,5,7,49,,2,nan,27.5,nan,90.0,nan,nan,nan,nan,nan,nan,nan,69.0,21.0,nan,nan,nan,7.0,nan,nan,nan,nan,35.0,nan,2.75,nan
+Quercus laceyi,8.0,,,,3,,2,,15,,,4,,,,,1,12,8,,,,3,,,,,,,6,,,,,,,,10,,,17,,,,26,7,40,1,2,nan,5.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,11.0,nan,nan,nan,2.25,nan,nan,nan,nan,36.0,nan,1.75,nan
+Quercus laevis,20.0,3,,,,,,,10,,,4,,,,,5,4,0,,,,,,,14,,,,,,,,,8,,,6,,11,12,,,,2,,45,6,2,nan,15.25,nan,115.0,nan,nan,nan,nan,nan,nan,nan,79.375,17.5,nan,nan,nan,nan,nan,nan,nan,nan,15.0,nan,nan,nan
+Quercus laurifolia,40.0,5,,,,,,,14,,,,,,,,1,12,,,25,,,,,,,,,,17,,,15,1,,,,,11,8,,,,5,27,61,,6,nan,10.625,nan,30.0,nan,nan,nan,nan,nan,nan,nan,75.0,13.5,nan,nan,nan,4.25,nan,nan,nan,nan,3.25,nan,2.0,nan
+Quercus lobata,nan,9,,,24,8,,1,,,,,1,,,,7,12,,,25,,,,,,,,,6,,,,15,,,,,,13,20,,,,26,27,40,6,14,nan,45.0,nan,45.0,nan,nan,nan,nan,nan,nan,nan,75.0,20.0,nan,nan,nan,4.0,nan,nan,nan,nan,8.5,nan,3.0,nan
+Quercus lyrata,20.0,16,,,14,,,,15,,,,12,,,,8,,,,25,,,,,,,,,,,,,15,,,,,,17,12,,,,41,18,40,5,9,nan,27.5,nan,75.0,nan,nan,nan,nan,nan,40.0,nan,130.0,27.5,nan,nan,nan,3.0,nan,nan,nan,nan,14.0,nan,3.0,nan
+Quercus macrocarpa,nan,9,,,18,,3,,1,,,,1,,,,5,,,,26,,,,,,,,,6,40,,,15,,,,,,17,17,,,,23,27,40,1,,nan,35.0,nan,90.0,nan,nan,nan,nan,nan,13.0,nan,110.0,35.0,nan,nan,nan,3.5,nan,nan,nan,nan,20.0,nan,3.0,nan
+Quercus margarettae,nan,9,,,24,,2,,10,,,,1,,,,1,12,,,25,,,,,,,,,6,,,,15,,,,,,13,14,,,,34,27,40,6,6,nan,15.25,nan,30.0,nan,nan,nan,nan,nan,20.0,nan,60.0,13.5,nan,nan,nan,2.5,nan,nan,nan,nan,6.5,nan,1.5,nan
+Quercus marilandica,15.0,0,,,,,,,9,,,,,,,,5,4,,,23,,,,,,,,,,,,,15,7,,,,,15,2,,,,13,20,40,6,,nan,11.25,nan,135.0,nan,nan,nan,nan,nan,nan,nan,135.0,14.75,nan,nan,nan,7.5,nan,nan,nan,nan,12.5,nan,3.0,nan
+Quercus michauxii,20.0,9,,,24,2,0,,3,,,,1,,,,,12,,,4,,,,,,,,,,7,,,15,,,,,,3,8,,,,0,27,40,1,6,nan,25.0,nan,115.0,nan,nan,nan,nan,nan,25.0,nan,190.0,27.5,nan,nan,nan,nan,nan,nan,nan,nan,12.5,nan,2.5,nan
+Quercus minima,nan,9,,,24,,1,,3,,,,1,,,,1,15,,,8,,,,,,,,0,4,17,,,15,,,,,10,17,12,,,8,0,6,40,,4,nan,17.5,nan,23.75,nan,nan,nan,nan,nan,16.5,nan,44.166666666666664,11.5,nan,nan,nan,0.75,nan,nan,nan,nan,2.5,nan,2.25,nan
+Quercus mohriana,3.0,,,,18,,,,3,,,,16,,,,6,10,,,8,,,,,,,,,6,17,,,15,,,,,,27,19,,,,18,29,37,1,6,nan,8.5,nan,25.0,nan,nan,nan,nan,nan,12.5,nan,40.0,13.0,nan,nan,nan,2.0,nan,nan,nan,nan,3.5,nan,1.5,nan
+Quercus montana,30.0,9,,,24,,3,,3,,,,1,,,,1,12,,,4,,,,,,,,,6,40,,,8,,,,,,36,2,,,1,16,7,40,1,2,nan,22.5,nan,80.0,nan,nan,nan,nan,nan,14.0,nan,160.0,15.0,nan,nan,nan,5.0,nan,nan,nan,nan,20.0,nan,2.5,nan
+Quercus muehlenbergii,nan,9,,,14,,3,,10,,,,1,,,,5,12,,,12,,,,,,,,,6,40,,,8,,,,,,17,2,,,,34,6,40,6,2,nan,8.0,nan,60.0,nan,nan,nan,nan,nan,8.0,nan,100.0,15.0,nan,nan,nan,30.0,nan,nan,nan,nan,20.0,nan,2.25,nan
+Quercus myrtifolia,12.0,9,,,47,,,,14,,,,,,,,1,12,,,23,,,,,,,,0,,17,,,,7,,,,,27,8,,,,2,7,18,,10,nan,9.125,nan,17.5,nan,nan,nan,nan,nan,nan,nan,32.5,11.0,nan,nan,nan,3.75,nan,nan,nan,nan,3.0,nan,1.75,nan
+Quercus nigra,30.0,2,,,,,,,9,,,,,,,,1,12,,,25,,,,,,,,,,17,,,15,1,,,,,11,8,,,,34,27,18,6,6,nan,10.25,nan,37.5,nan,nan,nan,nan,nan,nan,nan,75.0,13.0,nan,nan,nan,4.75,nan,nan,nan,nan,5.5,nan,2.0,nan
+Quercus oblongifolia,10.0,9,,,24,,2,,10,,,,12,,,,6,12,,,25,,,,,,,,,,42,,,15,,,,,,17,2,,,,26,5,37,,6,nan,14.5,nan,17.5,nan,nan,nan,nan,nan,8.0,nan,45.0,11.0,nan,nan,nan,1.5,nan,nan,nan,nan,3.5,nan,1.25,nan
+Quercus oglethorpensis,nan,9,,,28,,10,,9,,,,2,,,,0,15,,,25,,,,,,,,,0,17,,,15,,,,,,15,8,,,,34,27,18,1,6,nan,9.75,nan,32.5,nan,nan,nan,nan,nan,7.0,nan,100.0,8.75,nan,nan,nan,2.25,nan,nan,nan,nan,4.5,nan,1.0,nan
+Quercus pacifica,nan,,,,,,,1,2,,,4,1,,,,4,11,8,,,,4,,,13,,,,,42,,,,2,,,2,,,12,,,,2,,68,,2,nan,21.25,nan,1.5,nan,nan,nan,nan,nan,nan,nan,2.5,14.75,nan,nan,nan,nan,nan,nan,nan,nan,15.5,nan,nan,nan
+Quercus pagoda,40.0,12,,,,,,,14,,,,,,,,5,12,,,8,,,,,,,,,,,,,15,7,,,,,17,10,,,,10,29,49,5,6,nan,9.5,nan,110.0,nan,nan,nan,nan,nan,nan,nan,195.0,13.0,nan,nan,nan,6.5,nan,nan,nan,nan,35.0,nan,2.75,nan
+Quercus palmeri,nan,,,,14,8,,1,,,,,,,,,5,12,,,25,,,,,,,,,3,5,,,15,1,,,4,,26,8,,,,19,27,45,1,,nan,25.0,nan,30.0,nan,nan,nan,nan,nan,nan,nan,13.375,12.5,nan,nan,nan,1.25,nan,nan,nan,nan,3.5,nan,2.25,nan
+Quercus palustris,25.0,15,,,,,,,14,,,,,,,,1,12,,,4,,,,,,,,,,,,,15,1,,,,,26,8,,,,34,7,18,,2,nan,10.125,nan,85.0,nan,nan,nan,nan,nan,nan,nan,105.0,12.375,nan,nan,nan,4.0,nan,nan,nan,nan,40.0,nan,2.25,nan
+Quercus phellos,30.0,12,,,24,,,,9,,,,1,,,,1,12,,,8,,,,,,,,0,,17,,,,3,,,,,4,8,,,,2,19,33,1,2,nan,7.625,nan,17.5,nan,nan,nan,nan,nan,nan,nan,85.0,8.75,nan,nan,nan,3.0,nan,nan,nan,nan,3.0,nan,1.5,nan
+Quercus polymorpha,20.0,9,,,24,,3,,0,,,,1,,,,6,12,,,25,,,,,,,,,,32,,,15,,,,,,27,8,,,,16,6,18,0,6,nan,11.5,nan,45.0,nan,nan,nan,nan,nan,17.5,nan,75.0,16.0,nan,nan,nan,6.5,nan,nan,nan,nan,20.0,nan,2.5,nan
+Quercus prinoides,nan,9,,,14,,2,,10,,,,1,,,,0,12,,,4,,,,,,,,,6,40,,,8,,,,,,17,2,,,,34,27,28,6,2,nan,10.5,nan,40.0,nan,nan,nan,nan,nan,5.5,nan,90.0,15.0,nan,nan,nan,2.0,nan,nan,nan,nan,11.5,nan,2.25,nan
+Quercus pumila,1.0,9,,,8,2,,,14,,,,,,,,5,12,,,25,,,,,,,,,,17,,,,7,,,,3,4,4,,,,2,19,37,,2,nan,9.375,nan,21.5,nan,nan,nan,nan,nan,nan,nan,62.5,11.5,nan,nan,nan,3.5,nan,nan,nan,nan,3.0,nan,1.5,nan
+Quercus pungens,nan,5,,,28,,2,10,3,,,,1,,,,6,,,,8,,,,,,,,,6,6,,,15,,,,,,27,12,,,,0,19,18,6,6,nan,9.0,nan,15.0,nan,nan,nan,nan,nan,3.0,nan,25.0,10.0,nan,nan,nan,2.0,nan,nan,nan,nan,10.0,nan,1.5,nan
+Quercus robur,30.0,9,,,18,,3,,15,,,,1,,,,1,12,,,25,,,,,,,,,,,,,15,,,,,,15,2,,,,34,7,40,1,2,nan,nan,nan,60.0,nan,nan,nan,nan,nan,50.0,nan,56.25,nan,nan,nan,nan,nan,nan,nan,nan,nan,4.5,nan,2.5,nan
+Quercus robusta,13.0,0,,,,,,,14,,,,,,,,0,12,,,13,,,,,,,,,,17,,,6,7,,,,,27,8,,,,13,7,49,6,3,nan,10.0,nan,35.0,nan,nan,nan,nan,nan,nan,nan,87.5,9.25,nan,nan,nan,5.5,nan,nan,nan,nan,12.5,nan,2.0,nan
+Quercus rubra,30.0,15,,,14,,,,9,,,,7,,,,1,3,,,8,,,,,16,,,,,,,,15,1,,,,,41,8,,,,26,27,49,,6,nan,22.5,nan,90.0,nan,nan,nan,nan,nan,nan,nan,84.75,19.75,nan,nan,nan,5.5,nan,nan,nan,nan,37.5,nan,2.75,nan
+Quercus rugosa,nan,5,,,14,,9,,15,,,,1,,,,0,12,,,25,,,,1,,,,,,,,,5,,,,,,34,12,,,,32,29,40,0,2,nan,9.0,nan,70.0,nan,nan,nan,nan,nan,45.0,nan,100.0,15.0,nan,nan,nan,3.0,nan,nan,nan,nan,7.0,nan,1.5,nan
+Quercus sadleriana,nan,9,,,24,,,,,,,,1,,,,,12,,,4,,,,,,,,0,6,32,,,15,,,,,,27,2,,,,40,27,40,7,14,nan,nan,nan,57.5,nan,nan,nan,nan,nan,nan,nan,105.0,14.0,nan,nan,nan,9.0,nan,nan,nan,nan,20.0,nan,3.5,nan
+Quercus shumardii,35.0,5,,,,,,,14,,,,7,,,,1,3,,,8,,,,,,,,,,,,,15,1,,,,,26,12,,,,26,7,18,1,4,nan,15.625,nan,105.0,nan,nan,nan,nan,nan,nan,nan,150.0,18.75,nan,nan,nan,6.0,nan,nan,nan,nan,40.0,nan,2.75,nan
+Quercus similis,nan,5,,,18,,,,2,,,,1,,,,7,12,,,26,,,,,,,,,,,,,15,,,,,,4,12,,,,26,30,40,6,2,nan,14.0,nan,57.5,nan,nan,nan,nan,nan,nan,nan,97.5,10.0,nan,nan,nan,2.5,nan,nan,nan,nan,6.5,nan,2.5,nan
+Quercus sinuata,nan,9,,,39,,8,,3,,,,1,,,,4,12,,,25,,,,,,,,,,40,,,15,,,,,,4,12,,,,34,6,37,1,2,nan,8.0,nan,42.5,nan,nan,nan,nan,nan,4.0,nan,75.0,10.5,nan,nan,nan,2.5,nan,nan,nan,nan,3.5,nan,1.5,nan
+Quercus sinuata var. breviloba,nan,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,,65,,,nan,7.5,nan,30.0,nan,nan,nan,nan,nan,nan,nan,45.0,9.25,nan,nan,nan,nan,nan,nan,nan,nan,2.5,nan,nan,nan
+Quercus sinuata var. sinuata,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31,,,,,34,,,,,nan,8.5,nan,42.5,nan,nan,nan,nan,nan,nan,nan,85.0,11.25,nan,nan,nan,nan,nan,nan,nan,nan,4.0,nan,nan,nan
+Quercus stellata,nan,9,,,28,3,5,,9,,,,1,,,,5,12,,,25,,,,,,,,,6,,,,15,,,,,,13,20,,,,38,27,40,6,6,nan,12.25,nan,60.0,nan,nan,nan,nan,nan,6.0,nan,95.0,11.25,nan,nan,nan,4.0,nan,nan,nan,nan,9.0,nan,4.0,nan
+Quercus tardifolia,nan,9,,,,,,,,,,,,,,,5,3,,,23,,,,,,,,,,,,,15,0,,,,,27,8,,,,,29,18,,2,nan,nan,nan,45.0,nan,nan,nan,nan,nan,nan,nan,75.0,nan,nan,nan,nan,4.5,nan,nan,nan,nan,15.0,nan,2.0,nan
+Quercus texana,25.0,5,,,,,,,14,,,,15,,,,1,12,,,8,,,,,,,,,,,,,15,1,,,,,17,8,,,,2,7,49,,4,nan,15.5,nan,92.5,nan,nan,nan,nan,nan,nan,nan,137.5,17.0,nan,nan,nan,5.0,nan,nan,nan,nan,35.0,nan,2.25,nan
+Quercus tomentella,nan,,,,16,11,,9,,,,,,,,,6,,,,25,,,,,,,,,,,,,9,12,,,,,15,8,,,,34,17,11,,,nan,25.0,nan,32.5,nan,nan,nan,nan,nan,nan,nan,40.0,17.5,nan,nan,nan,8.5,nan,nan,nan,nan,6.5,nan,3.5,nan
+Quercus toumeyi,nan,9,,,16,,2,,,,,,1,,,,5,12,,,8,,,,,,,,,,17,,,15,,,,,,17,2,,,,34,27,21,,6,nan,6.0,nan,10.0,nan,nan,nan,nan,nan,2.0,nan,16.5,8.5,nan,nan,nan,nan,nan,nan,nan,nan,2.75,nan,nan,nan
+Quercus turbinella,4.0,5,,,14,,2,,2,,,,1,,,,0,9,,,8,,,,,,,,,,6,,,15,,,,,,15,12,,,,32,7,18,6,2,nan,9.0,nan,12.5,nan,nan,nan,nan,nan,25.0,nan,25.0,10.75,nan,nan,nan,1.5,nan,nan,nan,nan,2.5,nan,2.0,nan
+Quercus vaccinifolia,nan,,,,27,2,,1,,,,,,,,,1,,,,8,,,,,,,,,6,17,,,15,7,,,,,27,8,,,,34,27,39,,,nan,12.5,nan,11.0,nan,nan,nan,nan,nan,nan,nan,22.5,7.5,nan,nan,nan,2.5,nan,nan,nan,nan,6.5,nan,1.25,nan
+Quercus vaseyana,10.0,5,,,24,11,2,,3,,,,1,,,,0,10,,,8,,,,,,,,,6,,,,15,,,,,,27,4,,,,0,6,28,0,9,nan,3.5,nan,15.0,nan,nan,nan,nan,nan,2.5,nan,40.0,nan,nan,nan,nan,1.25,nan,nan,nan,nan,5.0,nan,1.25,nan
+Quercus velutina,25.0,5,,,24,,,,9,,,,,,,,5,12,,,8,,,,,,,,,,,,,15,7,,,,,41,8,,,,34,7,49,6,9,nan,11.875,nan,115.0,nan,nan,nan,nan,nan,nan,nan,200.0,15.5,nan,nan,nan,9.0,nan,nan,nan,nan,47.5,nan,3.5,nan
+Quercus viminea,nan,,,,,,,,10,,,,,,,,5,12,,,8,,,,,,,,,,17,,,6,7,,,,,26,8,,,,10,7,28,1,6,nan,12.0,nan,8.5,nan,nan,nan,nan,nan,nan,nan,47.5,8.75,nan,nan,nan,2.0,nan,nan,nan,nan,3.5,nan,2.5,nan
+Quercus virginiana,nan,5,,,45,,1,9,3,,,,1,,,,0,18,,,24,,,,,,,,,4,17,,,15,,,,,,27,12,,,8,34,7,40,,10,nan,11.5,nan,30.0,nan,nan,nan,nan,nan,15.0,nan,62.5,nan,nan,nan,nan,1.5,nan,nan,nan,nan,5.5,nan,2.0,nan
+Quercus wislizenii,22.0,0,,,,,,,14,,,,,,,,1,12,,,25,,,,,,,,,,17,,,15,7,,,,,15,8,,,,10,27,45,,6,nan,18.75,nan,35.0,nan,nan,nan,nan,nan,nan,nan,47.5,11.75,nan,nan,nan,6.0,nan,nan,nan,nan,11.5,nan,2.25,nan
+Carya,52.0,9,,,,,,,17,,,,1,,,,1,,,,,,,,,,,,0,,,,,7,7,,,,,,17,21,,,,,,1,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carya aquatica,46.0,5,21,,,13,,,17,,,,1,,,,8,6,,,4,,,,,,,,,3,17,,,15,12,,,,,,0,21,,,29,7,32,11,0,nan,nan,nan,2.5,2.25,nan,nan,nan,nan,nan,nan,7.75,nan,nan,nan,nan,9.0,nan,nan,1.0,nan,5.5,nan,nan,nan
+Carya cordiformis,52.0,5,21,,,13,,,,,,,1,,,,,6,,,4,,,,,,,3,,3,32,,,,,,,,,,18,60,,,34,19,32,,12,nan,nan,nan,4.0,2.5,nan,nan,nan,nan,nan,nan,7.0,nan,nan,nan,nan,10.0,nan,nan,2.5,nan,5.0,nan,nan,nan
+Carya floridana,5.0,9,18,,,11,,,,,,,17,,,,1,12,,,4,,,,,,,,0,3,32,,,,,,,,,,8,21,,,13,,49,,8,nan,nan,nan,3.0,3.5,nan,nan,nan,nan,nan,nan,4.75,nan,nan,nan,nan,6.0,nan,nan,2.5,nan,5.5,nan,nan,nan
+Carya glabra,30.0,9,11,,,2,,,,,,,17,,,,1,12,,,4,,,,,,,4,,3,32,,,,1,,,,,,8,21,,,29,7,49,1,6,nan,nan,nan,6.0,nan,nan,nan,nan,nan,nan,nan,8.25,nan,nan,nan,nan,10.0,nan,nan,nan,nan,8.5,nan,nan,nan
+Carya illinoinensis,44.0,9,12,,,11,,,13,,,,0,,,,1,6,,,4,,,,,,,,,3,32,,,,,,,,,,8,21,,,16,,32,4,7,nan,nan,nan,4.0,4.25,nan,nan,nan,nan,nan,nan,7.25,nan,nan,nan,nan,9.0,nan,nan,3.5,nan,6.0,nan,nan,nan
+Carya laciniosa,41.0,9,11,,,,,,,,,,17,,,,3,,,,4,,,,,,,,,3,32,,,6,4,,,,,,16,21,,,13,13,49,10,12,nan,nan,nan,6.5,5.25,nan,nan,nan,nan,nan,nan,11.0,nan,nan,nan,nan,16.0,nan,nan,10.0,nan,9.5,nan,nan,nan
+Carya myristiciformis,35.0,5,11,,5,11,,,13,,,,4,,,,,12,,,4,,,,,,,,,3,32,,,6,,,,,,,2,21,,,13,19,49,,1,nan,nan,nan,4.5,2.5,nan,nan,nan,nan,nan,nan,7.25,nan,nan,nan,nan,5.0,nan,nan,2.0,nan,6.5,nan,nan,nan
+Carya ovata,46.0,9,28,,,4,,,,,,,17,,,,1,12,,,4,,,,,,,,,3,32,,1,,,,,,,,17,21,,,29,,49,1,2,nan,nan,nan,7.5,3.25,nan,nan,nan,nan,nan,nan,9.75,nan,nan,nan,nan,12.0,nan,nan,9.5,nan,8.5,nan,nan,nan
+Carya ovata var. australis,nan,,,,,,,,,,,,,,,,1,12,,,,,,,,,,,,,,,,,1,,,,,,8,,,,,,,1,0,nan,nan,nan,nan,2.75,nan,nan,nan,nan,nan,nan,2.5,nan,nan,nan,nan,10.5,nan,nan,nan,nan,8.0,nan,nan,nan
+Carya ovata var. ovata,nan,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,4,,,,,,4,,,,,13,6,10,2,nan,nan,nan,nan,3.75,nan,nan,nan,nan,nan,nan,4.5,nan,nan,nan,nan,13.5,nan,nan,nan,nan,9.0,nan,nan,nan
+Carya pallida,29.0,9,11,,,2,,,,,,,17,,,,5,12,,,4,,,,,,,3,,3,32,,,,,,,,,,8,21,,,38,,49,,6,nan,nan,nan,3.5,3.5,nan,nan,nan,nan,nan,nan,6.5,nan,nan,nan,nan,7.5,nan,nan,3.0,nan,6.5,nan,nan,nan
+Carya texana,41.0,0,21,,40,4,,,,,,,17,,,,5,12,,,4,,,,,,,,,3,32,,,,7,,,,,,2,21,,,29,7,49,,2,nan,nan,nan,4.5,4.0,nan,nan,nan,nan,nan,nan,6.25,nan,nan,nan,nan,6.5,nan,nan,3.0,nan,5.5,nan,nan,nan
+Carya tomentosa,36.0,9,11,,,6,,,,,,,17,,,,3,12,,,8,,,,,,,,,3,32,,,15,,,,,,,8,21,,,13,13,49,10,,nan,nan,nan,5.0,4.0,nan,nan,nan,nan,nan,nan,7.75,nan,nan,nan,nan,14.0,nan,nan,7.0,nan,7.5,nan,nan,nan
+Juglandaceae,nan,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Juglans,50.0,9,,,,,,,13,,,,17,,,,,,,,,,,,,,,,0,,,,,3,,,,,,,7,,,,20,,73,4,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Juglans californica,9.0,9,28,,,,,,14,,,,,,,,,12,,,,,,,,,,,,,,,,,,,,,,,,,,,20,,,,,nan,2.0,nan,nan,2.8,nan,nan,nan,nan,nan,nan,5.5,nan,nan,nan,nan,6.9,nan,nan,nan,nan,3.5,nan,nan,nan
+Juglans cinerea,nan,6,25,,21,,,,14,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,0,,70,,,nan,4.5,nan,nan,6.0,nan,nan,nan,nan,nan,nan,15.0,nan,nan,nan,nan,8.0,nan,nan,nan,nan,7.75,nan,nan,nan
+Juglans hindsii,23.0,9,28,,,3,,,13,,,,,,,,,3,,,,,,,,,,,0,3,,,1,6,,,,,,,,,,,20,,,,,nan,2.8,nan,nan,4.25,nan,nan,nan,nan,nan,nan,7.0,nan,nan,nan,nan,10.15,nan,nan,nan,nan,5.5,nan,nan,nan
+Juglans major,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Juglans major var. major,18.0,9,29,,,3,,,13,,,,,,,,,12,,,,,,,,,,,,3,,,1,15,,,,,,,,,,,38,6,,,,nan,2.25,nan,nan,2.75,nan,nan,nan,nan,nan,nan,5.5,nan,nan,nan,nan,8.5,nan,nan,nan,nan,4.5,nan,nan,nan
+Juglans microcarpa,10.0,9,28,,,,,,13,,,,,,,,,12,,,,,,,,,,,,,,,,,,,,,,,,,,,38,7,,,,nan,1.4,nan,nan,1.8499999999999999,nan,nan,nan,nan,nan,nan,4.0,nan,nan,nan,nan,5.75,nan,nan,nan,nan,2.0,nan,nan,nan
+Juglans nigra,nan,9,28,,,2,,,14,,,,,,,,,18,,,,,,,,,,,,3,,,1,,,,,,,,,,,,13,,,,,nan,3.5,nan,nan,5.75,nan,nan,nan,nan,nan,nan,9.0,nan,nan,nan,nan,10.5,nan,nan,nan,nan,10.25,nan,nan,nan
+Comptonia,nan,,19,,,,,,,,,,,,7,,,,,,,,,,1,,,,,,,9,,,,0,,,,,,31,0,,,19,57,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Comptonia peregrina,nan,,,,19,,,,,,14,,,,6,,,,,,8,,,,,,,,,,,7,,,,,,,,41,,,,,,17,13,,,nan,nan,nan,1.5999999999999999,4.0,nan,nan,nan,nan,nan,nan,9.25,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Myrica,nan,,28,,,,,,,,,,,,7,,,,,,,,,,1,,,,,,11,9,,,,0,,,,,,40,12,,,7,35,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Myrica californica,nan,,13,,24,,,,,,10,,,,13,,,,,,8,,,,,,,,,,18,,,6,,,,,,12,,,,,,16,18,,,nan,nan,nan,1.9,5.25,nan,nan,nan,nan,nan,nan,8.5,nan,nan,nan,nan,nan,nan,6.0,nan,nan,nan,nan,nan,nan
+Myrica cerifera,nan,,13,,24,,,,,,10,,,,5,,,,,,8,,,,,,,,,,32,,,6,,5,,,,17,,,,,,8,34,,,nan,nan,nan,1.8499999999999999,2.75,nan,nan,nan,nan,nan,nan,6.25,nan,nan,nan,nan,nan,nan,14.0,nan,nan,nan,nan,nan,nan
+Myrica gale,nan,,25,,24,,,,,,3,,,,,,,,,,25,,,,,,,,,,32,3,,,,,,,,17,,,,,,17,35,,,nan,nan,nan,1.0,2.75,nan,nan,nan,nan,nan,nan,4.0,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan,nan,nan,nan
+Myrica hartwegii,nan,,25,,24,,,,,,3,,,,,,,,,,23,,,,,,,,,,32,,,,,,,,,17,,,,,,27,35,,,nan,nan,nan,2.2,2.0,nan,nan,nan,nan,nan,nan,6.800000000000001,nan,nan,nan,nan,nan,nan,1.8,nan,nan,nan,nan,nan,nan
+Myrica heterophylla,nan,,13,,,,,,,,22,,,,5,,,,,,25,,,,,,,,,,17,,,15,,5,,,,17,,,,,,17,35,,,nan,nan,nan,3.1,3.75,nan,nan,nan,nan,nan,nan,7.7,nan,nan,nan,nan,nan,nan,3.0,nan,nan,nan,nan,nan,nan
+Myrica inodora,nan,,13,,24,,,,,,,,,,,,,,,,25,,,,,,,,,,17,,,,,,,,,17,,,,,,7,38,,,nan,nan,nan,2.55,6.0,nan,nan,nan,nan,nan,nan,7.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Myrica pensylvanica,nan,,13,,24,,,,,,18,,,,5,,,,,,23,,,,,,,,,,32,,,15,,,,,,11,,,,,,27,35,,,nan,nan,nan,2.1,4.5,nan,nan,nan,nan,nan,nan,4.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Myricaceae,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,57,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,,,,,,,,,,,,,,,,27,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus cremastogyne,nan,9,,,,,9,,,,5,,,,2,11,,,,,8,,,,,18,,,0,,32,,1,15,1,,,,,17,,,14,6,,34,40,1,,nan,nan,nan,5.75,nan,nan,nan,nan,nan,2.25,3.0,9.0,nan,6.0,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Alnus ferdinandi-coburgii,nan,9,,,47,,,,,,14,,,7,7,3,,,,,8,,,,,18,,,0,,32,,1,15,7,,,,,17,,,24,,,27,49,,,nan,nan,3.5,5.0,nan,nan,nan,nan,nan,2.25,3.0,10.5,nan,2.25,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Alnus formosana,nan,6,,,,,,,,,9,,,7,7,8,,,,,4,,,,,,,,,,32,,1,15,7,,,11,,27,,,,,,,18,1,,nan,nan,3.5,3.5,nan,nan,nan,nan,nan,4.0,2.0,9.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.7000000000000002,nan,nan,nan
+Alnus henryi,nan,,,,,,,,,,21,,,7,7,3,,,,,8,,,,,,,,,,32,,,15,7,,,11,,27,,,,,,27,49,,,nan,nan,4.0,3.75,nan,nan,nan,nan,nan,nan,nan,6.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.3,nan,nan,nan
+Alnus hirsuta,nan,6,,,6,,,,,,14,,,7,7,11,,,,,25,,,,,,,,0,,35,,1,6,7,3,,,,17,,,,,,14,45,6,,nan,nan,3.5,5.75,nan,nan,nan,nan,nan,2.5,3.0,6.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,3.5,nan,nan,nan
+Alnus japonica,nan,6,,,,,,,,,14,,,7,7,8,,,,,,,,,,,,,0,,,,,,2,2,,,,,,,,,,,40,1,,nan,nan,4.0,nan,nan,nan,nan,nan,nan,1.0,2.0,nan,nan,nan,nan,nan,nan,nan,9.0,nan,nan,2.0,nan,nan,nan
+Alnus lanata,nan,11,,,13,,9,,,,9,,,7,11,5,,,,,8,,,,,7,,,0,,32,,,6,11,,,,,,,,14,7,,29,38,,,nan,nan,4.0,5.5,nan,nan,nan,nan,nan,2.75,3.0,9.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Alnus mandshurica,nan,9,,,,,7,,,,5,,,7,2,,,,,,8,,,,,,,,0,,32,,1,15,7,,,,,37,,,,6,,,49,,,nan,nan,3.5,5.25,nan,nan,nan,nan,nan,1.25,2.0,7.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Alnus nepalensis,nan,9,,,47,,,,,,27,,,7,7,6,,,,,8,,,,,,,,0,,32,,1,15,,,,,,17,,,,1,,19,31,1,,nan,nan,4.0,6.25,nan,nan,nan,nan,nan,5.0,2.0,10.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Alnus trabeculosa,nan,9,,,,,,,,,5,,,7,7,11,,,,,8,,,,,,,,0,,32,,1,15,,,,,,,,,,1,,7,38,1,,nan,nan,6.0,4.75,nan,2.0,nan,nan,nan,1.5,3.0,11.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,8,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula albosinensis,nan,12,,,,,9,,,,10,,,,3,11,,,,,4,,,,,,,,,,28,,,15,,,,,,37,,39,,,,34,49,,,nan,nan,5.5,3.5,nan,nan,nan,nan,nan,1.0,2.0,5.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,nan,nan,nan
+Betula alnoides,nan,9,,,,,,,,3,26,,,,3,8,,,,,5,,,,,,,,,,22,,1,6,12,,,,,17,,4,,9,,34,28,,,nan,nan,3.0,4.0,nan,nan,nan,nan,nan,2.5,1.5,8.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,2.25,nan,nan,nan
+Betula austrosinensis,nan,6,,,,,,,,,11,,,,7,3,,,,,5,0,,,,,,,,,32,9,1,15,,,,,,37,,34,14,,,7,23,,,nan,nan,1.05,4.5,nan,2.0,nan,nan,1.2,2.5,4.0,9.5,nan,4.25,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Betula calcicola,nan,2,,,47,,,,,,27,,,,13,10,,,,,23,0,,,,18,,,,,13,16,,5,9,,,,,17,,,14,,,21,45,,,nan,nan,5.0,2.0,nan,2.0,nan,nan,7.0,2.0,2.5,2.6,nan,1.75,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Betula chinensis,nan,2,,,,,,,,,11,,,,13,11,,,,,8,0,,,,,,,,,8,9,1,6,12,,,,,17,,40,14,,,34,49,,,nan,nan,7.0,3.0,nan,nan,nan,nan,0.6,1.5,nan,3.75,nan,1.5,nan,nan,nan,nan,nan,nan,nan,1.1,nan,nan,nan
+Betula costata,nan,6,,,,,,,,0,10,,,,2,8,,,,,5,0,,,,,,,,,32,,1,6,,,,,,37,,34,14,,,34,49,,,nan,nan,6.5,3.0,nan,nan,nan,nan,1.0,3.5,2.5,5.25,nan,2.0,nan,nan,nan,nan,nan,nan,nan,1.4,nan,nan,nan
+Betula cylindrostachya,nan,2,,,,,,,,3,27,,,,13,6,,,,,4,,,,,18,,,,,34,9,1,15,7,,,,,37,,26,0,6,,27,23,,,1.6,nan,2.5,5.0,nan,1.0,nan,nan,5.0,8.5,2.0,9.5,nan,6.25,nan,nan,nan,nan,nan,nan,nan,1.15,nan,nan,nan
+Betula dahurica,nan,1,,,,,,,,0,10,,,,2,3,,,,,4,0,,,,,,,,,13,,1,15,,,,,,,,40,18,,,8,49,,,nan,nan,5.5,4.25,nan,nan,nan,nan,1.0,8.5,nan,6.0,nan,2.25,nan,nan,nan,nan,nan,nan,nan,1.0,nan,nan,nan
+Betula delavayi,nan,9,,,45,,,,,3,4,,,,13,8,,,,,4,0,,,,,,,,,32,16,,15,12,,,,,27,,40,14,9,,34,18,,,nan,nan,7.5,2.5,nan,1.5,nan,nan,5.0,5.0,2.5,4.5,nan,1.75,nan,nan,nan,nan,nan,nan,nan,7.5,nan,nan,nan
+Betula delavayi var. delavayi,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula delavayi var. microstachya,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula delavayi var. polyneura,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula ermanii,nan,10,,,,,,,,,10,,,,2,5,,,,,8,,,,,,,,,,28,,,6,,,,,,,,,17,,,34,49,,,nan,nan,6.5,3.1,nan,1.8,nan,nan,0.8,4.5,2.5,4.5,nan,2.1,nan,nan,nan,nan,nan,nan,nan,1.7,nan,nan,nan
+Betula ermanii var. ermanii,nan,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,,,,3,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,4.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula ermanii var. macrostrobila,nan,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,,,,2,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula ermanii var. yingkiliensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula fargesii,nan,9,,,,,,,,3,4,,,,7,8,,,,,4,0,,,,,,,,,28,,,6,7,,,,,27,,,17,,,17,49,,,nan,nan,7.5,3.5,nan,nan,nan,nan,0.5,1.5,nan,5.25,nan,1.25,nan,nan,nan,nan,nan,nan,nan,5.0,nan,nan,nan
+Betula fruticosa,nan,10,,,,,,,,,4,,,,2,3,,,,,8,0,,,,,,,,,32,,,6,1,,,,,17,,34,14,6,,8,49,,,nan,nan,5.5,1.5,nan,1.0,nan,nan,5.0,3.5,1.5,2.25,nan,1.5,nan,nan,nan,nan,nan,nan,nan,6.0,nan,nan,nan
+Betula fujianensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula gmelinii,nan,2,,,,,,,,,4,,,,7,4,,,,,8,,,,,,,,,,32,,,6,,,,11,,17,,40,14,,,7,18,,,nan,nan,5.5,1.75,nan,1.5,nan,nan,8.0,4.5,3.0,2.75,nan,1.6,nan,nan,nan,nan,nan,nan,nan,4.5,nan,nan,nan
+Betula gynoterminalis,nan,,,,47,,,,,,23,,,,2,,,,,,4,0,,,,,,,,,32,,,6,12,,,,,17,,34,,,,7,49,,,4.0,nan,8.0,7.5,nan,1.5,nan,nan,nan,6.0,2.0,12.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,5.0,nan,nan,nan
+Betula halophila,nan,6,,,,,,,,3,4,,,,7,11,,,,,8,0,,,,,,,,,28,9,,6,7,,,11,,,,36,14,6,,19,49,,,nan,nan,7.0,2.1,nan,1.5,nan,nan,1.0,6.5,2.0,3.5,nan,2.5,nan,nan,nan,nan,nan,nan,nan,1.0,nan,nan,nan
+Betula humilis,nan,5,,,,,,,,,4,,,,7,6,,,,,8,0,,,,,,,,,32,,,15,7,,,,,17,,34,14,6,,7,49,,,nan,nan,3.5,1.05,nan,1.5,nan,nan,4.0,2.0,2.0,1.75,nan,1.25,nan,nan,nan,nan,nan,nan,nan,5.0,nan,nan,nan
+Betula insignis,nan,2,,,,,,,,0,27,,,,7,6,,,,,4,0,,,,,,,,,28,9,1,15,,,,,,37,,,14,,,34,18,,,nan,nan,9.5,4.5,nan,1.5,nan,nan,nan,3.25,4.0,10.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.4,nan,nan,nan
+Betula jinpingensis,nan,,,,,,,,,,14,,,,2,3,,,,,4,0,,,,,,,,,32,,,6,,,,,,27,,40,14,,,34,29,,,nan,nan,6.5,4.25,nan,nan,nan,nan,1.0,6.5,2.0,8.5,nan,4.5,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Betula jiulungensis,nan,,,,47,,,,,,4,,,,13,11,,,,,4,,,,,18,,,,,13,14,,15,9,,11,,9,,,40,14,,,34,49,,,nan,nan,5.0,1.85,nan,1.5,nan,nan,5.0,2.0,2.0,3.5,nan,1.5,nan,nan,nan,nan,nan,nan,nan,4.0,nan,nan,nan
+Betula luminifera,nan,5,,,,,,,,3,11,,,,7,8,,,,,19,,,,,,,,0,,33,,1,6,12,,,,,27,,,0,6,,19,37,,,nan,nan,2.5,4.25,nan,nan,nan,nan,6.0,1.5,2.0,7.25,nan,6.0,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Betula microphylla,nan,10,,,,,,,,3,14,,,,3,11,,,,,8,0,,,,,,,,,32,9,,15,7,,,11,,17,,34,14,,,19,61,,,nan,nan,5.5,2.25,nan,1.5,nan,nan,7.0,7.5,2.5,3.25,nan,1.75,nan,nan,nan,nan,nan,nan,nan,1.0,nan,nan,nan
+Betula microphylla var. ebinurica,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula microphylla var. harasiica,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula microphylla var. latibracteata,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula microphylla var. paludosa,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula microphylla var. tumantica,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula middendorfii,nan,7,,,24,,9,,,0,10,,,,7,11,,,,,23,0,,,,,,,,,13,3,,6,7,,,,,18,,37,14,6,,7,40,,,nan,nan,6.0,1.65,nan,1.5,nan,nan,8.0,9.0,2.0,2.1,nan,1.35,nan,nan,nan,nan,nan,nan,nan,3.0,nan,nan,nan
+Betula ovalifolia,nan,6,,,45,,,,,,27,,,,7,3,,,,,23,0,,,,,,,,,32,,,6,,,,,,17,,40,14,6,,7,18,,,nan,nan,5.5,3.0,nan,1.5,nan,nan,7.0,4.0,3.0,3.25,nan,2.25,nan,nan,nan,nan,nan,nan,nan,5.0,nan,nan,nan
+Betula pendula,nan,10,,,,,7,,,3,4,,,,2,4,,,,,5,0,,,,,,,,,14,9,,6,,21,,11,,41,,,14,,,7,54,,,nan,nan,5.5,3.75,nan,1.0,nan,nan,8.0,1.5,2.0,5.25,nan,2.15,nan,nan,nan,nan,nan,nan,nan,2.5,nan,nan,nan
+Betula platyphylla,nan,10,,,,,9,,,3,4,,,,2,6,,,,,8,0,,,,,,,,,32,9,1,6,,17,,11,,41,,39,18,,,19,71,,,nan,nan,6.0,4.75,nan,1.0,nan,nan,0.6,1.75,1.5,6.0,nan,3.5,nan,nan,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Betula potaninii,nan,6,,,45,,,,,3,4,,,,7,8,,,,,8,,,,,18,,,,,13,,,6,12,17,,,,27,,,14,9,,21,32,,,nan,nan,4.5,1.75,nan,1.0,nan,nan,5.0,2.0,1.5,2.25,nan,1.5,nan,nan,nan,nan,nan,nan,nan,4.0,nan,nan,nan
+Betula rhombibracteata,nan,8,,,,,,,,3,9,,,,3,6,,,,,4,,,,,,,,,,33,2,1,15,12,,,,,27,,46,,6,,34,37,,,3.0,nan,4.5,6.25,nan,1.5,nan,nan,nan,1.0,3.0,10.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Betula rotundifolia,nan,2,,,,,,,,,27,,,,2,6,,,,,,0,,,,,,,,,32,,,6,7,,,11,,17,,13,14,6,,7,45,,,nan,nan,6.0,1.4,nan,1.8,nan,nan,6.0,3.5,2.5,1.75,nan,1.95,nan,nan,nan,nan,nan,nan,nan,6.0,nan,nan,nan
+Betula schmidtii,nan,0,,,,,,,,3,9,,,,3,11,,,,,,,,,,,,,,,32,2,,6,12,,,,,27,,28,14,6,,34,49,,,nan,nan,4.5,3.5,nan,1.5,nan,nan,7.0,4.5,2.0,6.0,nan,2.5,nan,nan,nan,nan,nan,nan,nan,7.5,nan,nan,nan
+Betula tianschanica,nan,19,,,,,7,,,,4,,,,3,8,,,,,4,0,,,,,,,,,28,9,,6,,,,,,17,,40,14,6,,27,52,,,nan,nan,6.5,3.5,nan,nan,nan,nan,5.0,1.1,2.5,4.5,nan,2.5,nan,nan,nan,nan,nan,nan,nan,6.0,nan,nan,nan
+Betula trichogemma,nan,6,,,13,,,,,3,4,,,,11,10,,,,,23,,,,,,,,,,28,,,15,12,,,,,27,,,14,,,29,23,,,nan,nan,4.0,1.15,nan,1.8,nan,nan,3.0,nan,2.0,2.25,nan,1.4,nan,nan,nan,nan,nan,nan,nan,2.0,nan,nan,nan
+Betula utilis,nan,7,,,,,,,,,4,,,,7,8,,,,,5,0,,,,,,,,,28,9,1,6,,,,,,37,,,,,,19,49,,,nan,nan,6.5,4.25,nan,1.5,nan,nan,nan,1.0,2.0,6.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.4,nan,nan,nan
+Betulaceae,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,,,15,,,,,,,,,18,,,,56,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,32,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus chuniana,nan,2,,,,,,,,1,27,,,1,13,12,,,,,4,11,,,,18,,,,,32,13,1,6,12,,,,,15,,3,,6,,34,18,,,1.3,nan,2.25,5.25,nan,3.0,nan,nan,2.5,2.0,4.0,9.0,nan,8.0,nan,nan,nan,nan,nan,nan,nan,9.0,nan,nan,nan
+Carpinus cordata,nan,2,,,,,,,,0,11,,,,13,6,,,,,4,16,,,,,,,,,33,2,,6,11,,,,,15,,36,,6,,19,49,,,1.15,nan,2.0,4.5,nan,2.0,nan,nan,4.0,3.5,4.0,11.5,nan,8.5,nan,nan,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Carpinus cordata var. chinensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,34,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus cordata var. cordata,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus cordata var. mollis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus dayongina,nan,9,,,,,9,,,5,23,,,1,2,12,,,,,4,11,,,,,,,,,33,9,,15,7,,,,,17,,3,,6,,34,28,,,3.5,nan,6.5,1.25,nan,1.5,nan,nan,1.0,1.75,2.0,3.5,nan,1.95,nan,nan,nan,nan,nan,nan,nan,6.0,nan,nan,nan
+Carpinus fangiana,nan,6,,,,,,,,0,9,,,,,6,,,,,4,16,,,,,,,,,33,13,1,6,1,,,,,15,,13,,6,,7,32,,,1.1,nan,2.15,5.25,nan,nan,nan,nan,3.0,4.0,3.5,16.5,nan,47.5,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Carpinus fargesiana,nan,9,,,,,,,,5,4,,,0,13,12,,,,,4,7,,,,,,,,,28,16,1,6,12,,,11,,37,,3,,9,,34,32,,,7.0,nan,1.4,2.25,nan,2.5,nan,nan,2.5,1.25,3.0,5.0,nan,5.5,nan,nan,nan,nan,nan,nan,nan,8.0,nan,nan,nan
+Carpinus fargesiana var. fargesiana,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus fargesiana var. hwai,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus firmifolia,nan,9,,,,,,,,5,11,,,1,5,12,,,,,4,4,,,,,,,,,32,16,1,5,12,21,,,,37,,3,,9,,21,49,,,5.5,nan,1.5,1.75,nan,3.0,nan,nan,1.5,2.0,4.0,3.85,nan,4.5,nan,nan,nan,nan,nan,nan,nan,5.0,nan,nan,nan
+Carpinus glanduloso-punctata,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus hebestroma,nan,9,,,,,,,,5,9,,,6,7,12,,,,,4,5,,,,,,,,,32,9,,15,7,21,,11,,,,3,,6,,,28,,,5.0,nan,8.5,1.45,nan,1.5,nan,nan,1.5,1.75,2.5,5.25,nan,3.25,nan,nan,nan,nan,nan,nan,nan,8.5,nan,nan,nan
+Carpinus henryana,nan,9,,,,,,,,0,9,,,1,13,12,,,,,5,16,,,,,,,,,7,16,1,6,1,,,,,27,,3,,6,,34,28,,,nan,nan,nan,2.5,nan,3.0,nan,nan,2.0,2.0,4.0,6.5,nan,6.5,nan,nan,nan,nan,nan,nan,nan,1.35,nan,nan,nan
+Carpinus hupeana,nan,9,,,,,,,,5,23,,,6,2,12,,,,,4,12,,,,,,,,,8,16,1,6,12,,,,,27,,3,,9,,8,32,,,8.5,nan,1.3,3.45,nan,4.0,nan,nan,2.0,1.75,5.0,8.0,nan,8.5,nan,nan,nan,nan,nan,nan,nan,1.1,nan,nan,nan
+Carpinus kawakamii,nan,9,,,,,,,,1,4,,,0,2,12,,,,,4,11,,,,,,,,,13,9,,6,7,,,,,37,,40,,6,,34,32,,,nan,nan,1.9,2.15,nan,nan,nan,nan,2.0,1.0,3.0,4.5,nan,5.0,nan,nan,nan,nan,nan,nan,nan,1.15,nan,nan,nan
+Carpinus kweichowensis,nan,9,,,,,,,,3,5,,,,13,12,,,,,4,11,,,,18,,,0,,32,16,1,15,12,,,,,,,19,,9,,19,18,,,0.95,nan,2.9,4.5,nan,5.0,nan,nan,5.0,2.0,6.0,10.0,nan,11.5,nan,nan,nan,nan,nan,nan,nan,1.35,nan,nan,nan
+Carpinus londoniana,nan,10,,,,,,,,,1,,,6,13,12,,,,,4,11,,,,,,,,,28,2,1,15,7,,,,,18,,1,,9,,7,37,,,7.5,nan,2.75,2.6,nan,2.5,nan,nan,nan,2.5,3.0,9.0,nan,9.0,nan,nan,nan,10.0,nan,nan,nan,5.5,nan,nan,nan
+Carpinus londoniana var. lanceolata,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus londoniana var. latifolia,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus londoniana var. londoniana,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus londoniana var. xiphobracteata,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus microphylla,nan,9,,,,,,,,3,5,,,1,13,12,,,,,4,11,,,,,,,,,13,13,,15,12,,,,,,,3,,9,,27,32,,,5.0,nan,1.2000000000000002,0.95,nan,2.0,nan,nan,1.0,1.0,2.5,1.1,nan,2.65,nan,nan,nan,nan,nan,nan,nan,1.1,nan,nan,nan
+Carpinus minutiserrata,nan,9,,,,,,,,1,9,,,1,2,12,,,,,4,4,,,,,,,,,32,16,,15,12,,,,,37,,3,,6,,34,20,,,6.5,nan,1.35,2.5,nan,2.0,nan,nan,nan,1.5,3.0,8.5,nan,3.5,nan,nan,nan,nan,nan,nan,nan,7.0,nan,nan,nan
+Carpinus mollicoma,nan,9,,,45,,,,,5,4,,,0,13,12,,,,,4,11,,,,,,,,,30,16,,6,12,,,,,27,,3,,9,,34,29,,,5.0,nan,1.5,2.25,nan,3.0,nan,nan,1.0,1.5,4.0,5.75,nan,2.75,nan,nan,nan,nan,nan,nan,nan,5.5,nan,nan,nan
+Carpinus monbeigiana,nan,9,,,,,,,,3,5,,,1,7,12,,,,,8,11,,,,18,,,,,29,5,1,15,7,,11,,,27,,3,,3,,21,29,,,7.0,nan,1.8,3.25,nan,nan,nan,nan,2.0,1.75,3.0,7.5,nan,6.5,nan,nan,nan,nan,nan,nan,nan,1.0,nan,nan,nan
+Carpinus oblongifolia,nan,6,,,,,,,,0,23,,,6,13,12,,,,,8,16,,,,18,,,,,13,16,1,6,12,,,11,,27,,3,,9,,8,38,,,7.0,nan,1.25,3.0,nan,3.0,nan,nan,2.0,1.5,4.0,5.25,nan,7.0,nan,nan,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Carpinus omeiensis,nan,9,,,,,,,,5,4,,,0,,12,,,,,4,4,,,,18,,,,,33,16,1,6,12,,,,,27,,3,,9,,,18,,,4.5,nan,1.55,3.0,nan,3.0,nan,nan,1.5,2.5,4.0,7.0,nan,7.0,nan,nan,nan,nan,nan,nan,nan,6.5,nan,nan,nan
+Carpinus polyneura,nan,9,,,,,9,,,3,26,,,1,7,12,,,,,,11,,,,,,,,,33,16,1,15,7,21,,,,17,,3,,6,,34,20,,,5.0,nan,1.15,2.0,nan,1.5,nan,nan,1.0,2.0,2.0,6.0,nan,4.5,nan,nan,nan,nan,nan,nan,nan,7.5,nan,nan,nan
+Carpinus pubescens,nan,6,,,,,,,,3,4,,,1,13,12,,,,,4,4,,,,,,,,,32,16,1,15,7,,,,,17,,54,,1,,34,37,,,nan,nan,1.75,2.75,nan,2.0,nan,nan,1.0,2.5,3.0,7.5,nan,6.0,nan,nan,nan,nan,nan,nan,nan,9.5,nan,nan,nan
+Carpinus purpurinervis,nan,9,,,36,,,,,1,9,,,9,2,12,,,,,4,11,,,,,,,,,28,,,6,12,,,,,37,,3,,6,,7,29,,,7.0,nan,15.0,1.35,nan,3.0,nan,nan,1.5,2.5,4.0,4.0,nan,4.0,nan,nan,nan,nan,nan,nan,nan,6.0,nan,nan,nan
+Carpinus putoensis,nan,6,,,,,,,,0,4,,,7,13,12,,,,,4,11,,,,,,,,,33,,1,6,7,,,,,27,,40,,9,,19,18,,,8.0,nan,2.9,4.25,nan,4.0,nan,nan,4.0,2.25,6.0,7.5,nan,5.5,nan,nan,nan,nan,nan,nan,nan,7.5,nan,nan,nan
+Carpinus rankanensis,nan,9,,,,,,,,,4,,,,2,12,,,,,4,16,,,,,,,,,33,,,15,1,,,,,15,,36,,,,34,37,,,7.0,nan,13.0,3.5,nan,nan,nan,nan,nan,2.5,3.5,9.0,nan,11.0,nan,nan,nan,nan,nan,nan,nan,7.5,nan,nan,nan
+Carpinus rankanensis var. matsudae,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus rankanensis var. rankanensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus rupestris,nan,9,,,,,,,,,4,,,,13,,,,,,,,,,,2,,,,,,,,,12,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,2.0,nan,nan,nan,2.0,nan,nan,nan
+Carpinus shensiensis,nan,9,,,,,,,,0,9,,,0,7,12,,,,,4,4,,,,,,,,,32,16,1,6,7,,,,,15,,3,,6,,8,37,,,1.1,nan,2.75,3.75,nan,3.0,nan,nan,4.0,2.25,4.0,7.5,nan,8.0,nan,nan,nan,nan,nan,nan,nan,1.2,nan,nan,nan
+Carpinus stipulata,nan,9,,,,,,,,5,23,,,1,2,12,,,,,4,11,,,,,,,,,28,16,1,6,12,,,,,37,,3,,9,,7,49,,,3.0,nan,15.0,2.0,nan,2.5,nan,nan,2.0,1.0,4.0,2.75,nan,5.0,nan,nan,nan,nan,nan,nan,nan,1.0,nan,nan,nan
+Carpinus sungpanensis,nan,9,,,,,,,,5,4,,,1,13,12,,,,,4,11,,,,,,,,,33,2,,15,7,,,11,,27,,3,,9,,34,49,,,6.5,nan,1.4,2.1,nan,3.0,nan,nan,1.0,2.25,4.0,4.5,nan,5.0,nan,nan,nan,nan,nan,nan,nan,1.1,nan,nan,nan
+Carpinus tientaiensis,nan,9,,,,,,,,5,11,,,6,5,12,,,,,8,16,,,,,,,0,,32,9,1,6,12,,,,,37,,1,,9,,17,49,,,7.5,nan,2.75,4.25,nan,4.5,nan,nan,nan,2.5,5.0,7.5,nan,7.5,nan,nan,nan,16.0,nan,nan,nan,1.15,nan,nan,nan
+Carpinus tsaiana,nan,9,,,,,,,,1,24,,,1,,14,,,,,4,16,,,,,,,,,32,16,1,6,12,,,,,15,,3,,1,,7,18,,,1.65,nan,2.75,5.25,nan,nan,nan,nan,nan,3.0,5.0,10.5,nan,12.0,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Carpinus tschonoskii,nan,9,,,,,,,,0,4,,,1,13,12,,,,,5,11,,,,,,,,,33,16,1,6,7,,,,,17,,3,,9,,34,18,,,1.0,nan,3.25,3.75,nan,3.0,nan,nan,3.0,2.5,4.0,8.5,nan,8.0,nan,nan,nan,nan,nan,nan,nan,1.15,nan,nan,nan
+Carpinus tsunyihensis,nan,9,,,,,,,,5,4,,,1,13,12,,,,,5,4,,,,,,,,,33,2,,15,7,,,11,,18,,3,,,,7,18,,,6.0,nan,1.35,3.7,nan,3.0,nan,nan,1.0,2.0,4.0,7.0,nan,5.25,nan,nan,nan,nan,nan,nan,nan,6.5,nan,nan,nan
+Carpinus turczaninowii,nan,9,,,,,,,,5,5,,,1,7,12,,,,,4,13,,,,,,,,,32,9,1,15,7,21,,,,17,,0,,,,34,49,,,7.0,nan,13.0,2.65,nan,2.0,nan,nan,nan,nan,3.0,4.0,nan,4.5,nan,nan,nan,10.0,nan,nan,nan,7.0,nan,nan,nan
+Carpinus viminea,nan,9,,,,,9,,,1,4,,,1,2,12,,,,,4,4,,,,,,,,,28,,1,15,7,,,,,37,,24,,6,,34,18,,,nan,nan,2.0,4.0,nan,2.5,nan,nan,2.5,2.75,3.0,8.5,nan,10.0,nan,nan,nan,10.0,nan,nan,nan,2.25,nan,nan,nan
+Carpinus viminea var. chiukiangensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus viminea var. viminea,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Corylus,nan,,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,,,,,,,,,,,7,,,34,,56,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Corylus chinensis,nan,6,,,,,,,,,9,,,,13,,,,,,19,,,,,,,,,,13,9,1,6,12,24,,13,,15,,43,,,39,7,49,,,nan,nan,1.25,9.0,nan,nan,nan,nan,nan,nan,nan,13.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Corylus fargesii,nan,8,,,,,,,,,14,,,1,7,,,,,,4,,,,,,,,,,13,9,,15,7,21,7,,,15,,42,,,,17,29,,,nan,nan,1.25,4.0,nan,nan,nan,nan,nan,nan,nan,7.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Corylus ferox,nan,9,,,,,,,,,9,,,0,7,,,,,,5,15,,,,,,,,,28,15,1,5,5,24,,,,27,,23,,,35,17,39,,,nan,1.25,nan,6.0,nan,nan,nan,nan,nan,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,2.25,nan,nan,nan
+Corylus ferox var. ferox,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Corylus ferox var. thibetica,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Corylus heterophylla,nan,9,,,,,,,,,,,,11,7,,,,,,19,,,,,,,,,,13,9,,6,7,24,3,11,,15,,7,,,35,17,37,,,nan,nan,1.55,6.25,nan,nan,nan,nan,nan,nan,nan,8.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Corylus heterophylla var. heterophylla,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Corylus heterophylla var. sutchuanensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Corylus mandshurica,nan,6,,,,,,,,,,,,,13,,,,,,14,,,,,,,,,,32,9,,15,12,24,,13,,15,,42,,,,17,49,,,nan,nan,nan,6.5,nan,nan,nan,nan,nan,nan,nan,9.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,2.0,nan,nan,nan
+Corylus wangii,nan,,,,,,,,3,,9,,,,5,,,,,,4,13,,,,,,,,,13,14,,15,5,24,11,11,,37,,53,,9,35,17,37,,,nan,1.5,3.25,4.75,2.0,nan,nan,nan,nan,1.0,nan,7.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,13.5,nan,nan,nan
+Corylus yunnanensis,nan,9,,,,,,,15,,4,,,,11,,,,,,4,,,,,,,,,,13,14,,15,11,24,11,13,9,15,,40,,7,35,29,46,,,nan,1.75,1.65,6.0,nan,nan,nan,nan,nan,1.0,nan,8.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,9.5,nan,nan,nan
+Ostrya,nan,,,,,,,,,,,,,,,6,,12,,,,,,,,,,,,,13,6,,,,,,,,,,48,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Ostrya japonica,nan,9,,,,,,,,0,5,,,,7,12,,,,,4,,,,,,,,,,13,,1,15,7,,,,,,,48,,6,,19,49,,,9.0,nan,1.5,3.5,nan,nan,nan,nan,nan,2.25,6.0,7.75,nan,2.0,nan,nan,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Ostrya multinervis,nan,6,,,,,,,,5,9,,,1,5,2,,,,,5,,,,,,,,,,33,12,1,6,5,,,,,37,,48,,4,,19,32,,,5.5,nan,1.25,3.5,3.5,2.0,nan,nan,nan,2.0,5.0,8.25,nan,4.5,nan,nan,nan,nan,nan,nan,nan,5.5,nan,nan,nan
+Ostrya rehderiana,nan,9,,,,,,,,0,23,,,,2,6,,,,,5,,,,,,,,,,32,6,,15,7,21,,,,17,,14,,6,,19,21,,,7.0,nan,2.3,2.9,nan,2.5,nan,nan,nan,1.75,7.0,6.5,nan,2.5,nan,nan,nan,nan,nan,nan,nan,4.0,nan,nan,nan
+Ostrya trichocarpa,nan,6,,,19,,,,,3,9,,,1,5,9,,,,,4,,,,,7,,,,,33,6,,6,5,,,,,15,,13,,4,,19,49,,,1.25,nan,1.95,3.75,nan,2.5,nan,nan,2.0,5.0,5.5,7.75,nan,6.25,nan,nan,nan,nan,nan,nan,nan,4.0,nan,nan,nan
+Ostrya yunnanensis,nan,9,,,47,,,,,0,9,,,1,7,2,,,,,5,,,,,18,,,,,28,12,1,15,11,,,,,17,,15,,7,,17,28,,,8.0,nan,1.75,2.25,5.0,3.0,nan,nan,nan,2.0,6.0,7.5,nan,4.5,nan,nan,nan,nan,nan,nan,nan,7.5,nan,nan,nan
+Ostryopsis,nan,,,,,,,,,,,,,,,13,,,,,,,,,,,,,,,13,,,,,,,,,,,,6,,,,56,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Ostryopsis davidiana,nan,,,,45,,9,,,3,14,,,,2,17,,,,,8,,,,,,,,,,13,9,1,15,7,,,,,15,,,6,3,,19,49,,,nan,nan,nan,3.25,nan,4.0,nan,nan,nan,2.5,4.0,4.25,nan,nan,nan,nan,nan,nan,nan,nan,nan,7.5,nan,nan,nan
+Ostryopsis intermedia,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Ostryopsis nobilis,nan,,,,13,,,,,3,4,,,,11,12,,,,,25,,,,,,,,,,13,14,,6,11,,4,,,15,,,6,7,,19,49,,,nan,nan,nan,nan,nan,3.0,nan,nan,nan,4.0,4.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,3.5,nan,nan,nan
+Casuarina,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Casuarina cunninghamiana,nan,16,,,,,,,,,13,,,1,,,,,,,,,,,,,,,,,,,,,,17,,,,,,,,,,,28,,,nan,nan,9.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,25.0,26.5,nan,nan,nan,nan,nan,nan
+Casuarina equisetifolia,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Casuarina glauca,nan,20,,,,,,,,,13,,,1,,,,,,,,,,,,,,,,,,,,,,17,,,,,,,12,,,,58,,,nan,nan,1.6,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,nan,nan,nan,nan,nan,nan
+Casuarinaceae,nan,,,7,,,,,,,,,,,7,,,,,,,,,,,,,,,,,2,,,,21,,,,,,,24,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanea,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,,,,,,,,,31,,,,75,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanea crenata,nan,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,32,,,,,,,,,17,,,,,,,29,,,nan,2.5,1.25,nan,nan,nan,nan,nan,nan,nan,nan,13.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Castanea henryi,nan,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,9,,,,,,,,27,,,,,35,,39,,,nan,1.75,nan,nan,nan,nan,nan,nan,nan,nan,nan,16.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Castanea mollissima,nan,,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,32,9,,15,,,,,,27,,,,,,19,21,,,nan,2.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,13.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Castanea seguinii,nan,,,,18,,,,,,,,,,,,,,,,4,,,,,,,,,,32,7,,,,,,,,37,,,,,,,38,,,nan,1.75,8.0,nan,nan,nan,nan,nan,nan,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,nan,nan,nan
+Castanopsis,nan,,,,,,,,,,,,,,,,,3,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis amabilis,nan,,,,18,,,,3,,,,,,,,,,,,14,,,,,,15,,,,17,,,6,,,,,,25,,,,,34,,28,,,nan,1.0,6.0,2.75,8.5,nan,nan,nan,nan,nan,nan,9.5,nan,26.0,nan,1.0,nan,20.0,nan,nan,nan,1.0,2.5,nan,2.5
+Castanopsis argyrophylla,nan,,,,28,,,,9,,,,,,,,,,,,19,,,,,,13,4,,,17,,,15,,,,,,17,,,,,40,,18,,,nan,1.65,4.0,5.5,nan,nan,nan,nan,nan,nan,nan,15.0,nan,nan,17.5,1.25,nan,nan,nan,nan,nan,1.75,nan,nan,3.0
+Castanopsis boisii,nan,,,,12,,,,9,,,,,,,,,,,,4,,,,,,5,,,,17,,,5,,,,,,17,,,,,34,19,23,,,nan,1.2999999999999998,5.875,5.0,9.0,nan,nan,nan,nan,nan,nan,13.5,1.05,nan,27.0,0.75,nan,25.0,nan,nan,nan,1.75,2.75,nan,nan
+Castanopsis calathiformis,nan,,,9,13,,,,15,,0,,7,,2,,,,,,8,,,,,,,,,,42,,,6,,,,,,17,,59,,,34,,37,,,nan,1.25,1.0,7.0,4.5,nan,nan,nan,nan,nan,nan,20.0,4.5,nan,12.0,1.0,nan,5.0,nan,nan,nan,1.75,nan,nan,nan
+Castanopsis carlesii,nan,,,,13,,,,,,,,,,,,,,,,14,,,,,,15,0,,,17,,,15,,,,,,25,,,,,40,,28,,,nan,nan,nan,2.75,5.0,nan,nan,nan,nan,nan,nan,8.0,nan,nan,nan,0.5,nan,20.0,nan,nan,nan,1.0,2.5,nan,1.25
+Castanopsis carlesii var. carlesii,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis carlesii var. spinulosa,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis ceratacantha,nan,,,,,,,,10,,,,,,,,,,,,4,,,,,,,,,,,16,,15,,,1,,,17,,,,,,,28,,,nan,1.65,4.0,3.5,1.0,nan,nan,nan,nan,nan,nan,14.0,1.6,nan,nan,1.25,nan,8.0,nan,nan,nan,1.0,nan,nan,nan
+Castanopsis cerebrina,nan,,,,13,,,,16,,24,,,,,,,,,,8,,,,,,,,,,42,8,,6,,3,,,,17,,,,,,,37,,,2.0,2.25,2.0,7.0,1.0,nan,nan,nan,nan,nan,nan,20.0,1.8,nan,nan,nan,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Castanopsis chinensis,nan,,,36,,,,,3,,,,,,,,,,,,14,,,,,,,,,,32,,,15,,,,,,4,,,,,,,28,,,nan,1.4,9.0,3.5,9.0,nan,nan,nan,nan,nan,nan,12.5,1.15,nan,11.5,1.25,nan,10.0,nan,nan,nan,1.75,nan,nan,nan
+Castanopsis choboensis,nan,,,,,,,,10,,,,,,,,,,,,14,,,,,,,2,,,8,,,5,,,,,,4,,,,,34,,18,,,nan,1.5,nan,4.0,1.0,nan,nan,nan,nan,nan,nan,11.5,nan,nan,13.0,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Castanopsis chunii,nan,,,,,,,,10,,,,1,,,,,,,,14,,,,,,,,,,17,9,,15,,,4,,,25,,,4,,13,,49,,,nan,2.575,5.5,6.5,nan,nan,nan,nan,nan,nan,nan,13.0,1.85,nan,nan,2.5,nan,10.0,nan,nan,nan,1.25,nan,nan,nan
+Castanopsis clarkei,nan,,,,,,,4,,,,,,,,,,,,,19,,,,,,15,,,,32,2,,15,,,,,,4,,,,,,,18,,,nan,1.5,1.25,7.0,nan,nan,nan,nan,nan,nan,nan,15.0,nan,20.0,nan,1.5,nan,nan,nan,nan,nan,2.25,4.5,nan,3.75
+Castanopsis concinna,nan,,,,,,,,10,,,,,,,,,,,,19,,,,,,10,,,,36,8,,5,,,,,,17,,,,,,,18,,,nan,1.0,1.5,2.5,nan,nan,nan,nan,nan,nan,nan,7.5,1.4,7.5,6.0,3.0,nan,nan,nan,nan,nan,8.0,5.0,nan,5.5
+Castanopsis crassifolia,nan,,14,,,,,,10,,14,,,,,,,,,,22,,,,,,,5,,,17,,,6,,,,,,17,,,,,34,,49,,,nan,1.2,7.0,9.5,6.0,nan,nan,nan,nan,nan,nan,15.0,1.2999999999999998,nan,6.0,2.0,nan,15.0,nan,nan,nan,3.5,5.0,nan,3.5
+Castanopsis damingshanensis,nan,,,,47,,,,10,,,,1,,2,,,,,,23,,,,,,9,,,,17,,,15,,,,,,17,,,,,,,49,,,nan,1.2,2.25,3.25,1.0,nan,nan,nan,nan,nan,nan,6.5,nan,nan,nan,1.5,nan,5.0,nan,nan,nan,4.5,5.0,nan,nan
+Castanopsis delavayi,nan,,,,18,,,,,,,,,,2,,,,,,25,,,,,,9,0,,,32,,,6,,,,,,27,,39,,,34,,40,,,nan,1.35,4.5,5.0,7.0,nan,nan,nan,nan,nan,nan,9.0,nan,nan,12.5,0.75,nan,20.0,nan,nan,nan,1.1,2.5,nan,1.75
+Castanopsis densispinosa,nan,,,,24,,,,9,,,,1,,2,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,34,27,49,,,nan,1.2,2.25,4.75,nan,nan,nan,nan,nan,nan,nan,15.5,1.0,nan,18.0,1.5,nan,15.0,nan,nan,nan,1.5,nan,nan,nan
+Castanopsis echinocarpa,nan,,,,,,,1,3,,4,,,,2,,,,,,4,,,,,,13,,,,32,9,,15,,,2,,,4,,2,,,40,,18,,,nan,1.15,2.0,3.75,8.5,nan,nan,nan,nan,nan,nan,9.75,nan,nan,nan,1.0,nan,7.0,nan,nan,nan,1.25,nan,nan,1.75
+Castanopsis eyrei,nan,,,,12,,,,3,,,4,,8,2,,,,0,,,,6,,,2,9,0,,,,8,,,,,6,11,,,,38,,,,,28,,,nan,7.0,1.8,3.5,9.0,nan,nan,nan,nan,nan,nan,9.0,nan,nan,nan,1.0,nan,8.0,nan,nan,nan,1.1,3.5,nan,nan
+Castanopsis fabri,nan,,,12,,,,,3,,,,,2,,,,,,,4,,,,,,,,,,17,9,,6,,,1,,,17,,,,,,,49,,,nan,1.2,7.5,3.75,9.0,nan,nan,nan,nan,nan,nan,13.0,1.1,nan,12.5,1.0,nan,8.0,nan,nan,nan,1.5,nan,nan,nan
+Castanopsis fargesii,nan,,,,13,,,,3,,,,,,2,,,,,,8,,,,,,13,,,,17,,,6,,,,,,17,,,,,40,,37,,,nan,1.25,5.875,3.5,9.0,nan,nan,nan,nan,nan,nan,11.0,1.0,nan,nan,1.0,nan,10.0,nan,nan,nan,1.5,2.25,nan,1.1
+Castanopsis ferox,nan,,,,,,,,3,,,,,,2,,,,,,8,,,,,,13,0,,,17,,,5,,,,,,17,,,,,40,,28,,,nan,1.0,4.2,3.5,9.0,nan,nan,nan,nan,nan,nan,12.0,1.05,20.0,nan,1.0,nan,10.0,nan,nan,nan,1.0,nan,nan,nan
+Castanopsis fissa,nan,,,,13,,,,15,,24,,7,,,,,,,,8,,,,,,,0,,,42,,,15,,3,,,,17,,59,,,17,18,37,,,nan,1.55,nan,7.0,5.5,nan,nan,nan,nan,nan,nan,20.0,1.35,nan,13.0,0.75,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Castanopsis fleuryi,nan,,,,,,,,,,,,,,2,,,,,,4,,,,,,5,5,,,17,,,6,,,,,,27,,2,,,,,18,,,nan,10.0,5.5,5.0,7.0,nan,nan,nan,nan,nan,nan,14.5,8.5,nan,11.5,0.5,nan,nan,nan,nan,nan,1.15,3.0,nan,nan
+Castanopsis fordii,nan,,,29,18,,,,10,,,,,,,,,,10,,8,,,,,,,,,,17,9,,5,,,,,,15,,,,,,,37,,,nan,3.425,1.5,5.0,nan,nan,nan,nan,nan,nan,nan,13.5,1.75,nan,9.0,3.5,nan,nan,nan,nan,nan,2.0,nan,nan,nan
+Castanopsis glabrifolia,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis globigemmata,nan,,,,6,,,,10,,1,,,,,,,,,,14,,,,,,10,,,,17,,,15,,,,,,4,,,29,,,17,23,,,nan,2.75,1.25,4.25,nan,nan,nan,nan,nan,nan,nan,12.5,nan,nan,6.0,3.5,nan,nan,nan,nan,nan,9.0,nan,nan,6.5
+Castanopsis hainanensis,nan,,,,18,,,,10,,,,,,,,,,,,25,,,,,,,,,,32,,,15,,,,,,17,,,,,,,40,,,nan,1.35,1.5,3.75,nan,nan,nan,nan,nan,nan,nan,8.5,1.8,nan,13.5,1.0,nan,nan,nan,nan,nan,1.4,5.5,nan,4.5
+Castanopsis hairocarpa,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis hsiensiui,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis hupehensis,nan,,,,,,,,,,,,,,,,,,,,14,,,,,,5,4,,,17,,,5,,,,,,25,,,,,,,28,,,nan,nan,5.0,2.5,10.5,nan,nan,nan,nan,nan,nan,8.5,nan,nan,nan,1.0,nan,10.0,nan,nan,nan,5.0,2.25,nan,2.1
+Castanopsis hystrix,nan,,,36,12,,,,3,,,,,,,,,,,,19,,,,,,,,,,,8,,15,,,,,,4,,,,,,19,28,,,nan,1.25,8.0,2.75,nan,nan,nan,nan,nan,nan,nan,6.5,1.05,nan,15.0,2.5,nan,nan,nan,nan,nan,1.0,nan,nan,nan
+Castanopsis indica,nan,,,36,,,,,5,,,,,,,,,,,,4,,,,,,,,,,32,,,6,,,,,,27,,54,,,,18,23,,,nan,2.475,1.5,8.0,nan,nan,nan,nan,nan,nan,nan,14.5,nan,40.0,18.5,1.0,nan,nan,nan,nan,nan,7.5,nan,nan,nan
+Castanopsis jianfenglingensis,nan,,,,,,,,10,,,,,,,,,,,,14,,,,,,15,,,6,17,,,5,,,,,,17,,,,,13,,23,,,nan,1.6,4.5,6.5,9.0,nan,nan,nan,nan,nan,nan,18.0,nan,nan,10.0,1.5,nan,20.0,nan,nan,nan,3.0,2.5,nan,2.5
+Castanopsis jucunda,nan,,,37,,,,,3,,,,,,,,,,,,4,,,,,,,,,,42,9,,6,,,2,,,17,,,,,34,,49,,,nan,1.5,8.0,6.0,1.1,nan,nan,nan,nan,nan,nan,14.0,1.25,nan,12.5,0.75,nan,10.0,nan,nan,nan,1.75,nan,nan,nan
+Castanopsis kawakamii,nan,,,,12,,,,9,,10,,5,,2,,,,,,14,,,,,,13,8,,,17,2,,11,,,,,,17,,6,,,,,49,,,nan,1.35,2.5,3.5,nan,nan,nan,nan,nan,nan,nan,9.0,1.85,7.5,nan,3.0,nan,nan,nan,nan,nan,1.75,nan,nan,7.0
+Castanopsis kweichowensis,nan,,,,,,,,15,,,,,,,,,,,,8,,,,,,13,5,,,32,9,,6,,,,,,17,,,,,,,37,,,1.9000000000000001,6.5,1.8,7.0,1.25,nan,nan,nan,nan,nan,nan,23.0,nan,17.5,nan,2.25,nan,20.0,nan,nan,nan,1.0,9.5,nan,3.25
+Castanopsis lamontii,nan,,,,,,,,10,,,,,,,,,,,,4,,,,,,13,,,,17,,,6,,,,,,27,,,,,,,18,,,nan,2.4,1.5,7.0,nan,nan,nan,nan,nan,nan,nan,21.0,3.0,nan,15.0,4.25,nan,8.0,nan,nan,nan,2.25,nan,nan,4.25
+Castanopsis ledongensis,nan,,,,12,5,,,,,4,,,,,,,,,,14,,,,,,15,0,,,2,,,15,,,,,,4,,2,,,,,37,,,nan,1.1,4.0,2.75,1.0,nan,nan,nan,nan,nan,nan,7.0,nan,nan,16.0,1.0,nan,18.0,nan,nan,nan,1.0,1.75,nan,2.0
+Castanopsis longispina,nan,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,6,17,8,,5,,,,,,27,,,,,13,,37,,,nan,2.5,1.4,6.5,nan,nan,nan,nan,nan,nan,nan,19.0,1.0,nan,nan,1.0,nan,nan,nan,nan,nan,1.25,4.5,nan,8.0
+Castanopsis longzhouica,nan,,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,2,8,,15,,,6,,,11,,15,,,,,18,,,nan,1.25,nan,nan,4.0,nan,nan,nan,nan,nan,nan,9.0,nan,1.5,nan,nan,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Castanopsis megaphylla,nan,,,,,,,,10,,1,,,,,,,,,,19,,,,,,15,4,,,17,,,5,,,4,,,17,,,,,40,,18,,,nan,1.0,nan,13.0,nan,nan,nan,nan,nan,nan,nan,35.5,nan,28.0,nan,nan,nan,nan,nan,nan,nan,2.5,7.0,nan,2.5
+Castanopsis mekongensis,nan,,,36,23,,,,10,,,,,,,,,,,,4,,,,,,,,,,17,9,,6,,,,,,27,,,,,,18,23,,,nan,3.4749999999999996,1.25,6.5,nan,nan,nan,nan,nan,nan,nan,20.0,1.75,nan,10.0,2.0,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Castanopsis nigrescens,nan,,,,18,,,1,10,,1,,,,,,,,,,4,,,,,,15,7,,,17,8,,15,,,6,,,27,,,,,34,,49,,,nan,2.5,1.3,4.5,nan,nan,nan,nan,nan,nan,nan,11.5,nan,nan,10.0,4.0,nan,8.0,nan,nan,nan,1.5,6.0,nan,4.25
+Castanopsis oblonga,nan,,,,8,,,,9,,1,,,,,,,,,,4,,,,,,8,,,,17,8,,5,,,4,,,4,,,,,,,49,,,nan,1.4,5.5,2.75,1.1,nan,nan,nan,nan,nan,nan,7.5,nan,nan,7.5,1.0,nan,8.0,nan,nan,nan,8.0,3.0,nan,3.0
+Castanopsis oleifera,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis orthacantha,nan,,,25,,,,,10,,,,,,,,,,,,8,,,,,,,,,,17,9,,15,,,1,,,38,,,,,,,49,,,nan,1.25,4.25,3.75,nan,nan,nan,nan,nan,nan,nan,10.5,nan,nan,15.0,2.75,nan,10.0,nan,nan,nan,1.0,nan,nan,nan
+Castanopsis ouonbiensis,nan,,,,12,,,,3,,,,,,,,,,,,8,,,,,,12,,,,17,8,,6,,,,,,27,,,,,,18,18,,,nan,1.6,4.375,5.0,1.1,nan,nan,nan,nan,nan,nan,14.0,1.2999999999999998,15.0,13.0,1.5,nan,25.0,nan,nan,nan,2.25,nan,nan,nan
+Castanopsis platyacantha,nan,,,37,12,,,,10,,,,1,,2,,,,,,8,,,,,,,,,,32,9,,5,,,2,,,17,,,,,,,49,,,nan,1.75,3.0,4.5,nan,nan,nan,nan,nan,nan,nan,14.0,1.7,nan,11.5,nan,nan,20.0,nan,1.75,nan,1.15,nan,nan,nan
+Castanopsis qingbeiensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis remotidenticulata,nan,,,,,,,,9,,9,,,,2,,,,,,14,,,,,,15,,,,32,,,12,,,,,,17,,,,,,,37,,,nan,2.1,4.5,3.5,2.1,nan,nan,nan,nan,nan,nan,9.0,nan,nan,8.5,1.5,nan,25.0,nan,nan,nan,1.0,4.5,nan,3.25
+Castanopsis rockii,nan,,14,,,,,,5,,24,,,,2,,,,,,4,,,,,,,4,,,17,,,15,,,,,,25,,,,,,,37,,,nan,1.2,1.25,5.5,4.5,nan,nan,nan,nan,nan,nan,20.0,nan,nan,nan,2.5,nan,20.0,nan,nan,nan,1.75,nan,nan,nan
+Castanopsis rufotomentosa,nan,,,,12,,,,3,,,,,,,,,,,,23,,,,,,,,,,17,,,6,,,3,,,4,,50,,,38,,28,,,nan,1.0,3.0999999999999996,3.0,9.0,nan,nan,nan,nan,nan,nan,15.0,nan,nan,11.5,1.0,nan,18.0,nan,nan,nan,5.0,nan,nan,nan
+Castanopsis sclerophylla,nan,,,36,20,,,7,16,,,,9,,,,,,,,4,,,,,,,,,,36,,,6,,,,,,17,,,,,40,,37,,,nan,1.275,nan,nan,8.0,nan,nan,nan,nan,nan,nan,11.0,nan,15.0,11.5,1.0,nan,nan,nan,nan,nan,2.0,nan,nan,nan
+Castanopsis subuliformis,nan,,,,12,,,,7,,4,,1,,2,,,,,,14,,,,,,13,0,,,,9,,6,,,8,,,4,,,,,,,37,,,nan,1.2,3.5,4.0,1.3,nan,nan,nan,nan,nan,nan,10.5,1.5,nan,11.0,1.0,nan,25.0,nan,nan,nan,1.5,3.5,nan,1.75
+Castanopsis tcheponensis,nan,,,,28,,,,3,,,,,,,,,,,,,,,,,,,,,,,2,,15,,,4,,,,,49,30,,40,,18,,,nan,1.65,9.5,5.0,nan,nan,nan,nan,nan,nan,nan,12.5,1.2999999999999998,15.75,nan,1.0,nan,nan,nan,nan,nan,1.0,nan,nan,nan
+Castanopsis tessellata,nan,,,37,,,,,7,,,,,,,,,,,,4,,,,,,,,,,17,7,,6,,,4,,,17,,,,,,18,37,,,nan,1.65,nan,6.5,1.25,nan,nan,nan,nan,nan,nan,22.5,1.75,nan,20.0,nan,nan,10.0,nan,nan,nan,2.25,nan,nan,nan
+Castanopsis tibetana,nan,,,,11,,,,5,,,,,,,,,,,,4,,,,,,13,,,,32,8,,15,,,,,,17,,,,,,,23,,,nan,1.65,2.0,7.5,nan,nan,nan,nan,nan,nan,nan,22.5,2.4,15.0,nan,3.5,nan,nan,nan,nan,nan,2.25,5.0,nan,7.0
+Castanopsis tonkinensis,nan,,,,12,,,,7,,,4,1,,2,,,,3,,,,4,,,13,,,,,,,,,12,,,15,,,,,30,,13,16,28,,,nan,1.05,8.0,2.75,8.5,nan,nan,nan,nan,nan,nan,9.5,nan,20.0,nan,0.75,nan,10.0,nan,nan,nan,2.0,nan,nan,nan
+Castanopsis tribuloides,nan,,,,8,,,,3,,,,,,,,,,,,8,,,,,,5,5,,,17,,,15,,,,,,4,,49,,,,19,18,,,nan,1.75,4.0,4.25,9.0,nan,nan,nan,nan,nan,nan,12.5,1.3,nan,25.0,1.0,nan,5.0,nan,nan,nan,1.25,nan,nan,1.9000000000000001
+Castanopsis uraiana,nan,,,,12,,,,,,,,,,,,,,,,,,,,,,3,,,,32,8,,5,,,,,,11,,59,,,,,23,,,nan,3.3,nan,2.5,5.5,nan,nan,nan,nan,nan,nan,10.0,9.5,nan,7.5,nan,nan,nan,nan,1.0,nan,1.1,2.0,nan,nan
+Castanopsis wattii,nan,,30,,,,,,5,,,,,,,,,,,,4,,,,,,,0,,,,,,6,,,,,,25,,,,,,,49,,,nan,2.25,6.0,4.0,8.5,nan,nan,nan,nan,nan,nan,15.5,1.25,20.0,nan,1.25,nan,15.0,nan,nan,nan,1.15,nan,nan,nan
+Castanopsis wenchangensis,nan,,,,,,,,10,,,,,,,,,,,,4,,,,,,15,,,,,,,5,,,,,,4,,,,,40,,28,,,nan,2.375,1.35,2.75,1.1,nan,nan,nan,nan,nan,nan,7.0,nan,5.5,4.5,1.5,nan,5.0,nan,nan,nan,1.5,1.25,nan,nan
+Castanopsis wuzhishangensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis xichouensis,nan,,,,18,,,,9,,,,1,,2,,,,,,8,,,,,,,,,,32,,,6,,,,,,17,,,,,,,18,,,nan,1.2,nan,4.75,8.0,nan,nan,nan,nan,nan,nan,12.5,nan,nan,20.0,1.5,nan,15.0,nan,nan,nan,2.0,8.0,nan,4.25
+Cyclobalanopsis,nan,,,,,,,,,,,,,,,,,12,,,,,,,,,,,0,,,,,,,,,,,,,21,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Cyclobalanopsis albicaulis,nan,,,,10,,,,3,,26,,1,,2,,,,,,14,3,,,,,11,0,,,2,,,15,1,25,,,,17,,,,,31,19,21,,,nan,4.0,nan,4.5,nan,nan,nan,nan,nan,nan,nan,12.5,2.5,2.5,nan,nan,nan,nan,nan,nan,nan,2.75,nan,nan,2.5
+Cyclobalanopsis annulata,nan,,,,,,,,,,14,,,,9,,,,,,4,11,,,,,,,,,36,,,6,,25,,,,17,,,,,34,25,21,,,1.35,1.35,7.0,4.25,nan,nan,nan,nan,nan,nan,nan,11.0,1.25,nan,nan,1.0,nan,nan,1.5,nan,nan,nan,nan,nan,nan
+Cyclobalanopsis argyrotricha,nan,,,9,24,,,9,15,,11,,11,,11,,,,,,4,,,,,,,,,6,32,,,6,11,,,,,27,,,,,34,27,49,,,nan,3.575,nan,3.25,nan,nan,nan,nan,nan,nan,nan,9.25,1.35,nan,1.0,2.0,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Cyclobalanopsis augustinii,nan,,,,,,,9,9,,,,2,,,,,,,,,11,,,,,,,,,,,,,1,25,,,,,,,,,9,7,32,,,nan,1.0750000000000002,nan,2.5,6.0,nan,nan,nan,nan,nan,nan,9.0,1.075,nan,nan,1.0,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Cyclobalanopsis augustinii var. nigrinux,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Cyclobalanopsis austrocochinchinensis,nan,,,,24,,,9,15,,4,,9,,,,,,,,8,4,,,,,,,,,32,,,15,,,,,,17,,,,,3,19,21,,,nan,1.3250000000000002,nan,4.0,nan,nan,nan,nan,nan,nan,nan,13.5,1.6,nan,nan,2.0,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Cyclobalanopsis austroglauca,nan,,27,,,2,,0,3,,,,2,,2,,,,,,4,4,,,,,,,,,,,,6,1,,,14,,17,,,,,34,,21,,,nan,2.1,1.0,4.0,8.0,nan,nan,nan,nan,nan,nan,12.0,nan,nan,4.5,1.0,nan,nan,nan,nan,nan,2.0,nan,nan,nan
+Cyclobalanopsis bella,nan,,,,19,,,,10,,,,2,,7,,,,,,4,8,,,,,,,,,32,,,6,1,,,,,25,,,11,,,19,21,,,nan,2.625,1.2,2.75,3.0,nan,nan,nan,nan,nan,nan,11.5,2.675,1.5,nan,1.0,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Cyclobalanopsis blakei,nan,,,,38,,,,12,,,,5,,2,,,,,,4,4,,,,,,,,,32,,,6,1,,,11,,17,,,22,,34,29,23,,,nan,5.25,9.0,1.75,nan,nan,nan,nan,nan,nan,nan,13.0,2.375,1.5,nan,1.0,nan,nan,nan,nan,nan,2.25,nan,nan,nan
+Cyclobalanopsis camusiae,nan,,,33,24,,,,12,,4,,1,,4,,,,,,14,11,,,,,,,,,36,,,6,1,,,,,17,,,,,9,7,20,,,nan,4.85,1.0,4.0,2.0,nan,nan,nan,nan,nan,nan,14.0,2.25,nan,2.0,3.0,nan,nan,nan,nan,nan,2.5,nan,nan,nan
+Cyclobalanopsis championii,nan,,,,24,,,9,5,,5,,1,,11,,,,,,,11,,,,5,,,,,17,,,6,11,23,,,,17,,,22,,34,7,40,,,nan,4.375,nan,3.0,4.5,nan,nan,nan,nan,nan,nan,6.75,1.2,4.0,nan,1.0,nan,nan,nan,nan,nan,1.15,nan,nan,nan
+Cyclobalanopsis changhualingensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Cyclobalanopsis chapensis,nan,,,,,,,9,3,,,,5,,13,,,,,,4,4,,,,,,,,,36,,,6,1,25,,,,17,,,,,37,,21,,,nan,5.05,1.5,3.0,3.0,nan,nan,nan,nan,nan,nan,14.5,2.55,nan,nan,4.0,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Cyclobalanopsis chevalieri,nan,,8,,24,,,,3,,26,,1,,,,,,,,14,4,,,,,,,,,17,,,5,,21,,,,17,,,,,14,7,18,,,nan,1.25,nan,3.0,1.975,nan,nan,nan,nan,nan,nan,8.5,0.7,nan,3.0,1.0,nan,nan,nan,nan,nan,6.5,nan,nan,nan
+Cyclobalanopsis chingsiensis,nan,,,,,,,2,9,,10,,,,12,,,,,,4,,,,,,,,,6,32,,,6,,,,11,,27,,,,,,7,21,,,nan,7.0,2.2,4.0,nan,nan,nan,nan,nan,nan,nan,9.0,2.5,nan,nan,3.0,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Cyclobalanopsis chungii,nan,,,33,,12,,9,15,,4,,2,,,,,,,,29,11,,,,3,,,,6,36,,,15,,,,,,17,,,,,,,18,,,nan,5.625,1.0,2.75,nan,nan,nan,nan,nan,nan,nan,8.0,1.725,1.75,2.25,2.0,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Cyclobalanopsis daimingshanensis,nan,,,,24,,,,3,,,,18,,2,,,,,,,11,,,,,,,,,36,,,15,1,,,,,17,,,22,,14,7,22,,,nan,2.85,nan,2.25,4.0,nan,nan,nan,nan,nan,nan,5.5,1.25,1.0,nan,nan,nan,nan,nan,nan,nan,6.5,nan,nan,nan
+Cyclobalanopsis delavayi,nan,,,,,,,,12,,,,5,,,,,,,,4,8,,,,,,,,,32,,,15,,,,,,17,,,29,,34,,37,,,nan,5.7,nan,3.25,7.0,nan,nan,nan,nan,nan,nan,10.0,1.25,nan,nan,2.0,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Cyclobalanopsis delicatula,nan,,8,,,,,9,10,,,,2,,2,,,,,,14,8,,,,,,,,,17,,,6,1,,,11,,17,,,,,13,,49,,,nan,2.25,nan,2.75,3.25,nan,nan,nan,nan,nan,nan,7.5,1.5,nan,1.0,1.0,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Cyclobalanopsis dinghuensis,nan,,,33,19,,,,15,,5,,2,,11,,,,,,25,11,,,,,,,,,17,,,15,,25,,,,27,,,,,13,29,21,,,nan,2.95,4.0,2.25,nan,nan,nan,nan,nan,nan,nan,8.5,2.05,nan,1.0,nan,nan,nan,5.0,nan,nan,1.25,nan,nan,nan
+Cyclobalanopsis disciformis,nan,,,10,,,,,9,,,,5,,,,,,,,14,11,,,,,,,,,,,,5,11,,,,,17,,,,,,,37,,,nan,2.625,nan,3.25,2.0,nan,nan,nan,nan,nan,nan,9.5,2.0,nan,5.0,4.0,nan,10.0,nan,nan,nan,2.0,nan,nan,nan
+Cyclobalanopsis dongfangensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Cyclobalanopsis edithiae,nan,,27,,24,,,,18,,,,5,,2,,,,,,,8,,,,,,,,,36,,,15,1,3,,,,17,,,,,13,,21,,,nan,3.75,nan,4.0,2.8,nan,nan,nan,nan,nan,nan,10.5,2.5,1.5,nan,2.5,nan,nan,nan,nan,nan,2.5,1.0,nan,nan
+Cyclobalanopsis elevaticostata,nan,,,,,,,,,,9,4,14,,2,,,,0,,,2,4,,,13,,,,,,,,,,25,,,,,,,,,11,7,18,,,nan,4.425,5.0,3.25,1.25,nan,nan,nan,nan,nan,nan,11.5,1.1,nan,nan,nan,nan,nan,nan,nan,nan,6.5,nan,nan,nan
+Cyclobalanopsis fleuryi,nan,,,,45,,,,15,,8,,,,11,,,,,,4,,,,,,,7,,,36,,,15,11,0,,,,17,,,,,9,29,21,,,nan,3.75,1.2,6.5,6.5,nan,nan,nan,nan,nan,nan,20.5,2.5,nan,nan,nan,nan,nan,3.25,nan,nan,4.0,7.0,nan,nan
+Cyclobalanopsis fuliginosa,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Cyclobalanopsis gambleana,nan,,,,6,,,,12,,,,1,,11,,,,,,4,8,,,,9,,,,,32,,,5,11,,,12,,17,,,,,9,29,21,,,nan,1.5,nan,3.5,8.0,nan,nan,nan,nan,nan,nan,16.0,1.65,nan,nan,1.0,nan,nan,nan,nan,nan,3.5,nan,nan,nan
+Cyclobalanopsis gilva,nan,,,,6,,,,9,,8,,2,,11,,,,,,4,11,,,,,,,,,,,,15,6,23,,,,17,,,,,15,,35,,,nan,4.375,nan,2.75,5.5,nan,nan,nan,nan,nan,nan,9.0,1.225,1.0,nan,1.0,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Cyclobalanopsis glauca,nan,,27,,,,,,3,,,,18,,2,,,,,,4,8,,,,,,,,,32,,,15,,,,,,17,,,,,34,7,40,,,nan,1.3,nan,3.75,6.75,nan,nan,nan,nan,nan,nan,9.5,1.15,nan,2.25,nan,nan,nan,nan,nan,nan,2.0,nan,nan,nan
+Cyclobalanopsis glaucoides,nan,,,,19,,,,12,,15,,1,,11,,,,,,4,,,,,,,,,,32,,,15,,,,,,17,,,22,,9,29,18,,,nan,4.1,nan,3.5,5.5,nan,nan,nan,nan,nan,nan,8.5,5.425,1.75,nan,nan,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Cyclobalanopsis gracilis,nan,,,,24,,,,,,,,,,11,,,,,,14,4,,,,,,,,,36,,,6,,,,,,17,,,,,13,,39,,,nan,4.375,nan,2.25,5.0,nan,nan,nan,nan,nan,nan,6.75,1.15,1.25,nan,nan,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Cyclobalanopsis helferiana,nan,,,,6,,,,18,,4,,12,,11,,,,,,23,8,,,,2,4,5,,,2,,,5,11,,,,,27,,,,,8,29,21,,,nan,1.3,nan,6.0,1.2999999999999998,nan,nan,nan,nan,nan,nan,13.5,1.85,nan,1.5,1.6,nan,nan,nan,nan,nan,1.5,2.0,nan,7.5
+Cyclobalanopsis hui,nan,,27,,6,,,,15,,8,,,,11,,,,,,23,8,,,,,,,,,17,,,15,,,,,,17,,,,,,29,21,,,nan,4.375,nan,2.25,8.5,nan,nan,nan,nan,nan,nan,10.0,2.125,1.5,1.0,1.0,nan,10.0,nan,nan,nan,1.2,nan,nan,nan
+Cyclobalanopsis hypophaea,nan,,,,45,12,,,,,26,,,,4,,,,,,4,,,,,9,,,,,17,,,15,11,21,,16,,17,,,,,34,19,20,,,1.4,1.9,6.5,1.9,6.5,nan,nan,nan,nan,nan,nan,7.25,1.5,nan,nan,nan,nan,nan,nan,nan,nan,5.25,nan,nan,nan
+Cyclobalanopsis jenseniana,nan,,,9,,,,,,,,,5,,2,,,,,,14,8,,,,,,,,,17,,,6,1,25,,14,,17,,,,,27,7,18,,,nan,1.425,nan,7.0,6.0,nan,nan,nan,nan,nan,nan,16.0,1.4,4.0,7.5,1.0,nan,nan,nan,nan,nan,4.0,nan,nan,nan
+Cyclobalanopsis jinpinensis,nan,,,,,,,,3,,,,,,2,,,,,,4,8,,,,,,,,,32,,,15,1,,,,,27,,,,,34,,21,,,nan,1.8,1.0,3.75,nan,nan,nan,nan,nan,nan,nan,9.0,1.5,nan,nan,nan,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Cyclobalanopsis kerrii,nan,,,,,,,,15,,,,18,,11,,,,,,4,11,,,,,,,,,32,,,15,11,,,,,17,,,,,9,29,21,,,nan,0.95,1.5,5.0,nan,nan,nan,nan,2.0,nan,nan,13.5,2.4,7.5,nan,2.0,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Cyclobalanopsis kiukiangensis,nan,,,,45,,,,12,,,,18,,,,,,,,8,4,,,,,11,,,,,14,,6,1,,4,,,27,,,,,9,,21,,,nan,1.475,nan,6.0,8.0,nan,nan,nan,nan,nan,nan,14.0,1.7750000000000001,nan,3.5,2.25,nan,nan,nan,nan,nan,2.0,4.0,nan,nan
+Cyclobalanopsis kouangsiensis,nan,,,,8,,,,15,,,,5,,,,,,,,4,4,,,,2,2,7,,,32,,,15,11,25,,,,17,,,,,13,29,21,,,nan,5.0,1.5,4.5,3.0,nan,nan,nan,nan,nan,nan,16.0,2.5,1.5,nan,1.5,nan,nan,nan,nan,nan,2.25,nan,nan,2.5
+Cyclobalanopsis lamellosa,nan,,,,24,,,,15,,,,15,,11,,,,,,14,8,,,,,,,,6,17,,,15,,,,,,17,,,,,9,7,23,,,nan,3.0,5.5,7.0,3.25,nan,nan,nan,nan,nan,nan,23.0,3.5,nan,2.5,nan,nan,nan,nan,nan,nan,3.0,nan,nan,nan
+Cyclobalanopsis litoralis,nan,6,,,6,,,,15,,4,,2,,11,,,,,,,8,,,,2,,,,,32,,,6,11,,,,,17,,22,,,13,29,18,,,nan,2.875,nan,7.5,nan,nan,nan,nan,nan,nan,nan,8.75,2.825,nan,nan,4.0,nan,nan,nan,nan,nan,3.75,nan,nan,nan
+Cyclobalanopsis litseoides,nan,,,,24,,,,15,,,,2,,11,,,,,,23,8,,,,,,,,,17,,,15,,,,,,17,,,22,,13,7,36,,,nan,3.575,nan,1.9,nan,nan,nan,nan,nan,nan,nan,4.75,5.5,1.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Cyclobalanopsis lobbii,nan,,,,,,,,3,,,,18,,2,,,,,,4,4,,,,,,,,6,32,,,6,1,,,,,27,,,,,9,7,21,,,nan,4.75,nan,4.0,nan,nan,nan,nan,nan,nan,nan,10.0,1.35,nan,nan,nan,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Cyclobalanopsis longinux,nan,,,,24,,,,15,,,,2,,2,,,,,,14,4,,,,,,,,,32,,,6,1,,,,,17,,,,,37,,32,,,nan,6.8,nan,2.25,nan,nan,nan,nan,nan,nan,nan,7.0,1.075,nan,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Cyclobalanopsis lungmaiensis,nan,,,,24,2,,,15,,,,,,2,,,,,,14,4,,,,,12,7,,,32,,,6,1,25,,14,,17,,,,,31,7,37,,,nan,1.6,nan,3.5,nan,nan,nan,nan,nan,nan,nan,10.5,nan,2.5,nan,nan,nan,nan,nan,nan,nan,2.25,nan,nan,0.85
+Cyclobalanopsis macrocalyx,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Cyclobalanopsis macrocalyx var. litoralis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Cyclobalanopsis morii,nan,,,,,,,9,3,,,,1,6,2,,,,,,14,4,,,,,3,0,,,32,,,15,1,,,,,25,,,,,34,7,37,,,nan,1.7999999999999998,1.0,3.25,1.0,nan,nan,nan,nan,nan,nan,8.0,1.575,nan,2.5,1.0,nan,nan,nan,nan,nan,2.25,nan,nan,nan
+Cyclobalanopsis motuoensis,nan,,8,,,,,,3,,,,,,,,,,,,14,9,,,,,,,,,17,,,15,1,25,,,,27,,,,,9,7,37,,,nan,1.6,4.0,3.5,1.2,nan,nan,nan,nan,nan,nan,5.75,1.15,nan,nan,nan,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Cyclobalanopsis multinervis,nan,,,9,19,,,,12,,,,18,,,,,,,,8,,,,,,,,,,32,,,6,,25,,,,17,,,,,27,,21,,,nan,4.9,4.0,4.0,1.5,nan,nan,nan,nan,nan,nan,11.5,1.25,nan,1.5,1.0,nan,nan,nan,nan,nan,1.85,nan,nan,nan
+Cyclobalanopsis myrsinifolia,nan,,,,18,,,9,3,,,,18,,2,,,,,,14,11,,,,,,,,,36,,,15,1,,,,,17,,,10,,34,7,49,,,nan,4.225,nan,2.9,6.0,nan,nan,nan,nan,nan,nan,8.5,1.325,2.25,nan,1.0,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Cyclobalanopsis neglecta,nan,,,9,45,,,,15,,5,,2,,9,,,,,,25,9,,,,,,7,,,17,,,15,1,,,,,17,,,,,13,7,28,,,nan,4.75,nan,1.15,6.0,nan,nan,nan,nan,nan,nan,7.0,1.35,7.5,7.5,1.0,nan,nan,nan,nan,nan,3.5,nan,nan,nan
+Cyclobalanopsis ningangensis,nan,,,,18,,,,3,,14,,,,4,,,,,,4,,,,,,,,,6,32,,,15,11,,,,,17,,,,,14,,21,,,1.0,1.75,5.0,3.0,nan,nan,nan,nan,nan,nan,nan,9.75,1.0,nan,nan,1.0,nan,nan,nan,nan,nan,2.25,nan,nan,nan
+Cyclobalanopsis obovatifolia,nan,,,,24,,,,3,,,,2,,,,,,,,8,4,,,,,,,,6,17,,,6,3,,,,,17,,,,,40,,40,,,nan,4.7,nan,2.0,6.5,nan,nan,nan,nan,nan,nan,4.25,1.525,nan,1.5,nan,nan,nan,nan,nan,nan,5.0,nan,nan,nan
+Cyclobalanopsis oxyodon,nan,,,,24,,,,12,,,,18,,11,,,,,,14,4,,,,,,,,,32,,,5,,,,,,17,,,10,,34,,18,,,nan,1.8,8.0,5.5,4.0,nan,nan,nan,nan,nan,nan,17.0,1.45,3.5,nan,1.0,nan,nan,nan,nan,nan,3.25,nan,nan,nan
+Cyclobalanopsis pachyloma,nan,,,,35,,,9,15,,8,,,,11,,,,,,4,4,,,,,,,,,32,,,6,,,,,,17,,,5,,29,12,40,,,nan,1.95,6.0,3.5,2.5,nan,nan,nan,nan,nan,nan,10.5,2.25,2.25,nan,1.5,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Cyclobalanopsis patelliformis,nan,,,,24,,,,12,,5,,5,,2,,,,,,4,11,,,,,,,,6,32,,,15,,3,,,,17,,,,,,,18,,,nan,2.375,1.75,4.25,4.0,nan,nan,nan,nan,nan,nan,8.5,2.65,2.5,nan,3.0,nan,nan,nan,nan,nan,3.25,nan,nan,nan
+Cyclobalanopsis pentacycla,nan,,,,24,,,,15,,5,,7,,2,,,,,,4,4,,,,,,,,2,36,,,6,1,,,14,,25,,,,,25,7,23,,,nan,3.85,7.0,5.0,2.5,nan,nan,nan,nan,nan,nan,12.0,1.2,nan,nan,1.0,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Cyclobalanopsis phanera,nan,,,,24,,,,15,,,,1,,11,,,,,,,4,,,,,11,,,,32,,,15,,,,,,25,,,,,0,7,21,,,nan,2.375,9.0,4.0,3.0,nan,nan,nan,nan,nan,nan,10.0,2.2,5.0,1.0,2.5,nan,nan,nan,nan,nan,1.4,nan,nan,nan
+Cyclobalanopsis poilanei,nan,,,,,,,,12,,8,,5,,11,,,,,,14,1,,,,,,,,,36,,,15,11,,,,,27,,,22,,16,29,18,,,nan,3.375,nan,4.5,6.0,nan,nan,nan,nan,nan,nan,6.0,1.525,1.5,nan,1.8,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Cyclobalanopsis rex,nan,,,,6,,,9,15,,4,,13,,11,,,,,,4,11,,,,2,,,,,32,,,6,11,,,,,17,,,,,37,29,40,,,nan,2.325,nan,7.5,2.25,nan,nan,nan,nan,nan,nan,17.5,4.25,nan,nan,4.0,nan,nan,nan,nan,nan,2.5,nan,nan,nan
+Cyclobalanopsis saravanensis,nan,,,,19,,,,15,,,,15,,2,,,,,,14,11,,,,,,,,,17,,,15,,21,,,,17,,,,,13,7,23,,,nan,1.75,8.0,3.5,nan,nan,nan,nan,nan,nan,nan,12.0,1.875,nan,nan,1.5,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Cyclobalanopsis semiserrata,nan,,,,,,,9,7,,,,1,,11,,,,,,23,8,,,,,,,,,17,,,15,1,,,,,17,,,,,14,7,39,,,nan,3.175,1.5,5.0,nan,nan,nan,nan,nan,nan,nan,19.0,2.35,nan,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Cyclobalanopsis sessilifolia,nan,,,,,,,,15,,12,,2,,,,,,,,4,8,,,,,,,,,32,,,15,1,,,,,17,,,10,,9,7,21,,,nan,1.65,nan,2.75,6.0,nan,nan,nan,nan,nan,nan,11.0,1.15,1.5,nan,1.0,nan,nan,nan,nan,nan,7.5,nan,nan,nan
+Cyclobalanopsis sichourensis,nan,,,,24,,,,12,,,,5,,4,,,,,,8,4,,,,2,,,,,32,,1,6,11,25,,,,27,,,,,9,17,37,,,nan,2.25,nan,7.0,nan,nan,nan,nan,nan,nan,nan,16.5,3.875,nan,nan,1.5,nan,nan,nan,nan,nan,3.0,nan,nan,nan
+Cyclobalanopsis stenophylloides,nan,,,,24,,,,3,,14,,12,,2,,,,,,4,4,,,,,,,,,,,,15,1,21,,,,4,,,10,,13,,21,,,nan,1.55,5.0,2.5,nan,nan,nan,nan,nan,nan,nan,9.5,1.35,2.25,nan,1.0,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Cyclobalanopsis stewardiana,nan,,,,24,,,,7,,,,18,,2,,,,,,14,4,,,,,,,,,32,,,6,1,,,,,17,,,,,34,21,20,,,nan,1.15,5.0,3.0,2.0,nan,nan,nan,nan,nan,nan,9.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,2.25,nan,nan,nan
+Cyclobalanopsis subhinoidea,nan,,,,19,,,,9,,11,,14,,,,,,,,14,,,,,,,,,,32,,,6,11,,,,,17,,,,,9,7,37,,,3.0,1.25,1.25,3.25,1.8,nan,nan,nan,nan,nan,nan,9.5,2.75,nan,nan,nan,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Cyclobalanopsis tenuicupula,nan,,27,,16,,,,,,26,,12,,2,,,,,,14,8,,,,0,,,,,32,,,8,1,25,,,,17,,,,,,7,37,,,nan,2.25,nan,7.5,2.125,nan,nan,nan,nan,nan,nan,17.5,2.75,4.0,10.0,1.0,nan,nan,nan,nan,nan,3.0,nan,nan,nan
+Cyclobalanopsis thorelii,nan,,,,24,,,,15,,,,1,,,,,,,,14,,,,,,,,,,17,,,6,3,25,,,,17,,,,,37,29,49,,,3.0,1.125,1.75,5.25,2.0,nan,nan,nan,nan,nan,nan,14.5,2.75,nan,nan,2.0,nan,nan,nan,nan,nan,2.0,nan,nan,nan
+Cyclobalanopsis tiaoloshanica,nan,,,,6,,,,9,,4,,2,,,,,,,,8,8,,,,2,,,,,2,,,15,,3,,,,17,,,10,,13,5,37,,,nan,1.9000000000000001,nan,2.1,7.5,nan,nan,nan,nan,nan,nan,7.0,1.5,10.0,nan,1.0,nan,nan,nan,nan,nan,7.0,nan,nan,nan
+Cyclobalanopsis tomentosinervis,nan,,,,8,,,,3,,,,5,,13,,,,,,14,11,,,,,11,9,,,36,,,6,,25,,14,,17,,,,,16,7,49,,,nan,1.6,nan,4.0,6.5,nan,nan,nan,nan,nan,nan,11.0,1.4,6.0,nan,1.0,nan,nan,nan,nan,nan,2.75,nan,nan,8.0
+Cyclobalanopsis xanthotricha,nan,,,19,24,9,,,12,,23,,1,,,,,,,,4,8,,,,,,,,,36,,,15,6,25,,,,17,,,,,34,,18,,,nan,3.05,5.0,2.25,nan,nan,nan,nan,nan,nan,nan,6.5,4.425,nan,3.5,1.0,nan,nan,nan,nan,nan,7.5,nan,nan,nan
+Cyclobalanopsis yin-qianii,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Cyclobalanopsis yingjiangensis,nan,,,,24,,,,,,23,,,,,,,,,,4,,,,,,,,,6,32,,,,,25,,11,,25,,,,,34,,32,,,nan,2.0,nan,3.5,nan,nan,nan,nan,nan,nan,nan,10.5,3.0,nan,nan,nan,nan,nan,nan,2.0,nan,1.25,nan,nan,nan
+Cyclobalanopsis yonganensis,nan,,,14,14,,,,,,9,,,,,,,,,,4,8,,,,,,,,,36,14,,6,,,4,,,14,,,,,31,7,28,,,1.6,1.5,0.8999999999999999,5.0,nan,nan,nan,nan,nan,nan,nan,15.5,1.6,nan,8.5,nan,nan,nan,nan,nan,nan,3.25,nan,nan,nan
+Fagaceae,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Fagus,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,15,,,20,,,34,,,,6,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Fagus engleriana,nan,,,,,10,,,,,,,,,,,,,,,4,,,,,,,,,,38,2,,6,1,,9,,,37,,20,,,,,49,,,nan,nan,1.65,nan,nan,nan,nan,nan,nan,4.5,nan,7.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,nan,nan,nan
+Fagus hayatae,nan,,,,1,3,,,,,,,,,,,,,,,4,,,,,,,,,,,7,1,15,,,,,,17,,30,,4,,22,53,,,nan,2.0,8.5,nan,nan,nan,nan,nan,nan,1.25,nan,5.0,nan,nan,nan,nan,1.5,nan,nan,nan,nan,nan,nan,nan,nan
+Fagus hayatae subsp. pashanica,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Fagus longipetiolata,nan,,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,32,9,,15,,,,,,17,,30,,,,19,49,,,nan,7.0,2.25,nan,nan,nan,nan,nan,nan,5.5,nan,12.0,nan,nan,nan,nan,2.0,nan,nan,nan,nan,2.25,nan,nan,nan
+Fagus lucida,nan,,,,24,,,,,,,,,,,,,,,,4,,,,,,,,,,38,,,6,,,,,,17,,33,,1,,22,49,,,nan,1.5,1.25,nan,nan,nan,nan,nan,nan,1.0,nan,8.0,nan,nan,nan,nan,1.5,nan,nan,nan,nan,1.3,nan,nan,nan
+Formanodendron,nan,,,,,,,,,,,,,,,,,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Formanodendron doichangensis,nan,,,,,,,,,,4,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,8.5,nan,nan,nan
+Lithocarpus,nan,,,,,,,,,,,,,,,,,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus amoenus,nan,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,17,8,,15,,25,6,,,17,,22,,,9,,18,,,nan,2.075,4.5,6.0,nan,nan,nan,nan,nan,nan,nan,15.0,1.8,nan,nan,1.0,nan,10.0,nan,nan,nan,2.5,nan,nan,nan
+Lithocarpus amygdalifolius,nan,,,,,,,,9,,,,,,,,,,,,8,,,,,,15,5,,,17,,,6,,,,,,17,,59,,,40,,28,,,nan,1.9666666666666666,nan,4.875,nan,nan,nan,nan,nan,nan,nan,14.5,nan,nan,4.0,nan,nan,nan,nan,1.5,nan,1.5,3.0,nan,nan
+Lithocarpus apricus,nan,,,,12,,,,3,,14,,,,6,,,,,,14,,,,,,3,,,,17,,,5,,,10,,,4,,59,,,38,,49,,,nan,1.2166666666666668,nan,4.75,nan,nan,nan,nan,nan,nan,nan,11.5,1.8,nan,nan,nan,nan,2.0,nan,2.625,nan,2.0,9.0,nan,8.5
+Lithocarpus arcaula,nan,,,,,,,,3,,9,,18,,,,,,,,4,,,,,,,5,,,17,,,15,,,,,,,,59,,,8,,23,,,1.75,1.7,6.5,6.5,9.0,nan,nan,nan,nan,nan,nan,15.0,1.75,32.5,30.0,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Lithocarpus areca,nan,,,,,11,,,3,,14,0,,,2,,,,,,,,,,,,4,,,,,,,,,,,2,,,,30,,,13,,35,,,nan,5.25,3.0,4.5,1.15,nan,nan,nan,nan,nan,nan,19.0,2.75,7.0,nan,nan,nan,10.0,nan,1.5,nan,1.0,5.0,nan,1.7000000000000002
+Lithocarpus attenuatus,nan,,4,,14,,,8,,,26,4,18,,,,,,0,,,,4,,,,16,,,,,,,,1,,,11,,,,59,,,40,,23,,,nan,2.75,9.5,3.0,1.25,nan,nan,nan,nan,nan,nan,10.0,2.525,11.0,nan,nan,nan,10.0,nan,nan,nan,2.25,nan,nan,nan
+Lithocarpus bacgiangensis,nan,,,,,,,9,,,,,,,2,,,,,,4,,,,,,11,6,,,17,10,,15,,,,,,17,,59,,,8,7,18,,,nan,1.5,nan,4.5,1.0,nan,nan,nan,nan,nan,nan,12.5,1.85,nan,13.0,nan,nan,10.0,nan,nan,nan,1.0,7.0,nan,0.75
+Lithocarpus balansae,nan,,,,,,,,,,19,3,,,,,,,0,,,,4,,,,8,5,,,,,,,10,,,,,,,,,,40,,37,,,nan,3.625,nan,9.0,nan,nan,nan,nan,nan,nan,nan,24.0,4.0,nan,15.0,nan,nan,nan,nan,1.75,nan,2.0,nan,nan,nan
+Lithocarpus bonnetii,nan,,,,,,,,,,,,,,11,,,,,,8,,,,,,,7,,,17,8,,5,,0,,,,,,30,,,8,29,35,,,nan,1.1,2.5,7.5,8.5,nan,nan,nan,nan,nan,nan,19.5,1.6,nan,9.5,nan,nan,nan,nan,0.75,nan,1.75,nan,nan,nan
+Lithocarpus brachystachyus,nan,,10,,6,,,,3,,0,,,,2,,,,,,8,,,,,,12,6,,,17,,,,,,,,,,,59,,,38,7,49,,,nan,1.2,nan,2.0,6.0,nan,nan,nan,nan,nan,nan,5.0,1.4,5.0,nan,nan,nan,3.0,nan,nan,nan,1.0,1.5,nan,nan
+Lithocarpus brevicaudatus,nan,,,,,,,,9,,9,,18,,,,,,,,8,,,,,,,4,,,17,,,11,,25,,,,17,,59,,,8,,49,,,nan,1.425,nan,5.25,nan,nan,nan,nan,nan,nan,nan,10.5,nan,9.0,nan,nan,nan,10.0,nan,nan,nan,2.5,nan,nan,nan
+Lithocarpus calolepis,nan,,,,,,,9,,,9,,,,,,,,,,4,,,,,,,4,,,17,,,15,,25,,,,17,,47,,,8,,28,,,2.15,1.75,1.0,3.75,1.35,nan,nan,nan,nan,nan,nan,11.5,2.25,12.0,nan,nan,nan,15.0,nan,1.25,nan,1.75,8.0,nan,nan
+Lithocarpus calophyllus,nan,,,,14,,,2,,,0,,18,,6,,,,,,4,,,,,,3,,,,,,,15,,,,,,14,,,,,8,7,18,,,nan,1.75,nan,6.5,1.2,nan,nan,nan,nan,nan,nan,11.5,2.2,20.0,nan,nan,nan,nan,nan,nan,nan,3.75,5.5,nan,0.75
+Lithocarpus carolineae,nan,,,,6,,,2,,,4,,1,,,,,,,,14,,,,,,,,,6,32,,1,15,,25,,,,17,,59,,,38,,37,,,nan,1.975,nan,5.0,2.75,nan,nan,nan,nan,nan,nan,15.5,3.875,nan,nan,nan,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Lithocarpus caudatilimbus,nan,,,,,,,,3,,,1,,,,,,,2,,,,4,,,,,,,,,,,,1,25,,0,,,,59,,,38,,49,,,nan,1.6,nan,5.5,1.2999999999999998,nan,nan,nan,nan,nan,nan,10.5,2.05,nan,7.5,nan,nan,15.0,nan,1.0,nan,3.5,4.0,nan,nan
+Lithocarpus chifui,nan,,,,,,,,,,4,4,,,,,,,0,,,,1,,,,,6,,,,,,,,25,,11,,,,,,,9,,18,,,nan,2.325,nan,9.0,nan,nan,nan,nan,nan,nan,nan,22.5,nan,14.0,17.0,nan,nan,nan,nan,2.0,nan,2.15,nan,nan,nan
+Lithocarpus chiungchungensis,nan,,,,,,,,3,,,1,,,,,,,1,,,,4,,,,13,,,,,,,,5,,,,,,,59,,,8,19,40,,,nan,1.35,nan,3.5,nan,nan,nan,nan,nan,nan,nan,10.5,1.5,nan,12.0,nan,nan,5.0,nan,1.0,nan,1.0,7.0,nan,nan
+Lithocarpus chrysocomus,nan,,,37,12,,,,,,,,,10,,,,,,,4,,,,,,,,,,17,,,15,,,,,,17,,59,,,40,7,49,,,nan,2.0,nan,4.0,nan,nan,nan,nan,nan,nan,nan,11.5,1.6,nan,5.0,nan,nan,nan,nan,1.25,nan,1.5,nan,nan,nan
+Lithocarpus cinereus,nan,,,,8,,,,,,,,,,2,,,,,,29,,,,,,,,,,17,,,5,,25,,,,17,,59,,,,7,37,,,nan,1.6500000000000001,nan,2.75,nan,nan,nan,nan,nan,nan,nan,9.5,2.025,nan,9.0,3.0,nan,nan,nan,nan,nan,1.25,7.0,nan,nan
+Lithocarpus cleistocarpus,nan,,,,,,,2,3,,,1,,,,,,,0,,,,1,,,,17,,,,,,,,,25,2,11,,,,21,,,9,,23,,,nan,nan,nan,4.0,nan,nan,nan,nan,nan,nan,nan,12.5,nan,nan,8.5,nan,nan,5.0,nan,1.5,nan,1.75,4.5,nan,2.25
+Lithocarpus cleistocarpus var. cleistocarpus,nan,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,38,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus cleistocarpus var. omeiensis,nan,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Lithocarpus collettii,nan,,,,,,,9,3,,9,4,,,4,,,,2,,,,1,,,,3,,,,,,,,3,25,,3,,,,59,,,38,,37,,,nan,4.175,nan,4.25,1.15,nan,nan,nan,nan,nan,nan,21.5,1.8,nan,4.0,nan,nan,8.0,nan,nan,nan,1.25,4.0,nan,nan
+Lithocarpus confinis,nan,,,,,,,2,,,0,1,18,,,,,,7,,,,4,,,,,0,,,,,,,,,,11,,,,59,,,8,,37,,,nan,1.7,nan,2.35,6.5,nan,nan,nan,nan,nan,nan,9.0,1.5,nan,nan,nan,nan,nan,nan,0.75,nan,1.0,5.5,nan,nan
+Lithocarpus corneus,nan,,,,,,,9,3,,14,,,,7,,,,,,4,,,,,,15,,,,42,,,15,,,,,,38,,47,,,40,,66,,,nan,nan,nan,3.25,nan,nan,nan,nan,nan,nan,nan,12.5,nan,10.0,nan,nan,nan,15.0,nan,2.5,nan,2.5,3.5,nan,3.35
+Lithocarpus corneus var. angustifolius,nan,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,17,37,,,nan,2.5,nan,1.65,nan,nan,nan,nan,nan,nan,nan,3.15,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.75,nan,nan,nan
+Lithocarpus corneus var. corneus,nan,,,,,,,9,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59,,,8,,18,,,nan,3.35,nan,4.25,nan,nan,nan,nan,nan,nan,nan,12.0,4.0,nan,nan,nan,nan,nan,nan,nan,nan,2.25,nan,nan,nan
+Lithocarpus corneus var. fructuosus,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31,,,,,nan,2.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.75,nan,nan,nan,nan,nan,nan,nan,3.0,nan,1.0,nan,nan,nan
+Lithocarpus corneus var. hainanensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,12,40,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Lithocarpus corneus var. rhytidophyllus,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,,9,,,nan,2.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,nan,nan,nan
+Lithocarpus corneus var. zonatus,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,,,,,,,,,,,,19,28,,,nan,nan,nan,4.0,nan,nan,nan,nan,nan,nan,nan,13.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,3.25,nan,nan,nan
+Lithocarpus craibianus,nan,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,17,,,5,,,,,,4,,57,24,,40,,49,,,nan,1.65,nan,5.5,nan,nan,nan,nan,nan,nan,nan,15.5,1.55,30.0,nan,0.75,nan,nan,nan,0.5,nan,1.75,nan,nan,nan
+Lithocarpus crassifolius,nan,,,,13,,,,3,,4,,,,,,,,,,25,,,,,,,0,,,17,,,15,,,,,,17,,59,,,11,,18,,,nan,1.05,nan,4.0,nan,nan,nan,nan,nan,nan,nan,7.0,1.75,nan,4.0,nan,nan,nan,nan,2.0,nan,3.5,5.0,nan,nan
+Lithocarpus cryptocarpus,nan,,4,,,,,,3,,,4,,,,,,,0,,,,4,,,8,13,6,,,,,,,,,2,,,,,59,,,38,,18,,,nan,1.5750000000000002,nan,7.0,1.0,nan,nan,nan,nan,nan,nan,21.5,nan,nan,18.0,nan,nan,10.0,nan,1.75,nan,2.5,nan,nan,nan
+Lithocarpus cucullatus,nan,,,19,,,,,,,0,,,10,,,,,,,4,,,,,,,,,,17,,,15,,,,,,17,,42,,,9,29,37,,,nan,1.5499999999999998,nan,2.25,nan,nan,nan,nan,nan,nan,nan,8.5,nan,10.0,4.5,nan,nan,15.0,nan,1.25,nan,1.25,nan,nan,nan
+Lithocarpus cyrtocarpus,nan,,,,,,,,10,,,,,3,7,,,,,,4,,,,,,12,5,,,,,,6,,,,,,4,,,,,38,19,49,,,nan,1.85,nan,3.0,3.0,nan,nan,nan,nan,nan,nan,7.5,4.5,3.5,nan,nan,nan,10.0,nan,1.25,nan,1.5,nan,nan,nan
+Lithocarpus damiaoshanicus,nan,,,,,,,,9,,0,4,,,,,,,5,,,,4,,,17,17,,,,,,,,,25,,11,,,,59,,,9,,28,,,nan,2.125,nan,4.0,nan,nan,nan,nan,nan,nan,nan,9.25,2.5,nan,10.0,nan,nan,5.0,nan,2.75,nan,1.75,6.0,nan,nan
+Lithocarpus dealbatus,nan,,,9,18,,,9,,,,,,,,,,,,,8,,,,,,,,,,42,,,8,,,,,,17,,59,,,9,19,49,,,nan,1.1,nan,3.5,nan,nan,nan,nan,nan,nan,nan,10.5,1.4,nan,6.5,nan,nan,nan,20.0,1.0,nan,1.5,nan,nan,nan
+Lithocarpus dodonaeifolius,nan,,,,,,,,,,,1,,,,,,,7,,,,4,,,,12,,,,,14,,,,,,1,,,,59,,,8,,28,,,nan,1.25,nan,1.5,8.5,nan,nan,nan,nan,nan,nan,9.5,1.2,nan,4.0,nan,nan,10.0,nan,nan,nan,6.0,2.25,nan,4.5
+Lithocarpus ducampii,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus echinophorus,nan,,,,,,,,,,0,,,,,,,,,,4,,,,,,7,,,,17,,,6,,,,,,17,,57,,,9,,18,,,nan,nan,nan,2.75,nan,nan,nan,nan,nan,nan,nan,12.0,nan,nan,10.0,3.0,nan,15.0,nan,nan,nan,1.25,1.2,nan,nan
+Lithocarpus echinophorus var. bidoupensis,nan,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,5,,,,6,,,,,,,,57,,,8,,18,,,nan,2.25,2.5,3.0,1.75,nan,nan,nan,nan,nan,nan,12.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus echinophorus var. chapensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,50,,,38,7,37,,,3.25,4.075,2.05,3.0,nan,nan,nan,nan,nan,nan,nan,11.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,nan,nan,nan
+Lithocarpus echinophorus var. echinophorus,nan,,,,14,,,,,,,,,,,,,,,,,,,,,,,,,,,10,,6,,,,,,,,10,,,38,19,18,,,nan,3.5,1.5,2.25,1.1,nan,nan,nan,nan,nan,nan,12.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Lithocarpus echinotholus,nan,,,,6,,,,,,,,,,,,,,,,8,,,,,,13,,,,17,9,,5,,,,,,4,,10,,,8,,18,,,nan,1.425,4.0,8.0,1.65,nan,nan,nan,nan,nan,nan,25.0,2.45,12.5,nan,1.0,nan,10.0,nan,nan,nan,1.25,5.0,nan,nan
+Lithocarpus elaeagnifolius,nan,,,,,11,,,3,,14,,,,,,,,,,4,,,,,,13,7,,,17,10,,6,,,,,,17,,59,,,38,,37,,,nan,1.1,nan,1.75,1.05,nan,nan,nan,nan,nan,nan,11.0,1.4249999999999998,18.0,nan,nan,nan,10.0,nan,0.75,nan,nan,2.5,nan,nan
+Lithocarpus elizabethiae,nan,,,,,,,,,,,4,,,,,,,0,,,,4,,,8,15,5,,,,,,,,,,11,,,,22,,,40,,37,,,nan,2.075,nan,3.0,1.4500000000000002,nan,nan,nan,nan,nan,nan,13.0,2.15,nan,nan,4.0,nan,9.0,nan,1.5,nan,1.5,5.0,nan,nan
+Lithocarpus elmerrillii,nan,,,,,,,,3,,4,1,,,2,,,,0,,,,1,,,8,11,,,,,,,,,25,,11,,,,59,,,40,,37,,,nan,2.25,nan,4.5,1.5,nan,nan,nan,nan,nan,nan,13.5,2.75,nan,nan,nan,nan,nan,nan,2.5,nan,2.25,6.5,nan,nan
+Lithocarpus eriobotryoides,nan,,,,,,,,,,,2,,,,,,,2,,,,4,,,,,,,6,,8,,,,,,,,,,59,,,8,,22,,,nan,2.75,nan,5.5,1.3,nan,nan,nan,nan,nan,nan,16.0,1.25,nan,12.0,nan,nan,10.0,nan,1.0,nan,1.5,6.5,nan,6.5
+Lithocarpus fangii,nan,,,,,,,,3,,,,,,11,,,,,,8,,,,,,11,,,,17,10,,15,,25,,,,17,,59,,,40,,40,,,nan,8.0,nan,2.5,1.1,nan,nan,nan,nan,nan,nan,7.5,1.9,15.0,nan,nan,nan,8.0,nan,1.25,nan,1.0,3.5,nan,nan
+Lithocarpus farinulentus,nan,,,,14,,,,3,,4,1,,,2,,,,0,,,,4,,,,4,0,,,,,,,1,,,11,,,,21,,,8,,49,,,nan,8.5,nan,5.0,4.5,nan,nan,nan,nan,nan,nan,11.5,9.5,nan,20.0,nan,nan,6.0,nan,5.0,nan,1.0,2.75,nan,4.0
+Lithocarpus fenestratus,nan,,,,,,,,,,,0,,,,,,,0,,,,4,,,9,,,,,,,,,5,,,11,,,,59,,,8,,28,,,nan,1.65,nan,4.5,nan,nan,nan,nan,nan,nan,nan,13.5,nan,25.0,18.0,nan,nan,25.0,nan,0.725,nan,7.5,6.5,nan,nan
+Lithocarpus fenzelianus,nan,,,,18,,,,,,,1,,,,,,,0,,,,4,,,,13,5,,,,,,,,25,,,,,,21,,,9,,49,,,nan,1.875,nan,4.5,nan,nan,nan,nan,nan,nan,nan,14.0,nan,15.0,10.0,nan,nan,nan,nan,0.875,nan,2.5,3.5,nan,nan
+Lithocarpus floccosus,nan,,,,,,,,,,,,18,,,,,,,,8,,,,,,3,,,,17,8,,15,,,,,,17,,59,,,8,,49,,,nan,1.25,nan,2.25,5.0,nan,nan,nan,nan,nan,nan,7.5,nan,11.5,7.0,nan,nan,7.0,nan,0.5,nan,1.0,2.0,nan,1.25
+Lithocarpus fohaiensis,nan,,,,,,,,,,,4,,,,,,,0,,,,4,,,,11,5,,,,8,,,,,,11,,,,59,,,38,,37,,,nan,2.2,nan,6.5,nan,nan,nan,nan,nan,nan,nan,19.5,2.0,nan,nan,nan,nan,nan,25.0,nan,nan,2.0,7.0,nan,1.05
+Lithocarpus fordianus,nan,,,,,,,9,5,,,,,,,,,,,,8,,,,,,3,,,,,8,,6,,,,,,17,,59,,,9,,37,,,nan,2.0,nan,6.0,nan,nan,nan,nan,nan,nan,nan,17.5,3.0,6.5,nan,nan,nan,10.0,nan,6.25,nan,2.0,5.0,nan,2.5
+Lithocarpus formosanus,nan,,,,8,,,,3,,,1,,,,,,,8,,,,4,,,,,,,,,14,,,1,11,6,11,,,,59,,,8,,18,,,1.2,1.3,3.0,2.5,8.0,nan,nan,nan,nan,nan,nan,6.5,1.6,nan,3.0,nan,nan,nan,nan,nan,nan,1.15,nan,nan,nan
+Lithocarpus gaoligongensis,nan,,,,,,,9,,,14,,,,6,,,,,,8,,,,,,3,,,,17,8,,5,,,6,,,17,,47,,,38,20,37,,,nan,1.3,nan,6.5,nan,nan,nan,nan,nan,nan,nan,17.5,2.25,nan,7.0,nan,nan,nan,nan,nan,nan,2.5,9.0,nan,nan
+Lithocarpus garrettianus,nan,,9,,,,,,5,,,,,,11,,,,,,8,,,,,,,7,,,,,,5,3,,,,,17,,,,,8,29,35,,,2.25,1.0,4.375,6.0,1.05,nan,nan,nan,nan,nan,nan,17.0,1.35,20.0,nan,1.0,nan,20.0,nan,0.5,nan,1.5,nan,nan,nan
+Lithocarpus glaber,nan,,,,,,,,,,,,10,,,,,,,,8,,,,,,3,5,,,17,8,,6,11,,,,,17,,59,,,13,,40,,,nan,1.85,nan,4.0,4.0,nan,nan,nan,nan,nan,nan,9.0,1.15,nan,6.0,nan,nan,nan,nan,0.75,nan,1.5,nan,nan,7.5
+Lithocarpus grandifolius,nan,,,,,,,2,,,,,,,,,,,,,8,,,,,,3,,,,17,8,,15,,,,,,25,,40,,,38,,40,,,nan,1.85,2.6,10.0,1.8,nan,nan,nan,nan,nan,nan,27.5,2.3,nan,nan,nan,nan,10.0,nan,1.75,nan,7.5,nan,nan,20.0
+Lithocarpus gymnocarpus,nan,,5,,,,,,3,,,1,,,2,,,,0,,,,4,,,,11,6,,,,,,,1,,2,,,,,,,,38,,18,,,nan,2.5,nan,4.0,2.0,nan,nan,nan,nan,nan,nan,12.0,4.5,nan,18.0,nan,nan,10.0,nan,3.0,nan,1.5,nan,nan,nan
+Lithocarpus haipinii,nan,,,,,,,,,,,,18,,,,,,,,8,,,,,,,,,,,,,5,,,,,,,,30,,,40,17,18,,,2.0,2.2,4.5,6.0,1.1,nan,nan,nan,nan,nan,nan,11.5,2.5,nan,nan,nan,nan,nan,nan,nan,nan,2.75,nan,nan,nan
+Lithocarpus hancei,nan,,,,,,,9,,,14,3,,,,,,,8,,,,,,,17,18,,,,,,,,,,,0,,,,59,,,38,,49,,,nan,3.2,nan,nan,7.5,nan,nan,nan,nan,nan,nan,nan,1.525,nan,7.0,nan,nan,15.0,nan,1.5,nan,4.875,8.0,nan,nan
+Lithocarpus handelianus,nan,,,,23,,,,,,5,,,3,7,,,,,,4,,,,,7,15,,,,17,,,15,,25,,,,17,,58,,,9,7,18,,,nan,1.975,3.0,7.5,nan,nan,nan,nan,nan,nan,nan,17.5,nan,nan,nan,0.75,nan,nan,45.0,nan,nan,2.5,nan,nan,nan
+Lithocarpus harlandii,nan,,,,,,,8,,,4,,,,,,,,,,14,,,,,,3,4,,,9,8,,6,,25,,,,4,,59,,,8,,28,,,nan,2.5,nan,4.5,1.05,nan,nan,nan,nan,nan,nan,12.5,1.9000000000000001,nan,12.5,nan,nan,nan,nan,1.625,nan,2.5,4.5,nan,8.0
+Lithocarpus henryi,nan,,,,,,,9,,,9,,18,,,,,,,,4,,,,,,3,4,,,17,,,15,,,,,,17,,59,,,38,7,37,,,nan,1.8,nan,4.5,1.25,nan,nan,nan,nan,nan,nan,17.0,2.0,20.0,9.5,nan,nan,nan,nan,0.75,nan,2.5,7.5,nan,1.0
+Lithocarpus howii,nan,,,,,,,,,,,,,,7,,,,,,23,,,,,,,,,6,42,,1,15,,0,,,,17,,55,25,,40,,22,,,5.0,3.25,5.5,5.5,nan,nan,nan,nan,nan,nan,nan,16.0,4.0,10.0,2.5,nan,nan,10.0,nan,4.416666666666667,nan,2.5,7.0,nan,nan
+Lithocarpus hypoglaucus,nan,,,,,,,2,,,,1,,,2,,,,0,,,,2,,,,,,,,,,,,1,,,,,,,59,,,38,,49,,,nan,2.25,nan,4.0,1.0,nan,nan,nan,nan,nan,nan,11.0,1.45,nan,nan,nan,nan,10.0,11.0,1.0,nan,1.75,nan,nan,nan
+Lithocarpus irwinii,nan,,,,12,,,,,,,1,,,5,,,,2,,,,4,,,2,17,5,,,,,,,,25,,11,,,,59,,,9,20,18,,,nan,2.175,nan,3.0,nan,nan,nan,nan,nan,nan,nan,9.5,2.1,nan,3.5,3.0,nan,10.0,nan,2.25,nan,1.0,6.5,nan,nan
+Lithocarpus iteaphyllus,nan,,,,,,,9,3,,10,1,,,2,,,,0,,,,4,,,,11,,,,,,,,10,25,,11,,,,5,,,8,,37,,,nan,1.4,nan,3.5,5.5,nan,nan,nan,nan,nan,nan,10.5,1.2,nan,6.5,nan,nan,5.0,3.0,0.55,nan,6.5,2.0,nan,6.5
+Lithocarpus ithyphyllus,nan,,,,45,,,,,,,,18,,,,,,,,23,,,,,,11,4,,,17,,,15,,25,,,,27,,59,,,8,,37,,,nan,2.25,nan,12.5,3.5,nan,nan,nan,nan,nan,nan,1.5,3.8,nan,7.0,nan,nan,nan,nan,0.5,nan,3.0,2.0,nan,nan
+Lithocarpus jenkinsii,nan,,,,,,,,,,,,,,2,,,,,,8,,,,,,,,,,17,,,5,,,,,,38,,57,,,40,,18,,,nan,3.5,8.0,9.0,nan,nan,nan,nan,nan,nan,nan,27.5,nan,nan,15.0,nan,nan,nan,nan,5.0,nan,3.0,nan,nan,nan
+Lithocarpus kawakamii,nan,,,,,,,,,,14,1,1,,,,,,0,,,,1,,,,,4,,,,,,,8,,,,,,,59,,,8,,38,,,nan,1.9000000000000001,nan,6.1,1.25,nan,nan,nan,nan,nan,nan,18.5,2.4,nan,nan,nan,nan,nan,nan,1.375,nan,3.5,1.1,nan,8.5
+Lithocarpus konishii,nan,,,,,,,9,3,,,,,,,,,,,,5,,,,,,4,7,,,,,,15,,,2,,,17,,59,,,38,18,49,,,nan,3.7,nan,2.5,1.85,nan,nan,nan,nan,nan,nan,6.5,2.25,nan,2.5,nan,nan,5.0,nan,3.125,nan,1.0,1.75,nan,nan
+Lithocarpus laetus,nan,,,19,,,,,,,,,,,7,,,,,,4,,,,,,,,,,17,,,15,,,,,,17,,59,,,,19,29,,,nan,1.5,nan,2.25,nan,nan,nan,nan,nan,nan,nan,9.0,1.9,nan,4.0,nan,nan,nan,nan,2.25,nan,1.25,nan,nan,nan
+Lithocarpus laoticus,nan,,,,18,,,9,,,0,,,,,,,,,,4,,,,,,15,5,,,17,,,6,,,,,,4,,,,,40,,18,,,nan,2.625,nan,6.5,nan,nan,nan,nan,nan,nan,nan,16.0,2.075,12.5,nan,1.5,nan,nan,nan,1.0,nan,2.0,nan,nan,nan
+Lithocarpus lepidocarpus,nan,,,,18,,,,,,14,,,,,,,,,,4,,,,,,,,,,17,,,15,,,,,,17,,47,,,40,,29,,,nan,2.85,nan,7.0,nan,nan,nan,nan,nan,nan,nan,23.5,2.95,nan,nan,nan,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Lithocarpus leucodermis,nan,,,,,,,,,,,,,,,,,,,,4,,,,,,11,0,,,,,,6,,,,,,17,,30,,,38,7,37,,,nan,4.15,2.0,nan,4.0,nan,nan,nan,nan,nan,nan,17.0,2.1,nan,nan,1.0,nan,nan,nan,nan,nan,1.5,4.5,nan,1.1
+Lithocarpus levis,nan,,,,,,,,,,4,,12,,,,,,,,4,,,,,,5,5,,,17,,,15,,25,,,,17,,,,,13,7,23,,,nan,1.225,nan,5.5,nan,nan,nan,nan,nan,nan,nan,16.5,1.4,nan,7.0,1.0,nan,10.0,nan,2.25,nan,1.25,7.5,nan,nan
+Lithocarpus listeri,nan,,,,,,,,,,4,,,,2,,,,,,4,,,,,,,5,,,17,,,6,,25,,,,17,,42,,,,,32,,,nan,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan,27.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,4.0,nan,nan,nan
+Lithocarpus litseifolius,nan,,,,13,,,,3,,,,18,,,,,,,,8,,,,,,12,5,,,17,,,6,,,,,,17,,59,,,8,,18,,,nan,1.15,nan,5.5,1.1,nan,nan,nan,nan,nan,nan,13.0,1.6,nan,30.0,nan,nan,nan,35.0,0.55,nan,2.0,5.0,nan,nan
+Lithocarpus litseifolius var. litseifolius,nan,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,1.1,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus litseifolius var. pubescens,nan,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,15,,,,,,,,,,,,,,,,nan,nan,nan,nan,6.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus longanoides,nan,,,,,,,,3,,0,1,,4,,,,,0,,,,,,,2,,4,,,,,,6,2,,3,11,,,,59,,,8,,49,,,nan,1.3,nan,2.5,9.0,nan,nan,nan,nan,nan,nan,7.0,nan,nan,nan,nan,nan,8.0,nan,1.0,nan,1.5,nan,nan,nan
+Lithocarpus longipedicellatus,nan,,,,,,,,,,,,10,,2,,,,,,8,,,,,,,6,,,17,10,,6,,11,,,,17,,59,,,40,7,18,,,nan,1.2,1.25,4.5,nan,nan,nan,nan,nan,nan,nan,11.5,1.7000000000000002,4.0,nan,nan,nan,nan,1.35,0.875,nan,1.25,nan,nan,nan
+Lithocarpus longzhouicus,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus lycoperdon,nan,,,,,,,,9,,4,4,,,,,,,2,,,,4,,,2,,,,,,10,,,1,25,,11,,,,58,,,40,,37,,,nan,1.5,nan,5.0,nan,nan,nan,nan,nan,nan,nan,12.5,2.0,14.0,10.0,nan,nan,nan,nan,2.375,nan,1.75,nan,nan,nan
+Lithocarpus macilentus,nan,,,,,,,,3,,,1,,,,,,,0,,,,4,,,,,,,,,,,,8,,,,,,,,22,,38,,28,,,nan,4.2,nan,2.5,7.5,nan,nan,nan,nan,nan,nan,8.5,1.675,nan,nan,nan,nan,7.0,nan,nan,nan,1.0,nan,nan,nan
+Lithocarpus magneinii,nan,,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,17,,,6,,,,,,17,,,,,38,,38,,,nan,1.4,nan,5.0,2.425,nan,nan,nan,nan,nan,nan,11.5,1.9,8.0,nan,nan,nan,5.0,nan,2.0,nan,1.25,nan,nan,nan
+Lithocarpus mairei,nan,,,33,,,,,3,,,4,,,,,,,0,,,,4,,,7,,,,,,,,,,,,11,,,,59,,,38,,28,,,nan,3.875,nan,2.75,7.0,nan,nan,nan,nan,nan,nan,7.5,1.425,6.5,4.0,nan,nan,nan,nan,0.875,nan,1.15,nan,nan,nan
+Lithocarpus megalophyllus,nan,,,,18,,,2,,,12,,18,,2,,,,,,8,,,,,,3,5,,,17,,,5,,,,,,17,,,,,8,7,40,,,nan,2.15,1.2,9.5,1.5,nan,nan,nan,nan,nan,nan,22.0,2.625,nan,12.0,nan,nan,15.0,nan,1.5,nan,4.25,1.25,nan,7.0
+Lithocarpus mekongensis,nan,,,,,,,2,9,,,,,,,,,,,,4,,,,,,,0,,,17,,,6,,,,,,17,,59,,,8,7,18,,,nan,6.5,nan,4.5,6.0,nan,nan,nan,nan,nan,nan,12.5,1.25,11.5,nan,nan,nan,10.0,nan,nan,nan,1.0,5.5,nan,nan
+Lithocarpus melanochromus,nan,,,,14,,,,,,,1,,,,,,,0,,,,4,,,,3,5,,,,,,,5,,,11,,,,59,,,8,,37,,,nan,6.5,nan,2.25,9.5,nan,nan,nan,nan,nan,nan,7.5,1.5,5.5,nan,nan,nan,8.0,nan,1.25,nan,1.0,3.0,nan,nan
+Lithocarpus mianningensis,nan,,,,36,,,2,9,,9,,,,7,,,,,,4,,,,,,,4,,,17,8,,5,7,,,,,17,,59,,,13,19,49,,,2.75,2.3,0.95,5.0,nan,nan,nan,nan,nan,nan,nan,15.0,2.5,nan,11.5,nan,nan,nan,nan,nan,nan,1.75,1.0,nan,nan
+Lithocarpus microspermus,nan,,,,,,,,,,,,,,,,,,,,4,,,,,,11,6,,,17,,,15,,,,,,17,,59,,,38,7,37,,,nan,6.0,1.0,6.5,5.0,nan,nan,nan,nan,nan,nan,20.0,nan,nan,14.0,nan,nan,10.0,nan,0.35,nan,1.25,5.0,nan,4.0
+Lithocarpus naiadarum,nan,,,,,,,,9,,,1,,,,,,,0,,,,1,,,,4,5,,,,,,,,,,11,,,,59,,,8,,37,,,nan,1.5,nan,1.25,nan,nan,nan,nan,nan,nan,nan,12.5,2.0,20.0,nan,nan,nan,4.0,nan,nan,nan,nan,3.0,nan,nan
+Lithocarpus nantoensis,nan,,,,14,,,,,,4,4,,,2,,,,0,,,,4,,,,,,,,,,,,,,,11,,,,,,,8,,28,,,nan,1.425,nan,3.25,6.5,nan,nan,nan,nan,nan,nan,10.5,nan,13.0,nan,nan,nan,nan,nan,nan,nan,1.0,3.0,nan,nan
+Lithocarpus nitidinux,nan,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,17,8,,6,,,6,,,17,,59,,,8,27,37,,,nan,1.4,nan,5.0,1.3,nan,nan,nan,nan,nan,nan,14.0,2.5,nan,nan,nan,nan,nan,nan,nan,nan,1.0,1.2,nan,nan
+Lithocarpus oblanceolatus,nan,,,,18,,,,,,,0,,,2,,,,0,,,,4,,,,3,5,,,,8,,,1,,6,,,,,59,,,8,,35,,,nan,4.6,nan,5.5,1.5,nan,nan,nan,nan,nan,nan,22.5,2.275,nan,nan,nan,nan,nan,nan,1.25,nan,2.5,8.0,nan,nan
+Lithocarpus obovatilimbus,nan,,,,,,,,,,,,18,,,,,,,,23,,,,,,3,5,,,17,8,,15,,,,,,17,,59,,,8,,40,,,nan,1.25,nan,2.0,5.5,nan,nan,nan,nan,nan,nan,6.0,1.1,nan,nan,nan,nan,nan,nan,1.0,nan,6.5,nan,nan,5.5
+Lithocarpus obscurus,nan,,,,,,,,,,1,,12,10,,,,,,,8,,,,,,3,4,,,17,,,6,,,,,,14,,,,,8,,44,,,nan,1.2,nan,6.0,nan,nan,nan,nan,nan,nan,nan,14.5,1.75,22.5,35.0,nan,nan,nan,nan,nan,nan,5.0,1.1,nan,7.0
+Lithocarpus oleifolius,nan,,,,,,,,3,,,,,,,,,,,,4,,,,,,13,,,,42,,,6,,,,,,17,,24,,,8,,37,,,nan,2.575,nan,3.0,1.7,nan,nan,nan,nan,nan,nan,12.0,nan,nan,10.0,nan,nan,8.0,nan,nan,nan,1.25,4.5,nan,nan
+Lithocarpus pachylepis,nan,,,,,,,2,9,,,,,5,,,,,,,23,,,,,,4,,,6,8,,1,15,,,,,,17,,,,,9,,38,,,nan,2.125,nan,8.5,nan,nan,nan,nan,nan,nan,nan,27.5,5.25,4.0,7.0,nan,nan,10.0,nan,8.25,nan,2.0,5.0,nan,nan
+Lithocarpus pachyphyllus,nan,,,9,38,,,9,3,,,0,,,,,,,3,,,,4,,,,,,,,,,,,,25,,,,,,21,,,38,,18,,,nan,1.55,nan,5.5,1.35,nan,nan,nan,15.0,nan,nan,15.0,2.65,2.5,4.5,3.0,nan,nan,nan,1.1,nan,1.35,nan,nan,nan
+Lithocarpus pachyphyllus var. fruticosus,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,2.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus pachyphyllus var. pachyphyllus,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,3.05,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus paihengii,nan,,,,12,,,,11,,,4,12,,2,,,,0,,,,4,,,6,13,5,,,,,,,1,,,11,,,,59,,,38,20,23,,,nan,2.0,nan,6.5,nan,nan,nan,nan,nan,nan,nan,20.0,1.9,nan,8.0,2.0,nan,nan,nan,nan,nan,2.5,7.0,nan,nan
+Lithocarpus pakhaensis,nan,,10,,,,,,3,,,1,,,,,,,0,,,,4,,,0,,7,,,,,,,1,,,,,,,59,,,8,27,28,,,nan,1.75,nan,2.25,1.125,nan,nan,nan,nan,nan,nan,9.5,1.8,nan,4.0,nan,nan,nan,nan,1.0,nan,1.25,4.75,nan,nan
+Lithocarpus paniculatus,nan,,,,,,,9,,,,,,,,,,,,,8,,,,,,15,,,,17,,,15,,,,,,17,,59,,,8,12,37,,,nan,1.35,1.95,3.75,1.2,nan,nan,nan,nan,nan,nan,10.5,2.15,20.0,nan,nan,nan,nan,nan,0.425,nan,8.0,5.5,nan,nan
+Lithocarpus pasania,nan,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,31,,,,,nan,4.25,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,21.0,3.5,nan,nan,nan,2.75,nan,nan,nan,nan,nan
+Lithocarpus petelotii,nan,,,,,,,,,,,,18,,,,,,,,8,,,,,,11,,,6,17,8,,15,7,,,,,17,,47,,,40,19,18,,,nan,5.25,nan,4.75,1.2,nan,nan,nan,nan,nan,nan,12.0,3.15,20.0,nan,nan,nan,nan,nan,nan,nan,3.25,8.0,nan,1.15
+Lithocarpus phansipanensis,nan,,,,,,,,,,,1,,,,,,,8,,,,4,,,17,,,,,,,,,,25,,,,,,,,,,,40,,,nan,nan,nan,3.25,nan,nan,nan,nan,nan,nan,nan,5.25,nan,nan,nan,nan,nan,3.0,5.5,nan,nan,4.0,nan,nan,nan
+Lithocarpus propinquus,nan,,27,,,,,9,3,,4,,,,2,,,,,,4,,,,,,,6,,,17,10,,15,,,,,,17,,59,28,,8,7,37,,,nan,0.9500000000000001,nan,3.75,7.25,nan,nan,nan,nan,nan,nan,12.5,1.4,nan,10.0,nan,nan,10.0,nan,nan,nan,8.0,nan,nan,nan
+Lithocarpus pseudoreinwardtii,nan,,4,,2,,,9,11,,,,,,,,,,,,8,,,,,,,,,,17,,,15,,25,,,,17,,,,,38,7,49,,,nan,1.0,nan,5.0,7.25,nan,nan,nan,nan,nan,nan,11.5,1.6,20.0,nan,nan,nan,20.0,nan,1.0,nan,1.25,nan,nan,nan
+Lithocarpus pseudovestitus,nan,,,,,,,,9,,,0,,,2,,,,7,,,,4,,,,4,6,,,,8,,,1,,,1,,,,,,,8,,28,,,nan,2.425,nan,3.0,5.0,nan,nan,nan,nan,nan,nan,13.0,1.65,nan,5.0,nan,nan,nan,nan,0.425,nan,1.0,1.0,nan,nan
+Lithocarpus pseudoxizangensis,nan,,,,,,,,16,,,0,,,,,,,4,,,,4,,,,,,,,,11,,,1,,,,,,,10,,,38,,18,,,nan,2.5,1.0,11.0,nan,nan,nan,nan,nan,nan,nan,20.0,2.8,nan,nan,nan,nan,20.0,nan,5.0,nan,2.0,1.0,nan,9.5
+Lithocarpus qinzhouicus,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,,,nan,nan,nan,2.5,nan,nan,nan,nan,nan,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Lithocarpus quercifolius,nan,,,,,,,,,,,,,,7,,,,,,8,,,,,,4,5,,,,,1,,,21,,,,17,,47,,,38,,37,,,nan,1.4,nan,2.0,1.8,nan,nan,nan,nan,nan,nan,7.5,2.2,nan,2.5,nan,nan,5.0,nan,nan,nan,3.5,2.0,nan,3.5
+Lithocarpus rhabdostachyus subsp. dakhaensis,nan,,,,,,,,3,,,,,,5,,,,,,,,,,,,13,,,,,8,,,,21,,,,,,42,,,8,,40,,,nan,2.1,nan,nan,1.65,nan,nan,nan,nan,nan,nan,nan,2.75,30.0,nan,nan,nan,8.0,23.0,0.875,nan,1.5,1.0,nan,nan
+Lithocarpus rosthornii,nan,,,,,,,,3,,,,,,,,,,,,14,,,,,,,,,,17,,,15,,,,,,,,59,,,8,17,22,,,nan,1.7,0.5,7.0,1.25,nan,nan,nan,nan,nan,nan,21.0,2.8,nan,11.0,nan,nan,10.0,nan,0.5,nan,1.5,4.5,nan,1.3
+Lithocarpus shinsuiensis,nan,,,,14,,,,,,5,4,,,,,,,1,,,,4,,,,,,,,,8,,,10,,,,,,,,30,,40,,29,,,nan,1.9,nan,3.5,nan,nan,nan,nan,nan,nan,nan,13.0,2.2,nan,nan,nan,nan,nan,nan,nan,nan,1.25,nan,nan,nan
+Lithocarpus silvicolarum,nan,,,,,,,9,3,,,1,,10,5,,,,0,,,,4,,,,3,5,,,,,,,,,3,11,,,,59,,,8,,18,,,nan,1.4,nan,4.75,1.6,nan,nan,nan,nan,nan,nan,15.0,2.25,14.0,nan,nan,nan,nan,nan,1.0,nan,1.25,1.1,nan,1.15
+Lithocarpus skanianus,nan,,,,,7,,,3,,,,,,,,,,,,9,,,,,,13,,,0,17,10,,5,,,,,,17,,51,,,38,,22,,,nan,1.5999999999999999,2.5,6.5,1.2000000000000002,nan,nan,nan,nan,nan,nan,13.0,1.9,nan,1.1,nan,nan,nan,nan,0.75,nan,1.0,2.5,nan,nan
+Lithocarpus sphaerocarpus,nan,,,,14,,,,11,,14,1,12,,2,,,,0,,,,4,,,,13,,,,,,,,,,,11,,,,59,,,8,7,18,,,nan,1.5750000000000002,nan,5.5,1.0,nan,nan,nan,nan,nan,nan,16.0,1.65,15.0,nan,0.5,nan,10.0,nan,nan,nan,1.75,9.5,nan,nan
+Lithocarpus tabularis,nan,,,,,,,,,,,1,,,,,,,2,,,,4,,,2,17,,,,,,,,,,,,,,,59,,,9,,37,,,nan,1.35,nan,7.0,nan,nan,nan,nan,nan,nan,nan,20.0,1.5,9.0,8.0,nan,nan,nan,nan,3.5,nan,3.5,8.0,nan,1.75
+Lithocarpus taitoensis,nan,,,,,,,,,,,,18,,2,,,,,,14,,,,,,,,,,17,,,15,,,,,,17,,59,,,8,,49,,,nan,1.375,nan,3.5,7.0,nan,nan,nan,nan,nan,nan,9.0,1.25,20.0,nan,nan,nan,nan,nan,0.75,nan,2.5,5.0,nan,nan
+Lithocarpus talangensis,nan,,,,18,,,2,,,,,,,,,,,,,4,,,,,,17,5,,,17,,,5,,,,,,17,,59,,,40,19,37,,,nan,1.65,nan,5.5,nan,nan,nan,nan,nan,nan,nan,16.0,2.1,nan,nan,nan,nan,15.0,10.0,nan,nan,1.25,6.5,nan,2.2
+Lithocarpus tenuilimbus,nan,,,,14,,,,10,,,,,,,,,,,,8,,,,,,17,4,,,17,,,15,,,,,,17,,21,,,40,,37,,,nan,1.85,nan,5.5,nan,nan,nan,nan,nan,nan,nan,16.0,nan,nan,nan,nan,nan,nan,nan,1.5,nan,1.5,9.0,nan,2.5
+Lithocarpus tephrocarpus,nan,,,,14,,,,,,,,,,,,,,,,8,,,,,,,2,,,17,9,,6,,,1,,,14,,42,,,40,,67,,,nan,3.375,nan,9.5,nan,nan,nan,nan,nan,nan,nan,40.0,nan,nan,10.0,4.0,nan,10.0,nan,2.0,nan,1.0,1.0,nan,nan
+Lithocarpus thomsonii,nan,,,9,14,,,,,,0,,,,,,,,,,23,,,,,,,,,,42,,,6,,,,,,17,,,24,,9,,49,,,nan,1.5,nan,5.25,nan,nan,nan,nan,nan,nan,nan,14.5,1.5,7.5,10.0,nan,nan,8.0,nan,nan,nan,1.0,nan,nan,nan
+Lithocarpus trachycarpus,nan,,,,,,,,3,,,,7,,,,,,,,8,,,,,,,4,,,17,,,6,,25,,,,17,,57,,,38,,28,,,1.7000000000000002,1.4583333333333335,1.15,4.0,nan,nan,nan,nan,nan,nan,nan,11.5,nan,20.0,nan,0.5,nan,nan,nan,1.0,nan,nan,nan,nan,nan
+Lithocarpus triqueter,nan,,,,,,,,,,,4,,,,,,,0,,,,4,,,3,15,,,,,10,,,,,6,,,,,59,,,40,,37,,,nan,2.2,nan,6.0,nan,nan,nan,nan,nan,nan,nan,20.0,nan,9.0,nan,nan,nan,nan,nan,1.0,nan,2.25,nan,nan,nan
+Lithocarpus truncatus,nan,,,,,,,3,,,,,,,,,,,,,13,,,,,2,17,5,,,17,8,,15,,,,,,17,,59,,,40,27,37,,,nan,3.125,nan,5.0,nan,nan,nan,nan,nan,nan,nan,17.5,2.775,nan,nan,nan,nan,nan,nan,1.0,nan,1.25,nan,nan,nan
+Lithocarpus truncatus var. baviensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus truncatus var. truncatus,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus tubulosus,nan,,4,,,11,,,,,,,1,,,,,,,,14,,,,,,,7,,0,,,,6,3,,,,,27,,,,,38,,18,,,nan,1.45,nan,8.5,1.15,nan,nan,nan,nan,nan,nan,22.5,2.15,7.0,nan,1.0,nan,15.0,nan,nan,nan,1.0,5.0,nan,3.5
+Lithocarpus uvariifolius,nan,,,9,,,,9,9,,,,,,,,,,,,8,,,,,,,,,,7,,,15,,,,,,,,24,,,8,17,10,,,nan,2.75,nan,6.0,nan,nan,nan,nan,nan,nan,nan,13.0,4.25,nan,nan,3.5,nan,10.0,nan,6.0,nan,2.25,nan,nan,nan
+Lithocarpus uvariifolius var. ellipticus,nan,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,17,,,,,,,,,,,,,,,,49,,,nan,nan,nan,3.25,nan,nan,nan,nan,nan,nan,nan,7.0,nan,nan,nan,nan,nan,1.0,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus uvariifolius var. uvariifolius,nan,,,,,,,,,,,,,,,,,,,,25,,,,,,,,,,7,,,6,,,,,,,,,,,,,40,,,nan,nan,nan,7.5,nan,nan,nan,nan,nan,nan,nan,15.5,nan,nan,nan,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus variolosus,nan,,,,,,,,3,,0,,,,,,,,,,17,,,,,,18,,,,17,,,15,,,10,,,17,,40,,,8,,49,,,nan,1.5,nan,4.0,nan,nan,nan,nan,nan,nan,nan,10.5,1.9,4.5,5.5,nan,nan,nan,nan,1.125,nan,1.0,3.0,nan,1.2
+Lithocarpus xizangensis,nan,,,,18,,,3,,,,,,,,,,,,,8,,,,,,,,,,17,9,,6,7,,,,,17,,50,,,9,19,18,,,nan,2.5,5.0,12.0,nan,nan,nan,nan,nan,nan,nan,32.5,2.8,nan,nan,nan,nan,nan,nan,1.5,nan,3.0,nan,nan,20.0
+Lithocarpus xylocarpus,nan,,,,14,,,,,,,,,,11,,,,,,8,,,,,,,7,,,17,,,6,,25,,,,17,,30,,,13,19,37,,,nan,3.125,2.5,3.5,nan,nan,nan,nan,nan,nan,nan,12.0,nan,nan,nan,nan,nan,nan,nan,4.0,nan,1.0,3.0,nan,6.5
+Lithocarpus yangchunensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Lithocarpus yongfuensis,nan,,,,,,,,3,,,,,,,,,,,,4,,,,,,4,,,,17,,,5,,,,,,4,,59,,,8,20,18,,,nan,1.7000000000000002,nan,3.0,1.2999999999999998,nan,nan,nan,nan,nan,nan,10.0,2.1,nan,7.5,nan,nan,nan,10.0,nan,nan,1.0,nan,nan,1.65
+Quercus,nan,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,30,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus acrodonta,nan,,,,23,,,,,,19,,,,11,,,,,,4,,,,,12,3,7,,,,,,15,11,23,,,,27,,13,,,13,19,18,,,nan,7.75,1.5,1.75,1.0,nan,nan,nan,nan,nan,nan,4.0,3.875,nan,2.0,nan,nan,nan,nan,nan,nan,4.0,nan,nan,5.0
+Quercus acutissima,nan,,,,,,,,12,,19,,2,,11,,,,,,4,,,,,,,,,,,0,,15,11,9,,,,17,,29,,,13,29,20,,,nan,1.75,2.825,4.0,4.0,nan,nan,nan,nan,nan,nan,13.5,1.9500000000000002,nan,nan,nan,nan,nan,1.75,nan,nan,2.0,nan,nan,nan
+Quercus aliena,nan,,,,,,,,,,5,,,,,,,,,,4,,,,,,,,,,,9,,6,1,,6,,,27,,28,,,34,,22,,,nan,1.675,2.0,9.5,1.0,nan,nan,nan,nan,nan,nan,15.0,1.575,nan,nan,nan,nan,nan,nan,nan,nan,1.15,nan,nan,nan
+Quercus aliena var. acutiserrata,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus aliena var. aliena,nan,,,,8,,,,,,,,,,,,,,,,,,,,,,,,,,42,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus aliena var. pekingensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus aquifolioides,nan,,,,,3,,,15,,4,,12,6,11,,,,,,23,,,,,,,,,6,17,,,15,,23,,,,15,,24,10,,34,19,18,,,nan,3.55,nan,2.5,nan,nan,nan,nan,nan,nan,nan,4.75,1.15,1.5,nan,nan,nan,10.0,nan,nan,nan,3.5,nan,nan,nan
+Quercus baronii,nan,,,,22,13,,,10,,,,18,,10,,,,,,4,,,,,12,3,7,,,32,9,,6,11,,6,,0,17,,57,,,13,19,69,,,nan,1.275,4.0,1.65,2.0,nan,nan,nan,nan,nan,nan,4.5,1.3,1.25,4.5,nan,nan,nan,nan,nan,nan,5.0,nan,nan,1.0
+Quercus bawanglingensis,nan,,,9,,,,,3,,,,,,,,,,,,4,,,,,,,,,,10,,,15,,,,,,25,,40,,,13,,49,,,nan,2.55,5.5,2.0,nan,nan,nan,nan,nan,nan,nan,5.0,1.05,nan,4.5,nan,nan,6.0,nan,nan,nan,6.5,nan,nan,nan
+Quercus chenii,nan,,,,13,,,,12,,,,1,,,,,,,,4,,,,,,,,,,,14,,6,,,,,,11,,9,,,13,29,28,,,1.5,2.875,5.333333333333333,2.75,2.0,nan,nan,nan,nan,nan,nan,9.5,1.4,nan,nan,nan,nan,nan,nan,nan,nan,1.0,nan,nan,nan
+Quercus cocciferoides,nan,,,,,,,6,15,,,,,,11,,,,,,4,,,,,,,,,,32,,,6,11,,,,,27,,59,10,,40,19,18,,,nan,1.1,1.0,2.25,1.0,nan,nan,nan,nan,nan,nan,5.5,1.25,2.5,nan,nan,nan,nan,2.5,nan,nan,6.5,nan,nan,nan
+Quercus dentata,nan,,,,24,,,,3,,19,,,,11,,,,,,,,,,,2,,,,,42,2,,6,11,23,3,,,27,,9,,,34,29,40,,,3.5,1.775,1.55,18.0,2.0,nan,nan,nan,nan,nan,nan,20.0,1.35,2.0,nan,nan,nan,nan,nan,nan,nan,3.5,nan,nan,nan
+Quercus dolicholepis,nan,,,,,,,,,,19,,,,11,,,,,,19,,,,,,,7,,,32,7,,15,11,23,3,,,17,,9,,,34,19,18,,,2.0,2.4,3.0,2.75,1.0,nan,nan,nan,nan,nan,nan,5.0,1.4,nan,nan,nan,nan,nan,nan,nan,nan,4.5,nan,nan,1.0
+Quercus engleriana,nan,,,33,,7,,,3,,19,,,,11,,,,,,4,,,,,,,,,,32,9,1,6,11,,2,,,27,,28,,,34,,28,,,nan,3.5,1.0,4.0,2.5,nan,nan,nan,nan,nan,nan,11.0,5.4,3.0,2.0,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Quercus fabri,nan,,,,,11,,,3,,14,,,,11,,,,,,23,,,,,7,,,,6,32,,,6,7,,,,,17,,28,10,,34,,40,,,nan,5.425,nan,5.5,6.0,nan,nan,nan,nan,nan,nan,11.0,5.225,2.5,nan,nan,nan,nan,nan,nan,nan,4.0,nan,nan,nan
+Quercus franchetii,nan,,,,,3,,12,15,,,,12,,,,,,,,23,,,,,12,4,7,,,32,14,,6,11,,6,,,27,,59,,,40,,40,,,nan,1.075,2.0,4.25,2.0,nan,nan,nan,nan,nan,nan,8.5,1.15,1.5,1.5,nan,nan,nan,nan,nan,nan,1.5,nan,nan,5.0
+Quercus fulvisericeus,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus griffithii,nan,,,,,,,,,,19,,,,7,,,,,,4,,,,,3,,,,6,36,,,15,,,,,,17,,42,,,13,,40,,,nan,1.75,6.0,7.0,1.0,nan,nan,nan,nan,nan,nan,15.0,1.0,nan,nan,nan,nan,nan,nan,nan,nan,0.75,nan,nan,nan
+Quercus guyavifolia,nan,,,,,3,,8,3,,4,,,,11,,,,,,23,,,,,2,,,,6,17,14,,6,11,,2,,,27,,38,10,,40,12,37,,,nan,1.65,1.5,3.25,2.0,nan,nan,nan,nan,nan,nan,5.5,nan,4.0,nan,nan,nan,nan,nan,nan,nan,3.0,nan,nan,nan
+Quercus kingiana,nan,,,,,,,9,,,,,,,2,,,,,,15,,,,,7,2,,,6,32,14,,15,11,,6,,,25,,42,,,13,,18,,,nan,1.75,nan,4.0,nan,nan,nan,nan,nan,nan,nan,9.0,1.75,nan,1.5,nan,nan,nan,nan,2.0,nan,1.25,nan,nan,nan
+Quercus lanata,nan,,,,,,,,3,,5,,,,7,,,,,,4,,,,,3,,,,6,32,9,,6,11,,2,,,27,,59,10,,34,19,32,,,nan,1.275,2.5,5.75,1.0,nan,nan,nan,nan,nan,nan,14.5,1.125,9.0,nan,nan,nan,nan,nan,1.0,nan,1.0,nan,nan,nan
+Quercus lodicosa,nan,,,10,38,,,,,,5,,,,11,,,,,,15,,,,,,,,,,32,14,,15,11,,,,,17,,40,,,,19,18,,,2.0,2.0,7.5,4.25,nan,nan,nan,nan,nan,nan,nan,10.5,nan,nan,1.1,nan,nan,15.0,nan,nan,nan,1.4,nan,nan,nan
+Quercus marlipoensis,nan,,,,8,,,,,,11,,,,11,,,,,,4,,,,,,,,,,,,,6,11,,,,,27,,40,,,,29,18,,,1.4,nan,0.8,8.5,nan,nan,nan,nan,nan,nan,nan,18.5,nan,nan,nan,2.0,nan,nan,4.0,nan,nan,2.25,nan,nan,nan
+Quercus mongolica,nan,,,,,,,,,,9,,,,2,,,,,,41,,,,,,,,,,42,9,,6,1,3,6,,,14,,,,,16,12,40,,,nan,2.2,6.5,7.0,1.0,nan,nan,nan,nan,nan,nan,13.0,1.55,1.25,nan,nan,nan,nan,nan,nan,nan,5.0,nan,nan,nan
+Quercus monimotricha,nan,,,,,0,,,,,,,,,,,,,,,19,,,,,,3,,,,17,14,,6,7,,2,,,15,,28,,,34,,18,,,nan,2.325,1.0,2.1,1.5,nan,nan,nan,nan,nan,nan,2.75,3.2,nan,4.0,nan,nan,nan,nan,nan,nan,3.0,nan,nan,7.5
+Quercus multinervis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Quercus oxyphylla,nan,,,,,,,,,,11,,,,11,,,,,,4,,,,,,,5,,,,14,,6,,23,4,,,27,,9,,,13,29,32,,,2.15,3.125,2.3,4.0,1.0,nan,nan,nan,nan,nan,nan,8.5,1.2,nan,1.5,nan,nan,nan,nan,nan,nan,1.0,nan,nan,nan
+Quercus palustris,nan,,,,24,,,9,10,,4,,1,,2,,,,,,4,,,,,,,,,,,2,,,,,,,,17,,59,,,13,7,49,,,nan,2.25,nan,8.5,nan,nan,nan,nan,nan,nan,nan,15.0,1.5,1.0,nan,nan,nan,nan,nan,nan,nan,3.75,nan,nan,nan
+Quercus phillyreoides,nan,,,,24,,,,,,5,,,,7,,,,,,4,,,,,,,,,,36,,,15,5,21,,,,15,,59,10,,13,17,40,,,nan,4.25,1.0,2.25,1.0,nan,nan,nan,nan,nan,nan,4.0,0.925,2.5,nan,nan,nan,nan,3.5,nan,nan,4.0,nan,nan,nan
+Quercus rehderiana,nan,,,,9,,,,,,4,,,6,11,,,,,,23,,,,,,3,7,,6,17,9,,6,7,,8,,,15,,42,,,34,19,18,,,nan,1.1,1.5,3.5,nan,nan,nan,nan,nan,nan,nan,5.5,0.95,9.75,11.0,nan,nan,nan,nan,nan,nan,3.5,nan,nan,5.5
+Quercus robur,nan,,,,24,,,,,,10,,,,7,,,,,,41,,,,,,,,,,,9,,15,1,,,,,14,,59,,,34,12,40,,,nan,3.275,1.5,6.0,5.0,nan,nan,nan,nan,nan,nan,11.0,1.25,nan,nan,nan,nan,40.0,nan,nan,nan,3.5,nan,nan,nan
+Quercus semecarpifolia,nan,,,33,,8,,,,,,,6,,,,,,,,23,,,,,,,,,6,17,9,,6,,,6,,,15,,24,,,40,,18,,,nan,4.5,2.5,4.75,1.0,nan,nan,nan,nan,nan,nan,8.5,2.0,nan,4.5,nan,nan,nan,nan,nan,nan,4.0,nan,nan,nan
+Quercus senescens,nan,,,,,,,,3,,6,,,,11,,,,,,,,,,,4,3,7,,,,14,,,11,23,6,12,,,,59,,,34,,37,,,nan,4.0,1.0,1.85,1.0,nan,nan,nan,nan,nan,nan,4.0,5.9750000000000005,nan,1.0,nan,nan,nan,nan,nan,nan,3.0,nan,nan,4.5
+Quercus serrata,nan,,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,32,,,6,1,,,,,17,,59,10,,34,7,56,,,nan,4.175,5.5,6.0,1.0,nan,nan,nan,nan,nan,nan,12.0,1.05,2.25,nan,nan,nan,nan,nan,nan,nan,3.0,nan,nan,nan
+Quercus setulosa,nan,,,,24,,,,,,,,1,,2,,,,,,4,,,,,,,,,6,,14,0,6,,,6,,,27,,40,,,13,,49,,,nan,2.625,1.0,3.0,3.0,nan,nan,nan,nan,nan,nan,7.75,5.45,nan,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Quercus spinosa,nan,,,,,3,,,,,,,,,,,,,,,25,,,,,,,,,,,,,6,,,,,,15,,59,10,,34,25,40,,,nan,4.05,1.25,2.75,1.0,nan,nan,nan,nan,nan,nan,4.75,6.0,2.0,nan,nan,nan,6.0,5.0,nan,nan,2.0,nan,nan,nan
+Quercus tarokoensis,nan,,,,,2,,,3,,5,,,,7,,,,,,4,,,,,2,,,,6,,,,15,11,21,,,,15,,40,,,11,,49,,,nan,3.8000000000000003,1.0,2.15,3.0,nan,nan,nan,nan,nan,nan,3.0,1.025,nan,nan,nan,nan,nan,nan,nan,nan,4.0,nan,nan,nan
+Quercus utilis,nan,,,,,,,,,,14,1,1,,11,,,,6,,,,4,,,13,11,,,6,,14,,,,23,4,12,,,,40,,,34,,49,,,nan,7.5,1.0,2.0,1.0,nan,nan,nan,nan,nan,nan,4.0,7.0,nan,nan,nan,nan,nan,nan,nan,nan,3.5,5.0,nan,2.0
+Quercus variabilis,nan,,,,18,,,9,15,,5,,1,,2,,,,,,4,,,,,,,,,,,7,,6,1,,,,,17,,57,,,34,29,32,,,3.25,1.5,1.25,4.0,2.0,nan,nan,nan,nan,nan,nan,11.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,2.0,nan,nan,nan
+Quercus yunnanensis,nan,,,,13,,,,,,11,,,,11,,,,,,4,,,,,7,,,,,,,,6,11,23,8,,,17,,40,5,,34,29,18,,,nan,1.7,5.25,13.0,3.0,nan,nan,nan,nan,nan,nan,18.5,1.5,3.0,nan,nan,nan,nan,nan,nan,nan,6.0,nan,nan,nan
+Annamocarya,nan,,,,,,,,13,,,,,,,,,,,,,11,,,,,,,,,,,,7,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Annamocarya sinensis,nan,,,,,2,,0,,,,,,,,,,,,,4,,,,,,,0,,,,,0,,1,,,,,26,,,,,16,,18,,,nan,7.0,nan,6.5,nan,nan,nan,nan,nan,4.5,nan,28.75,5.0,nan,nan,nan,nan,nan,nan,nan,nan,10.25,nan,nan,nan
+Carya,nan,,,,,,,,13,,,,,,,,,,,,,11,,,,,,,,,,,,7,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carya cathayensis,nan,,,,,2,,,,,,,,,,,,,,,4,,,,,,,5,,,,,1,,1,,,,,17,,,,,13,,28,,2,nan,2.5,nan,3.5,nan,nan,nan,nan,nan,1.5,nan,18.5,1.9,nan,nan,nan,nan,nan,nan,nan,nan,6.5,nan,nan,nan
+Carya hunanensis,nan,,,,,2,,,,,,,,,,,,,,,4,,,,,,,5,,,,,1,,1,,,,,17,,,,,29,,18,,2,nan,3.35,nan,5.25,nan,nan,nan,nan,nan,nan,nan,19.75,2.65,nan,nan,nan,nan,nan,nan,nan,nan,6.0,nan,nan,nan
+Carya illinoinensis,nan,,,,,,,,,,,,,,,,,,,,4,,,,,,,0,,,,,,,1,,,,,25,,,,,16,19,32,,7,nan,4.0,nan,3.25,nan,nan,nan,nan,nan,nan,nan,21.25,2.5,nan,nan,nan,nan,nan,nan,nan,nan,6.0,nan,nan,nan
+Carya kweichowensis,nan,,,,,2,,,,,,,,,,,,,,,23,,,,,,,0,,,,,1,,1,,,,,25,,,,,38,,18,,,nan,2.25,nan,4.5,nan,nan,nan,nan,nan,1.0,nan,12.75,2.25,nan,nan,nan,nan,nan,nan,nan,nan,3.0,nan,nan,nan
+Carya tonkinensis,nan,,,,,2,,,,,,,,,,,,,,,4,,,,,,,5,,,,,1,,7,,,,,25,,,,,40,,32,,2,nan,2.35,nan,4.0,1.75,nan,nan,nan,nan,3.0,nan,16.25,2.8,nan,nan,nan,nan,nan,nan,nan,nan,6.0,nan,nan,nan
+Cyclocarya,nan,,,,,,,,,,,,,,,,,6,,,,11,,,,,,,,,,,,7,,,,,,,,,18,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Cyclocarya paliurus,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,11,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,22.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,3.75,nan,nan,nan
+Engelhardia,nan,,26,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,3,,18,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Engelhardia hainanensis,nan,,,,,7,,,,2,,,,,,9,,,,,4,,,,,,,5,,,32,,1,3,7,,,,,25,,,,,,,39,,,nan,nan,nan,3.25,nan,5.0,nan,nan,nan,nan,8.0,13.375,nan,nan,nan,nan,nan,nan,nan,nan,nan,5.9,nan,nan,nan
+Engelhardia roxburghiana,nan,,,,,,,,,0,,,,,,16,,,,,4,,,,,,,0,,,,,,3,1,,,,,25,,,,,,7,20,,,nan,nan,nan,3.25,nan,nan,nan,nan,nan,nan,3.0,11.125,nan,nan,nan,nan,nan,nan,nan,nan,nan,4.5,nan,nan,nan
+Engelhardia serrata var. cambodica,nan,,,,,,,,,2,,,,,,16,,,,,8,,,,,,,7,,,17,,,7,11,,,,,26,,,,,,29,18,,,nan,nan,nan,3.5,nan,nan,nan,nan,nan,nan,3.0,14.75,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan
+Engelhardia spicata,nan,,,,,,,,,2,,,,,,12,,,,,4,,,,,,,0,,,,,,3,7,,,,,17,,,,,,19,18,,,nan,nan,nan,4.5,nan,nan,nan,nan,nan,nan,3.0,18.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,7.0,nan,nan,nan
+Engelhardia spicata var. aceriflora,nan,,,,,,,,,2,,,,,,12,,,,,4,,,,,,,5,,,,,,,6,,,,,25,,,,,,7,18,,,nan,nan,nan,4.5,nan,nan,nan,nan,nan,nan,6.0,11.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,6.75,nan,nan,nan
+Engelhardia spicata var. colebrookeana,nan,,,,,,,,,2,,,,,,16,,,,,8,,,,,,,,,,,,,,,,,,,25,,,,,,29,23,,,nan,nan,nan,5.0,nan,nan,nan,nan,nan,nan,4.0,15.5,nan,nan,nan,nan,nan,7.0,nan,nan,nan,4.0,nan,nan,nan
+Engelhardia spicata var. spicata,nan,,,,,,,,,2,,,,,,16,,,,,8,,,,,,,0,,,,,0,,11,,,,,17,,,,,,,18,,,nan,nan,nan,3.5,nan,nan,nan,nan,nan,nan,3.5,20.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,7.5,nan,nan,nan
+Juglandaceae,nan,,,,,,,,,,,,,,,,,18,,,,11,,,,,,,,,,,,3,,,,,,,,,18,,,,74,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Juglans,nan,,,,,,,,,,,,,,,,,,,,,11,,,,,,,,,,,,7,,19,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Juglans mandshurica,nan,,,,,3,,,,,,,,,,,,,,,4,,,,,,,,,,36,,,6,,,,,,25,,,,,13,3,18,,,nan,5.25,nan,4.75,nan,nan,nan,nan,nan,nan,nan,38.25,4.0,nan,nan,nan,nan,nan,nan,nan,nan,14.0,nan,nan,nan
+Juglans regia,nan,,,,,2,,,,,,,,,,,,,,,8,,,,,,,,,,,,1,,,,,,,25,,,,,40,,23,,,nan,5.0,nan,4.5,nan,nan,nan,nan,nan,nan,nan,19.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,6.0,nan,nan,nan
+Juglans sigillata,nan,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,25,,,,,35,,32,,,nan,4.7,nan,5.5,nan,nan,nan,nan,nan,nan,nan,22.25,4.0,nan,nan,nan,nan,nan,nan,nan,nan,9.75,nan,nan,nan
+Platycarya,nan,,,,,,,,,,,,,,,,,12,,,,11,,,,,,,,,,,,7,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Platycarya longzhouensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Platycarya strobilacea,nan,,,,,,,,,,,,,0,,10,,,,,,,,,,,,0,,,,,,,1,,,,,17,,40,,,,7,32,,,2.5,nan,3.125,2.5,4.5,2.0,nan,nan,nan,nan,4.0,13.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,5.199999999999999,nan,nan,nan
+Pterocarya,nan,,,,,,,,,,,,,,,,,6,,,,11,,,,,,,,,,,,3,,,,,,,,,18,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Pterocarya hupehensis,nan,,15,,,2,,,,0,,,,,,17,,,,,4,,,,,,,0,,,,,,7,1,,,,,,,,,,,,18,,,nan,nan,nan,4.25,1.25,nan,nan,nan,nan,nan,7.0,16.25,nan,nan,nan,nan,nan,nan,nan,nan,nan,6.0,nan,nan,nan
+Pterocarya macroptera,nan,,,,,,,,,3,,,,,,,,,,,4,,,,,,,7,,,,,,7,11,,,,,25,,,,,,19,49,,,nan,nan,nan,4.5,2.0,nan,nan,nan,nan,nan,7.0,24.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,7.5,nan,nan,nan
+Pterocarya macroptera var. delavayi,nan,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,1.75,nan,nan,nan,nan,nan,8.0,32.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,9.0,nan,nan,nan
+Pterocarya macroptera var. insignis,nan,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,1.5,nan,nan,nan,nan,nan,8.0,37.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,4.0,nan,nan,nan
+Pterocarya macroptera var. macroptera,nan,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,2.5,nan,nan,nan,nan,nan,7.0,26.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,6.0,nan,nan,nan
+Pterocarya rhoifolia,nan,,,,,,,,,0,,,,,,,,,,,4,,,,,,,5,,,,,,7,7,,,,,25,,,,,,19,39,,,nan,nan,nan,2.75,1.7000000000000002,nan,nan,nan,nan,nan,8.0,15.75,nan,nan,nan,nan,nan,nan,nan,nan,nan,5.0,nan,nan,nan
+Pterocarya stenoptera,nan,,,,,,,,,3,,,,,,1,,,,,,,,,,,,,,,,,,3,7,,,,,,,,,,,29,72,,,nan,nan,nan,nan,1.85,nan,nan,nan,nan,nan,6.0,12.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,4.25,nan,nan,nan
+Pterocarya tonkinensis,nan,,,,,,,,,0,,,,,,15,,,,,,,,,,,16,5,,,,,,7,,,,,,,,,,,,,,,,nan,nan,nan,nan,1.35,nan,nan,nan,nan,nan,6.0,18.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,5.75,nan,nan,nan
+Myrica,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,,,,,,,,,,,,25,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Myrica adenophora,nan,9,,,17,,,,,,,,,,,,,,,,23,0,,,,,,5,,,32,3,,6,7,,5,,,17,,,,,,8,22,,,nan,nan,nan,1.75,0.85,nan,nan,nan,nan,nan,nan,2.875,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.0,nan,nan,nan
+Myrica esculenta,nan,9,,12,24,,,,,,,,,,,,,,,,23,0,,,,,,5,,,32,3,,6,11,,5,,,17,,,,6,,19,22,,,nan,nan,nan,3.0,nan,nan,nan,nan,nan,1.0,nan,11.0,nan,2.25,nan,nan,nan,nan,nan,nan,nan,1.15,nan,nan,nan
+Myrica nana,nan,9,,,17,,,,,,,,,,,,,,,,25,0,,,,,,4,,,17,3,,6,1,,5,,,17,,12,,,,8,22,,,nan,nan,1.5,2.25,nan,nan,nan,nan,nan,nan,nan,5.25,nan,nan,nan,nan,nan,nan,nan,nan,nan,3.0,nan,nan,nan
+Myrica rubra,nan,9,,,24,,,,,,,,,,,,,,,,23,,,,,,,1,,,32,3,,,1,,5,,,17,,39,,1,,7,14,,,nan,nan,1.0,2.5,nan,nan,nan,nan,nan,nan,nan,5.25,nan,nan,nan,nan,nan,nan,nan,nan,nan,6.0,nan,nan,nan
+Myricaceae,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,,,,,,,,,,,,,57,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Allocasuarina acuaria,nan,,,,,,,,,,,,,,,,,,,26,,,,2,,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.5,0.06,nan,nan,nan,nan,nan,2.5,2.5,nan,nan,1.0,2.25,nan,0.15,nan,nan,nan,nan
+Allocasuarina acutivalvis,nan,,,,,,,,,,,,,,,,,,,,,,,26,,,,,,,,,,,,4,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.3,0.07,nan,nan,nan,nan,nan,4.5,1.7,nan,nan,3.0,20.0,nan,0.1,nan,nan,nan,nan
+Allocasuarina brachystachya,nan,,,,,,,,,,,,,,,,,,,44,,,,16,,,,,,,,,,,,4,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.5,0.04,nan,nan,nan,0.35,nan,1.1,1.0499999999999998,nan,nan,3.0,7.0,nan,0.2,nan,nan,nan,nan
+Allocasuarina campestris,nan,,,,,,,,,,,,,,,,,,,17,,,,,0,,,,,,,,,,,4,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.0,0.06,nan,nan,nan,0.75,nan,1.42,3.05,nan,nan,1.0,20.0,nan,0.6,nan,nan,nan,nan
+Allocasuarina corniculata,nan,,,,,,,,,,,,,,,,,,,4,,,,7,,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.7,0.09,nan,nan,nan,0.44999999999999996,nan,1.25,1.15,nan,nan,2.0,26.0,nan,0.6,nan,nan,nan,nan
+Allocasuarina crassa,nan,,,,,,,,,,,,,,,,,,,35,,,,32,1,,,,,,,,,,,22,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.2,0.12,nan,nan,nan,2.05,nan,2.0,2.45,nan,nan,1.0,17.0,nan,1.0,nan,nan,nan,nan
+Allocasuarina decaisneana,nan,,,,,,,,,,,,,,,,,,,23,,,,3,,,,,,,,,,,,12,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,2.0,0.07,nan,nan,nan,2.45,nan,3.0,6.15,nan,nan,10.0,40.0,nan,2.0,nan,nan,nan,nan
+Allocasuarina decussata,nan,,,,,,,,,,,,,,,,,,,11,,,,23,,,,,,,,,,,,4,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.5,0.06,nan,nan,nan,0.8,nan,2.25,1.5,nan,nan,1.0,14.0,nan,0.3,nan,nan,nan,nan
+Allocasuarina defungens,nan,,,,,,,,,,,,,,,,,,,35,,,,19,0,,,,,,,,,,,4,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.5,0.05,nan,nan,nan,0.35,nan,0.7,0.9500000000000001,nan,nan,0.5,12.0,nan,0.6,nan,nan,nan,nan
+Allocasuarina dielsiana,nan,,,,,,,,,,,,,,,,,,,35,,,,0,0,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.2,0.08,nan,nan,nan,0.6,nan,0.55,2.2,nan,nan,4.0,20.0,nan,0.6,nan,nan,nan,nan
+Allocasuarina diminuta,nan,,,,,,,,,,,,,,,,,,,16,,,,0,1,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.5,0.06,nan,nan,nan,0.55,nan,2.75,1.25,nan,nan,1.0,23.0,nan,0.5,nan,nan,nan,nan
+Allocasuarina distyla,nan,,,,,,,,,,,,,,,,,,,12,,,,19,1,,,,,,,,,,,4,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.1,0.08,nan,nan,nan,0.85,nan,3.25,2.4,nan,nan,1.0,35.0,nan,1.0,nan,nan,nan,nan
+Allocasuarina drummondiana,nan,,,,,,,,,,,,,,,,,,,35,,,,0,1,,,,,,,,,,,,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.7,0.09,nan,nan,nan,0.7,nan,0.7,1.15,nan,nan,0.5,2.0,nan,0.12,nan,nan,nan,nan
+Allocasuarina duncanii,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Allocasuarina emuina,nan,,,,34,,,,,,,,,,,,,,,35,,,,0,1,,,,,,,,,,,4,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.6,0.05,nan,nan,nan,0.5,nan,2.0,2.0,nan,nan,0.5,12.0,nan,0.4,nan,nan,nan,nan
+Allocasuarina eriochlamys,nan,,,,,,,,,,,,,,,,,,,17,,,,25,0,,,,,,,,,,,4,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.3,0.05,nan,nan,nan,0.65,nan,2.25,3.25,nan,nan,1.0,23.0,nan,0.5,nan,nan,nan,nan
+Allocasuarina fibrosa,nan,,,,46,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.9,nan,nan,nan,nan,1.75,nan,0.55,1.8,nan,nan,0.5,3.5,nan,0.8,nan,nan,nan,nan
+Allocasuarina filidens,nan,,,,,,,,,,,,,,,,,,,35,,,,12,1,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.1,0.05,nan,nan,nan,1.75,nan,nan,2.2,nan,nan,1.5,20.0,nan,1.2,nan,nan,nan,nan
+Allocasuarina fraseriana,nan,,,,,,,,,,,,,,,,,,,15,,,,27,,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.5,0.08,nan,nan,nan,0.95,nan,5.5,2.75,nan,nan,5.0,30.0,nan,0.7,nan,nan,nan,nan
+Allocasuarina glareicola,nan,,,,,,,,,,,,,,,,,,,35,,,,19,1,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.7,0.05,nan,nan,nan,0.35,nan,1.35,1.15,nan,nan,1.0,20.0,nan,0.5,nan,nan,nan,nan
+Allocasuarina globosa,nan,,,37,,,,,,,,,,,,,,,,35,,,,25,0,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.3,0.09,nan,nan,nan,0.8,nan,nan,1.6,nan,nan,1.5,12.0,nan,1.7,nan,nan,nan,nan
+Allocasuarina grampiana,nan,,,17,,,,,,,,,,,,,,,,4,,,,19,1,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.7,0.07,nan,nan,nan,0.6000000000000001,nan,2.5,2.4,nan,nan,1.5,15.0,nan,0.5,nan,nan,nan,nan
+Allocasuarina grevilleoides,nan,,,25,,,,,,,,,,,,,,,,18,,,,3,0,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.6,0.05,nan,nan,nan,0.44999999999999996,nan,0.35,1.15,nan,nan,0.15,2.0,nan,1.0,nan,nan,nan,nan
+Allocasuarina gymnanthera,nan,,,17,,,,,,,,,,,,,,,,10,,,,25,1,,,,,,,,,,,4,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.9,0.05,nan,nan,nan,0.55,nan,4.25,2.7,nan,nan,2.0,20.0,nan,0.5,nan,nan,nan,nan
+Allocasuarina helmsii,nan,,,17,,,,,,,,,,,,,,,,4,,,,6,1,,,,,,,,,,,15,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.8,0.07,nan,nan,nan,0.4,nan,1.5,2.4,nan,nan,1.0,16.0,nan,0.3,nan,nan,nan,nan
+Allocasuarina huegeliana,nan,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.0,0.08,nan,nan,nan,0.6,nan,6.0,2.45,nan,nan,4.0,nan,nan,0.8,nan,nan,nan,nan
+Allocasuarina humilis,nan,,,0,,,,,,,,,,,,,,,,2,,,,10,1,,,,,,,,,,,22,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.0,0.08,nan,nan,nan,0.45,nan,1.7000000000000002,1.7000000000000002,nan,nan,0.2,12.0,nan,0.3,nan,nan,nan,nan
+Allocasuarina hystricosa,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Allocasuarina inophloia,nan,,,0,,,,,,,,,,,,,,,,4,,,,34,,,,,,,,,,,,4,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.9,0.05,nan,nan,nan,0.4,nan,3.0,1.5,nan,nan,3.0,21.0,nan,0.4,nan,nan,nan,nan
+Allocasuarina lehmanniana,nan,,,0,,,,,,,,,,,,,,,,12,,,,19,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.7,0.07,nan,nan,nan,0.6000000000000001,nan,2.0,2.35,nan,nan,1.5,nan,nan,0.5,nan,nan,nan,nan
+Allocasuarina littoralis,nan,,,6,,,,,,,,,,,,,,,,35,,,,19,1,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.8,0.04,nan,nan,nan,0.6,nan,2.75,2.0,nan,nan,5.0,20.0,nan,0.4,nan,nan,nan,nan
+Allocasuarina luehmannii,nan,,,6,,,,,,,,,,,,,,,,1,,,,33,,,,,,,,,,,,4,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.8,0.1,nan,nan,nan,0.75,nan,3.0,0.85,nan,nan,5.0,40.0,nan,0.8,nan,nan,nan,nan
+Allocasuarina mackliniana,nan,,,6,,,,,,,,,,,,,,,,35,,,,25,0,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.8,0.08,nan,nan,nan,1.35,nan,2.5,1.7000000000000002,nan,nan,0.5,20.0,nan,0.7,nan,nan,nan,nan
+Allocasuarina media,nan,,,0,,,,,,,,,,,,,,,,9,,,,0,1,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.8,0.05,nan,nan,nan,0.55,nan,2.75,2.05,nan,nan,1.0,19.0,nan,0.5,nan,nan,nan,nan
+Allocasuarina microstachya,nan,,,16,,,,,,,,,,,,,,,,,,,,21,,,,,,,,,,,,,,,8,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.5,0.06,nan,nan,nan,0.8500000000000001,nan,0.22499999999999998,1.0,nan,nan,0.1,5.0,nan,0.2,nan,nan,nan,nan
+Allocasuarina misera,nan,,,0,,,,,,,,,,,,,,,,35,,,,14,0,,,,,,,,,,,4,,,4,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.7,0.03,nan,nan,nan,0.55,nan,1.0,1.25,nan,nan,0.5,10.0,nan,0.4,nan,nan,nan,nan
+Allocasuarina monilifera,nan,,,0,,,,,,,,,,,,,,,,0,,,,30,1,,,,,,,,,,,,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.8,0.06,nan,nan,nan,nan,nan,2.25,2.25,nan,nan,1.5,nan,nan,0.6,nan,nan,nan,nan
+Allocasuarina muelleriana,nan,,,,,,,,,,,,,,,,,,,19,,,,37,1,,,,,,,,,,,,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1.8,nan,nan,nan,nan,nan,0.5,1.95,nan,0.0,nan,nan,nan,nan
+Allocasuarina nana,nan,,,0,,,,,,,,,,,,,,,,24,,,,25,,,,,,,,,,,,4,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.0,0.05,nan,nan,nan,0.44999999999999996,nan,0.75,1.9,nan,nan,0.2,8.0,nan,0.5,nan,nan,nan,nan
+Allocasuarina ophiolitica,nan,,,0,,,,,,,,,,,,,,,,,,,,19,1,,,,,,,,,,,,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.7,0.06,nan,nan,nan,0.9,nan,1.75,1.45,nan,nan,1.0,19.0,nan,0.7,nan,nan,nan,nan
+Allocasuarina paludosa,nan,,,0,,,,,,,,,,,,,,,,40,,,,11,0,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.7,0.07,nan,nan,nan,0.7,nan,1.75,1.4,nan,nan,0.3,20.0,nan,0.5,nan,nan,nan,nan
+Allocasuarina paradoxa,nan,,,0,,,,,,,,,,,,,,,,4,,,,19,0,,,,,,,,,,,4,,,11,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.7,0.06,nan,nan,nan,1.15,nan,2.0,1.9,nan,nan,0.5,15.0,nan,0.6,nan,nan,nan,nan
+Allocasuarina pinaster,nan,,,,,,,,,,,,,,,,,,,45,,,,7,,,,,,,,,,,,,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.2,0.1,nan,nan,nan,4.75,nan,0.75,1.95,nan,nan,1.0,4.0,nan,2.0,nan,nan,nan,nan
+Allocasuarina portuensis,nan,,,0,,,,,,,,,,,,,,,,43,,,,28,0,,,,,,,,,,,22,,,11,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.8,0.08,nan,nan,nan,0.9,nan,7.5,1.85,nan,nan,3.0,27.0,nan,1.3,nan,nan,nan,nan
+Allocasuarina pusilla,nan,,,3,,,,,,,,,,,,,,,,35,,,,7,1,,,,,,,,,,,22,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.8,0.04,nan,nan,nan,0.4,nan,1.15,1.25,nan,nan,0.2,12.0,nan,0.3,nan,nan,nan,nan
+Allocasuarina ramosissima,nan,,,34,7,,,,,,,,,,,,,,,38,,,,19,0,,,,,,,,,,,27,,,5,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.7,0.06,nan,nan,nan,0.95,nan,0.175,1.1,nan,nan,1.0,3.5,nan,0.6,nan,nan,nan,nan
+Allocasuarina rigida,nan,,,0,,,,,,,,,,,,,,,,35,,,,12,0,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.7,0.07,nan,nan,nan,0.8500000000000001,nan,4.0,1.75,nan,nan,0.5,33.0,nan,1.0,nan,nan,nan,nan
+Allocasuarina robusta,nan,,,0,,,,,,,,,,,,,,,,35,,,,19,1,,,,,,,,,,,4,,,14,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.7,0.07,nan,nan,nan,0.8,nan,2.5,1.6,nan,nan,0.2,20.0,nan,0.7,nan,nan,nan,nan
+Allocasuarina rupicola,nan,,,1,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,13,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.6,0.07,nan,nan,nan,0.4,nan,1.75,1.25,nan,nan,1.0,18.0,nan,0.8,nan,nan,nan,nan
+Allocasuarina scleroclada,nan,,,0,,,,,,,,,,,,,,,,35,,,,25,0,,,,,,,,,,,12,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.3,0.1,nan,nan,nan,2.0,nan,1.1,2.15,nan,nan,1.0,23.0,nan,2.0,nan,nan,nan,nan
+Allocasuarina simulans,nan,,,16,,,,,,,,,,,,,,,,5,,,,19,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.9,0.09,nan,nan,nan,0.8,nan,3.0,2.3499999999999996,nan,nan,nan,19.0,nan,1.3,nan,nan,nan,nan
+Allocasuarina spinosissima,nan,,,0,,,,,,,,,,,,,,,,46,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.8,0.1,nan,nan,nan,0.75,nan,2.25,1.65,nan,nan,2.0,nan,nan,0.8,nan,nan,nan,nan
+Allocasuarina striata,nan,,,0,,,,,,,,,,,,,,,,35,,,,20,1,,,,,,,,,,,4,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.0,0.08,nan,nan,nan,1.2,nan,2.0,2.45,nan,nan,1.0,10.0,nan,0.8,nan,nan,nan,nan
+Allocasuarina tessellata,nan,,,,,,,,,,,,,,,,,,,4,,,,19,,,,,,,,,,,,4,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.4,0.07,nan,nan,nan,nan,nan,3.0,4.05,nan,nan,3.0,nan,nan,0.7,nan,nan,nan,nan
+Allocasuarina thalassoscopica,nan,,,0,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.9,0.07,nan,nan,nan,0.44999999999999996,nan,2.5,1.8,nan,nan,1.0,nan,nan,0.7,nan,nan,nan,nan
+Allocasuarina thuyoides,nan,,,0,,,,,,,,,,,,,,,,4,,,,25,,,,,,,,,,,,,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.8,0.04,nan,nan,nan,0.4,nan,0.3,1.4,nan,nan,0.3,3.0,nan,0.1,nan,nan,nan,nan
+Allocasuarina tortiramula,nan,,,0,,,,,,,,,,,,,,,,35,,,,11,0,,,,,,,,,,,26,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.0,0.08,nan,nan,nan,0.65,nan,0.7,1.25,nan,nan,1.7,10.0,nan,0.6,nan,nan,nan,nan
+Allocasuarina torulosa,nan,,,5,,,,,,,,,,,,,,,,39,,,,25,,,,,,,,,,,,12,,,7,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.2,0.04,nan,nan,nan,0.55,nan,1.75,2.4,nan,nan,5.0,14.0,nan,0.5,nan,nan,nan,nan
+Allocasuarina trichodon,nan,,,5,,,,,,,,,,,,,,,,4,,,,9,,,,,,,,,,,,4,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.4,0.09,nan,nan,nan,2.65,nan,5.5,3.25,nan,nan,0.5,30.0,nan,0.9,nan,nan,nan,nan
+Allocasuarina verticillata,nan,,,0,,,,,,,,,,,,,,,,8,,,,35,,,,,,,,,,,,12,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.7,0.07,nan,nan,nan,0.95,nan,0.75,3.5,nan,nan,4.0,40.0,nan,1.5,nan,nan,nan,nan
+Allocasuarina zephyrea,nan,,,0,,,,,,,,,,,,,,,,14,,,,19,1,,,,,,,,,,,,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.6,0.06,nan,nan,nan,0.8,nan,2.25,1.75,nan,nan,0.5,19.0,nan,0.4,nan,nan,nan,nan
+Alnus acuminata,nan,,,,,,,,,,,,,,,,,,,,8,,,,0,,,,,,31,,,0,,,,,,,,,8,,,19,49,,,nan,nan,nan,6.25,nan,nan,0.15,nan,nan,nan,nan,6.5,nan,9.25,2.25,nan,nan,25.0,nan,nan,nan,nan,nan,nan,nan
+Alnus alnobetula,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus cordata,nan,,,11,32,,,,,,,,,,,,,,,,31,,,,0,,,,,,19,,,,,,,,,24,,,,,,31,49,,,nan,nan,nan,6.4,nan,nan,1.6,nan,nan,nan,nan,6.9,nan,6.3,2.85,nan,nan,25.0,nan,nan,nan,nan,nan,nan,nan
+Alnus elliptica,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus fauriei,nan,,,,31,,,,,,,,,,,,,,,,16,,,,0,,,,,,15,,,14,,,,,,,,,2,,,1,,,,nan,nan,nan,7.5,nan,nan,0.6,nan,nan,nan,nan,8.5,nan,14.25,3.25,nan,nan,7.0,nan,nan,nan,nan,nan,nan,nan
+Alnus firma,nan,,,2,,,,,,,,,,,,,,,,,28,,,,0,,,,,,19,,,20,,,,,,44,,,,,,2,51,,,nan,nan,nan,3.75,nan,nan,nan,nan,nan,nan,nan,8.25,nan,6.25,1.75,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan
+Alnus jorullensis,nan,,,,,,,,,,,,,,,,,,,,31,,,,0,,,,,,15,,,,,,,,,17,,,,,,15,40,,,nan,nan,nan,4.75,nan,nan,nan,nan,nan,nan,nan,8.85,nan,nan,nan,nan,nan,25.0,nan,nan,nan,nan,nan,nan,nan
+Alnus matsumurae,nan,,,,33,,,,,,,,,,,,,,,,,,,,0,,,,,,27,,,13,,,,,,,,,,,,7,40,,,nan,nan,nan,5.75,nan,nan,1.0,nan,nan,nan,nan,7.0,nan,6.0,1.5,nan,nan,17.0,nan,nan,nan,nan,nan,nan,nan
+Alnus maximowiczii,nan,,,11,,,,,,,,,,,,,,,,,27,,,,0,,,,,,20,,,17,,,,,,28,,,,,,7,49,,,nan,nan,nan,5.699999999999999,nan,nan,nan,nan,nan,nan,nan,7.5,nan,5.0,1.7,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan
+Alnus mayrii,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus nitida,nan,,,20,25,,,,,,,,,,,,,,,,28,,,,0,,,,,,17,,,,,,,,,44,,,18,,,32,48,,,nan,nan,nan,6.3,nan,nan,nan,nan,0.6,nan,nan,11.399999999999999,nan,12.6,2.55,nan,nan,33.0,nan,nan,nan,nan,nan,nan,nan
+Alnus orientalis,nan,,,11,15,,,,,,,,,,,,,,,,,,,,0,,,,,,23,,,,,,,,,28,,,1,,,32,48,,,nan,nan,nan,4.4,nan,nan,1.3,nan,nan,nan,nan,8.15,nan,nan,2.2,nan,nan,15.0,nan,nan,nan,nan,nan,nan,nan
+Alnus pendula,nan,,,,44,,,,,,,,,,,,,,,,6,,,,0,,,,,,15,,,2,,,,,4,,,,8,,,23,49,,,nan,nan,nan,3.35,nan,nan,0.8,nan,nan,nan,nan,8.25,nan,8.5,1.4,nan,nan,3.0,nan,nan,nan,nan,nan,nan,nan
+Alnus pubescens,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus serrulatoides,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Alnus sieboldiana,nan,,,,43,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,1,,,,,,9,,,8,,,,16,,,nan,nan,nan,4.5,nan,nan,1.5,nan,nan,nan,nan,8.0,nan,6.75,2.75,nan,nan,12.0,nan,nan,nan,nan,nan,nan,nan
+Alnus subcordata,nan,,,,25,,,,,,,,,,,,,,,,33,,,,0,,,,,,23,,,10,,,,,,21,,,7,,,2,49,,,nan,nan,nan,7.5,nan,nan,nan,nan,nan,nan,nan,11.399999999999999,nan,15.0,2.2,nan,nan,20.0,nan,nan,nan,nan,nan,nan,nan
+Betula alpestris,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula aurata,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula bomiensis,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula caerulea,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula corylifolia,nan,,,,,,,,,,,,,,,,,,,,27,,,,0,,,,,,16,,,18,,,,,,39,,,7,,,9,42,,,nan,nan,nan,3.75,nan,nan,nan,nan,1.5,nan,nan,5.699999999999999,nan,5.0,nan,nan,nan,20.0,nan,nan,nan,nan,nan,nan,nan
+Betula divaricata,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula dutillyi,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula eastwoodiae,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula globispica,nan,,,,,,,,,,,,,,,,,,,,3,,,,0,,,,,,40,,,19,,,,,,29,,,13,,,2,8,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,5.7,nan,3.15,nan,nan,nan,21.0,nan,nan,nan,nan,nan,nan,nan
+Betula grossa,nan,,,,,,,,,,,,,,,,,,,,35,,,,0,,,,,,23,,,,,,,,,42,,,7,,,,37,,,nan,nan,nan,3.75,nan,nan,nan,nan,nan,nan,nan,7.5,nan,nan,nan,nan,nan,15.0,nan,nan,nan,nan,nan,nan,nan
+Betula jarmolenkoana,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula lanata,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula litwinowii,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula maximowicziana,nan,,,,,,,,,,,,,,,,,,,,27,,,,0,,,,,,,,,,,,,,,,,,7,,,,26,,,nan,nan,nan,8.25,nan,nan,nan,nan,nan,nan,nan,11.25,nan,11.0,nan,nan,nan,25.0,nan,nan,nan,nan,nan,nan,nan
+Betula medwediewii,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,49,,,nan,nan,nan,5.0,nan,nan,nan,nan,nan,nan,nan,7.5,nan,nan,nan,nan,nan,4.5,nan,nan,nan,nan,nan,nan,nan
+Betula obscura,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula pamirica,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula piperi,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula purpusii,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula raddeana,nan,,,,,,,,,,,,,,,,,,,,27,,,,0,,,,,,40,,,,,,,,,28,,,7,,,,49,,,nan,nan,nan,2.75,nan,nan,nan,nan,nan,nan,nan,4.5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula raymundii,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula sandbergii,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula sargentii,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula szechuanica,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,17,,,7,,,,60,,,nan,nan,nan,4.25,nan,nan,nan,nan,nan,nan,nan,6.25,nan,nan,nan,nan,nan,20.0,nan,nan,nan,nan,nan,nan,nan
+Betula turkestanica,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula utahensis,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Betula winteri,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Canacomyrica monticola,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus betulus,nan,,,24,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,49,,,nan,nan,nan,3.75,nan,nan,0.6,nan,nan,nan,nan,6.4,nan,3.8,0.6,nan,nan,15.0,nan,nan,nan,nan,nan,nan,nan
+Carpinus japonica,nan,,,,,,,,,,,,,,,,,,,,38,,,,0,,,,,,,,,,,,,,,43,,,16,,,,37,,,nan,nan,nan,3.25,nan,nan,nan,nan,nan,nan,nan,8.0,nan,3.75,nan,nan,nan,12.0,nan,nan,nan,nan,nan,nan,nan
+Carpinus laxiflora,nan,,,,,,,,,,,,,,,,,,,,2,,,,0,,,,,,,,,,,,,,,21,,,,,,,49,,,nan,nan,nan,3.15,nan,nan,nan,nan,nan,nan,nan,6.4,nan,nan,nan,nan,nan,14.0,nan,nan,nan,nan,nan,nan,nan
+Carpinus orientalis,nan,,,,,,,,,,,,,,,,,,,,27,,,,0,,,,,,,,,,,,,,,44,,,,,,,49,,,nan,nan,nan,1.85,nan,nan,nan,nan,nan,nan,nan,3.75,nan,1.6,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carpinus tropicalis,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carya alba,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carya carolinae-septentrionalis,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carya palmeri,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Carya sinensis,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,21.5,nan,nan,nan,nan,nan,30.0,nan,nan,nan,nan,nan,nan,nan
+Castanea neglecta,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanea sativa,nan,,,15,,,,,,,,,,,,,,,,,27,,,,0,,,,,,,,,,,,,,,28,,,,,,,37,,,nan,nan,nan,7.0,nan,nan,nan,nan,nan,nan,nan,17.85,nan,4.4,nan,nan,nan,30.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis acuminatissima,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1,11,,,20,,,,83,,,nan,nan,nan,4.25,nan,nan,nan,nan,nan,nan,nan,10.75,nan,7.5,12.5,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis annamensis,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis argentea,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,20,,,,84,,,nan,nan,nan,6.0,nan,nan,nan,nan,0.2,nan,nan,14.5,nan,20.0,nan,nan,nan,15.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis armata,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis borneensis,nan,,,,,,,,,,,,,,,,,,,,0,,,,1,,,,,,,,,,,,,,,4,,,20,,,,86,,,nan,nan,nan,3.0,nan,nan,nan,nan,0.1,nan,nan,9.0,nan,12.5,nan,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis brevispinula,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis buruana,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,20,,,,49,,,nan,nan,nan,4.5,nan,nan,nan,nan,nan,nan,nan,12.5,nan,12.5,nan,nan,nan,20.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis chevalieri,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis clemensii,nan,,,,,,,,,,,,,,,,,,,,31,,,,1,,,,,,,,,,,,,,,28,,,20,,,,78,,,nan,nan,nan,4.0,nan,nan,nan,nan,nan,nan,nan,9.0,nan,nan,nan,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis curtisii,nan,,,26,,,,,,,,,,,,,,,,,,,,,1,,,,,,17,,,,,,,,,,,,,,,,28,,,nan,nan,nan,3.5,nan,nan,2.0,nan,nan,nan,nan,9.5,nan,nan,3.0,nan,nan,20.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis cuspidata,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis densinervia,nan,,,,,,,,,,,,,,,,,,,,31,,,,1,,,,,,,,,,,,,,,28,,,20,,,,77,,,nan,nan,nan,5.5,nan,nan,0.4,nan,0.3,nan,nan,11.5,nan,5.0,7.5,nan,nan,12.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis diversifolia,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis dongchoensis,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis endertii,nan,,,28,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,20,,,,21,,,nan,nan,nan,5.5,nan,nan,0.1,nan,0.1,nan,nan,12.5,nan,11.0,17.5,nan,nan,15.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis evansii,nan,,,,,,,,,,,,,,,,,,,,8,,,,1,,,,,,,,,,,,,,,0,,,20,,,,80,,,nan,nan,nan,4.5,nan,nan,nan,nan,0.1,nan,nan,13.5,nan,12.5,10.0,nan,nan,5.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis faberi,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis formosana,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis foxworthyi,nan,,,,,,,,,,,,,,,,,,,,31,,,,1,,,,,,,,,,,,,,,28,,,20,,,,80,,,nan,nan,nan,6.0,nan,nan,nan,nan,nan,nan,nan,15.25,nan,12.5,nan,nan,nan,5.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis fulva,nan,,,,,,,,,,,,,,,,,,,,8,,,,1,,,,,,,,,,,,,,,0,,,20,,,,85,,,nan,nan,nan,4.75,nan,nan,nan,nan,nan,nan,nan,13.0,nan,15.0,nan,nan,nan,18.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis hypophoenicea,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,20,,,,21,,,nan,nan,nan,4.5,nan,nan,nan,nan,nan,nan,nan,12.5,nan,7.5,nan,nan,nan,12.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis inermis,nan,,,28,,,,,,,,,,,,,,,,,8,,,,1,,,,,,,,,,,,,,,4,,,20,,,,79,,,nan,nan,nan,5.75,nan,nan,nan,nan,0.1,nan,nan,12.5,nan,12.5,nan,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis javanica,nan,,,,,,,,,,,,,,,,,,,,8,,,,1,,,,,,,,,,,,,,,30,,,20,,,,81,,,nan,nan,nan,4.5,nan,nan,nan,nan,nan,nan,nan,11.5,nan,12.5,nan,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis lanceifolia,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis lecomtei,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis longipetiolata,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis lucida,nan,,,,,,,,,,,,,,,,,,,,31,,,,1,,,,,,,,,,,,,,,11,,,20,,,,80,,,nan,nan,nan,9.0,nan,nan,nan,nan,nan,nan,nan,18.0,nan,15.0,nan,nan,nan,12.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis megacarpa,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,20,,,,30,,,nan,nan,nan,6.5,nan,nan,nan,nan,nan,nan,nan,17.5,nan,15.0,nan,nan,nan,12.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis microphylla,nan,,,,,,,,,,,,,,,,,,,,4,,,,1,,,,,,,,,,,,,,,32,,,20,,,,86,,,nan,nan,nan,2.25,nan,nan,nan,nan,0.1,nan,nan,7.0,nan,7.5,nan,nan,nan,20.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis motleyana,nan,,,28,,,,,,,,,,,,,,,,,8,,,,1,,,,,,,,,,,,,,,6,,,20,,,,85,,,nan,nan,nan,8.5,nan,nan,0.3,nan,0.2,nan,nan,19.0,nan,15.0,15.0,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis namdinhensis,nan,,,,,,,,,,,,,,,,,,,,4,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis neocavaleriei,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis nephelioides,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,20,,,,50,,,nan,nan,nan,4.5,nan,nan,nan,nan,nan,nan,nan,11.5,nan,15.0,10.0,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis oligoneura,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,2,,,20,,,,84,,,nan,nan,nan,4.5,nan,nan,nan,nan,0.15,nan,nan,11.0,nan,15.0,nan,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis oviformis,nan,,,,,,,,,,,,,,,,,,,,0,,,,1,,,,,,,,,,,,,,,28,,,20,,,,78,,,nan,nan,nan,4.75,nan,nan,nan,nan,0.1,nan,nan,10.5,nan,10.0,nan,nan,nan,15.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis paucispina,nan,,,,,,,,,,,,,,,,,,,,13,,,,1,,,,,,,,,,,,,,,4,,,20,,,,87,,,nan,nan,nan,4.25,nan,nan,nan,nan,0.1,nan,nan,11.0,nan,7.5,nan,nan,nan,12.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis pedunculata,nan,,,28,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,21,,,nan,nan,nan,2.25,nan,nan,0.5,nan,nan,nan,nan,12.0,nan,nan,18.0,nan,nan,18.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis philipensis,nan,,,,,,,,,,,,,,,,,,,,39,,,,1,,,,,,,,,,,,,,6,4,,,20,,,,88,,,nan,nan,nan,3.5,nan,nan,nan,nan,nan,nan,nan,11.0,nan,17.5,nan,nan,nan,6.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis pierrei,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis piriformis,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis psilophylla,nan,,,28,,,,,,,,,,,,,,,,,4,,,,1,,,,,,,,,,,,,,6,28,,,20,,,,80,,,nan,nan,nan,3.5,nan,nan,nan,nan,0.1,nan,nan,10.0,nan,10.0,20.0,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis purpurea,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis rhamnifolia,nan,,,28,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,20,,,,23,,,nan,nan,nan,3.5,nan,nan,1.0,nan,0.1,nan,nan,9.0,nan,7.5,5.0,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis schefferiana,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis sieboldii,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis touranensis,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Castanopsis tungurrut,nan,,,28,,,,,,,,,,,,,,,,,8,,,,1,,,,,,,,,,,,,,,4,,,20,,,,82,,,nan,nan,nan,5.5,nan,nan,nan,nan,0.1,nan,nan,13.5,nan,17.5,nan,nan,nan,20.0,nan,nan,nan,nan,nan,nan,nan
+Castanopsis wallichii,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,20,,,,,,,nan,nan,nan,2.25,nan,nan,nan,nan,0.1,nan,nan,6.25,nan,7.5,nan,nan,nan,12.0,nan,nan,nan,nan,nan,nan,nan
+Casuarina collina,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Casuarina cristata,nan,,,,,,,,,,,,,,,,,,,33,,,,24,0,,,,,,,,,,,,,,7,,,,,,,9,,,,nan,nan,nan,0.075,nan,nan,1.0,0.5,nan,nan,nan,nan,nan,3.15,1.55,nan,nan,10.0,nan,nan,0.8,nan,nan,nan,nan
+Casuarina grandis,nan,,,15,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,0.04,nan,nan,0.9,nan,nan,nan,nan,nan,nan,nan,0.8500000000000001,nan,nan,50.0,nan,nan,0.6,nan,nan,nan,nan
+Casuarina junghuhniana,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Casuarina obesa,nan,,,,,,,,,,,,,,,,,,,43,,,,7,,,,,,,,,,,,,,,12,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.8,nan,nan,nan,nan,nan,nan,nan,1.5,nan,nan,nan,nan,nan,0.3,nan,nan,nan,nan
+Casuarina oligodon,nan,,,0,,,,,,,,,,,,,,,,30,,,,,,,,,,,,,,,,,,,,,,,26,,,,,,,nan,nan,nan,nan,nan,nan,0.07,0.05,nan,nan,nan,nan,nan,3.0,0.7,nan,nan,30.0,nan,nan,0.4,nan,nan,nan,nan
+Casuarina pauper,nan,,,,,,,,,,,,,,,,,,,37,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,nan,nan,nan,nan,nan,nan,nan,0.18,nan,nan,nan,nan,nan,nan,nan,nan,nan,5.0,nan,nan,0.1,nan,nan,nan,nan
+Ceuthostoma terminale,nan,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,0.4,0.07,nan,nan,nan,nan,nan,nan,nan,nan,nan,30.0,nan,nan,0.4,nan,nan,nan,nan
+Corylus colurna,nan,,,32,,,,,,,,,,,,,,,,,27,,,,0,,,,,,25,,,,,,,,,21,,,7,,,,49,,,nan,nan,nan,8.25,nan,nan,1.2,nan,nan,nan,nan,10.5,nan,6.5,1.6,nan,nan,20.0,nan,nan,nan,nan,nan,nan,nan
+Corylus jacquemontii,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Corylus maxima,nan,,,21,,,,,,,,,,,,,,,,,34,,,,0,,,,,,,,,,,,,,,21,,,7,,,,41,,,nan,nan,nan,7.0,nan,nan,nan,nan,nan,nan,nan,8.5,nan,6.5,nan,nan,nan,3.5,nan,nan,nan,nan,nan,nan,nan
+Corylus sieboldiana,nan,,,8,,,,,,,,,,,,,,,,,27,,,,0,,,,,,25,,,,,,,,,21,,,7,,,,47,,,nan,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan,11.25,nan,nan,1.2,nan,nan,3.5,nan,nan,nan,nan,nan,nan,nan
+Engelhardia colebrookeana,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Engelhardia mexicana,nan,,,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,2.0,nan,nan,0.7,nan,nan,nan,nan,10.0,nan,nan,0.7,nan,nan,10.0,nan,nan,nan,nan,nan,nan,nan
+Engelhardia apoensis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,18.0,nan,nan,nan,nan,nan,40.0,nan,nan,nan,nan,nan,nan,nan
+Engelhardia rigida,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,0.3,nan,nan,nan,nan,4.5,nan,3.25,0.3,nan,nan,15.0,nan,nan,nan,nan,nan,nan,nan
+Engelhardia serrata,nan,,,15,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,3.0,nan,nan,nan,nan,11.5,nan,6.5,0.3,nan,nan,20.0,nan,nan,nan,nan,nan,nan,nan
+Engelhardia spicata,nan,,,15,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,7,,,,,,,nan,nan,nan,nan,nan,nan,0.3,nan,nan,nan,nan,25.0,nan,nan,0.44999999999999996,nan,nan,20.0,nan,nan,nan,nan,nan,nan,nan
+Engelhardia unijuga,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,25.0,nan,nan,nan,nan,nan,nan,nan
+Fagus crenata,nan,,,23,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,51,,,nan,nan,nan,4.0,nan,nan,nan,nan,nan,nan,nan,6.5,nan,nan,nan,nan,nan,30.0,nan,nan,nan,nan,nan,nan,nan
+Fagus japonica,nan,,,23,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,18,,,nan,nan,nan,3.75,nan,nan,nan,nan,nan,nan,nan,6.5,nan,nan,nan,nan,nan,25.0,nan,nan,nan,nan,nan,nan,nan
+Fagus orientalis,nan,,,23,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,40,,,nan,nan,nan,6.5,nan,nan,1.2,nan,nan,nan,nan,11.0,nan,nan,1.7000000000000002,nan,nan,40.0,nan,nan,nan,nan,nan,nan,nan
+Fagus sylvatica,nan,,,23,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,49,,,nan,nan,nan,3.25,nan,nan,1.0,nan,nan,nan,nan,7.0,nan,nan,1.75,nan,nan,50.0,nan,nan,nan,nan,nan,nan,nan
+Fagus taurica,nan,,,23,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Gymnostoma australianum,nan,,,35,,,,,,,,,,,,,,,,35,,,,,1,,,,,,,,,,,,,,,,,,9,,,,4,,,nan,nan,nan,nan,nan,nan,0.8,nan,nan,nan,nan,0.55,nan,0.175,0.39999999999999997,nan,nan,4.0,nan,nan,0.2,nan,nan,nan,nan
+Gymnostoma chamaecyparis,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Gymnostoma deplancheanum,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Gymnostoma glaucescens,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Gymnostoma nobile,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Gymnostoma nodiflorum,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Gymnostoma papuanum,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Gymnostoma poissonianum,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Gymnostoma rumphianum,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Gymnostoma sumatranum,nan,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Gymnostoma vitiense,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,1.1,0.05,nan,nan,nan,nan,nan,0.3,1.8499999999999999,nan,nan,nan,nan,nan,0.3,nan,nan,nan,nan
+Gymnostoma webbianum,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Juglans ailanthifolia,nan,,,25,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,19,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,45.0,nan,17.5,3.0,nan,nan,15.0,nan,nan,nan,nan,nan,nan,nan
+Juglans australis,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Juglans boliviana,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Juglans cathayensis ,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Juglans hirsuta,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,19,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Juglans manshurica,nan,,,25,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,23,,,,,,,nan,nan,nan,nan,nan,nan,3.0,nan,nan,nan,nan,65.0,nan,24.5,5.25,nan,nan,25.0,nan,nan,nan,nan,nan,nan,nan
+Juglans mollis,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,19,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Juglans neotropica,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Juglans olanchana,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,19,,,,,,,nan,nan,nan,32.5,nan,nan,nan,nan,nan,nan,nan,55.0,nan,nan,nan,nan,nan,15.0,nan,nan,nan,nan,nan,nan,nan
+Juglans pyriformis,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,19,,,,,,,nan,nan,nan,30.0,nan,nan,nan,nan,nan,nan,nan,50.0,nan,nan,nan,nan,nan,40.0,nan,nan,nan,nan,nan,nan,nan
+Juglans sp1,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Juglans sp2,nan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Juglans steyermarkii,nan,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,19,,,,,,,nan,nan,nan,30.0,nan,nan,nan,nan,nan,nan,nan,60.0,nan,nan,nan,nan,nan,15.0,nan,nan,nan,nan,nan,nan,nan

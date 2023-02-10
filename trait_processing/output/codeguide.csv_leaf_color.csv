@@ -1,44 +1,49 @@
 leaf_color
-black,0
-black-brown,1
-blue-green,2
-blue-white,3
-bronze,4
-brown,5
-brown with broad white erose margins,6
-brown-gray,7
-brown-orange,8
-brown-pruinose,9
-brown-purple,10
-brown-red,11
-brown-yellow,12
-glaucous,13
-glossy green above,14
-glossy-green,15
-golden,16
-gray,17
-gray-green,18
-gray-silver,19
-gray-tan,20
-gray-white,21
-gray-yellow,22
-green,23
-"green above,  beneath-shining",24
-"green above, r beneath",25
-"green, lower surface  green-yellow",26
-green-green,27
-green-white,28
-green-yellow,29
-not overlapping,30
-orange,31
-purple,32
-red,33
-silver,34
-silver-tan,35
-"upper surface  green, lower surface white",36
-"upper surface  lustrous green, lower surface r",37
-"upper surface green and not glossy, lower surface  green",38
-"upper surface green, lower surface  green with appressed pubescence on veins",39
-white,40
-with broad whitish translucent margins at least towards apex,41
-yellow,42
+beneath-shining,0
+black,1
+black-brown,2
+blue-green,3
+blue-white,4
+bronze,5
+brown,6
+brown with broad white erose margins,7
+brown-gray,8
+brown-orange,9
+brown-pruinose,10
+brown-purple,11
+brown-red,12
+brown-yellow,13
+glaucous,14
+glossy green above,15
+glossy-green,16
+golden,17
+gray,18
+gray-green,19
+gray-silver,20
+gray-tan,21
+gray-white,22
+gray-yellow,23
+green,24
+green above,25
+green-green,26
+green-white,27
+green-yellow,28
+lower surface  green,29
+lower surface  green with appressed pubescence on veins,30
+lower surface  green-yellow,31
+lower surface r,32
+lower surface white,33
+not overlapping,34
+orange,35
+purple,36
+r beneath,37
+red,38
+silver,39
+silver-tan,40
+upper surface  green,41
+upper surface  lustrous green,42
+upper surface green,43
+upper surface green and not glossy,44
+white,45
+with broad whitish translucent margins at least towards apex,46
+yellow,47

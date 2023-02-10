@@ -1,37 +1,36 @@
 leaf_surface
 canescent,0
-downy,1
-eglandular,2
-ferruginous-pubescent,3
-floccose,4
-glabrate,5
-glabrous,6
-"glabrous,  glaucous,silky-hairy",7
-"glabrous, downy",8
-"glabrous, glossy, dense tufts of brown hair",9
-"glabrous, pubescent",10
-"glabrous, tufts of brownish down",11
-"glabrous,sparsely pubescent, tufts of hair",12
-"glabrous,tufts of down",13
-"glabrous,tufts of down, thin-textured",14
-glandular,15
-"glaucous,  sparsely pubescent",16
-granular,17
-hairy,18
-"hairy,glabrous,tufts of down",19
-hirsute,20
-hispid,21
-leathery,22
-membranous,23
-pilose,24
-puberulent,25
-pubescent,26
-scurfy,27
-sericeous,28
-silky,29
-silky hairs,30
-smooth,31
-surface,32
-tomentose,33
-tomentulose,34
-villose,35
+dense tufts of brown hair,1
+downy,2
+eglandular,3
+ferruginous-pubescent,4
+floccose,5
+glabrate,6
+glabrous,7
+glandular,8
+glaucous,9
+glossy,10
+granular,11
+hairy,12
+hirsute,13
+hispid,14
+leathery,15
+membranous,16
+pilose,17
+puberulent,18
+pubescent,19
+scurfy,20
+sericeous,21
+silky,22
+silky hairs,23
+silky-hairy,24
+smooth,25
+sparsely pubescent,26
+surface,27
+thin-textured,28
+tomentose,29
+tomentulose,30
+tufts of brownish down,31
+tufts of down,32
+tufts of hair,33
+villose,34
