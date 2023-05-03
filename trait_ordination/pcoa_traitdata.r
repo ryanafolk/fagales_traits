@@ -81,6 +81,33 @@ MDS2_loadings <- apply(dataset, 2, function(x) summary(lm(x ~ mds[,2]))$r.square
 noquote(format(sort(MDS1_loadings, decreasing = TRUE), scientific = FALSE))
 noquote(format(sort(MDS2_loadings, decreasing = TRUE), scientific = FALSE))
 
+
+# Read tree
+tree = read.newick("fagales.cut.rooted.tre")
+# Remove long branches that will affect the plot
+tree <- drop.tip(tree, c("Fagaceae_Quercus_tinkhamii", "Fagaceae_Quercus_leiophylla", "Fagaceae_Quercus_gambleana", "Fagaceae_Quercus_crispifolia", "Fagaceae_Quercus_neopalmeri", "Fagaceae_Lithocarpus_imperialis", "Fagaceae_Lithocarpus_sericobalanos", "Fagaceae_Lithocarpus_ruminatus", "Fagaceae_Lithocarpus_revolutus", "Fagaceae_Lithocarpus_hatusimae", "Fagaceae_Lithocarpus_echinifer", "Fagaceae_Lithocarpus_turbinatus", "Fagaceae_Lithocarpus_kalkmanii", "Fagaceae_Lithocarpus_beccarianus", "Fagaceae_Lithocarpus_truncatus", "Fagaceae_Colombobalanus_excelsa", "Fagaceae_Formanodendron_doichangensis"))
+
+# Remove families from names and format
+tree$tip.label <- gsub(".*aceae_", "", tree$tip.label)
+tree$tip.label <- gsub("\\.", "_", tree$tip.label)
+tree$tip.label <- gsub("__", "_", tree$tip.label)
+tree$tip.label <- gsub("_$", "", tree$tip.label, perl=TRUE)
+
+
+plotdata <- mds[,1] 
+names(plotdata) <- gsub("\\.", "_", names(plotdata))
+names(plotdata) <- gsub(" ", "_", names(plotdata))
+names(plotdata) <- gsub("__", "_", names(plotdata))
+names(plotdata) <- gsub("_$", "", names(plotdata), perl=TRUE)
+
+tree.reduced <- treedata(tree, plotdata)$phy
+temp <- treedata(tree, plotdata)$data
+plotdata.reduced <- temp[,1]
+names(plotdata.reduced) <- row.names(temp)
+
+contMap(tree.reduced, plotdata.reduced, fsize = 0.1, lwd = 0.6, outline = FALSE)
+
+
 ## reduced taxa plot
 #
 #subset <- as.matrix(dist_subset(distance, c(grep(".*maulensis.*", colnames(distance), value = TRUE), grep(".*angustifolia.*", colnames(distance), value = TRUE), grep(".*scarlatina.*", colnames(distance), value = TRUE), grep(".*lutea.*", colnames(distance), value = TRUE), grep(".*angustifolia.*", colnames(distance), value = TRUE), grep(".*chilensis.*", colnames(distance), value = TRUE), grep(".*arzae.*", colnames(distance), value = TRUE), grep(".*australis.*", colnames(distance), value = TRUE), grep(".*fulgens.*", colnames(distance), value = TRUE), grep(".*davidii.*", colnames(distance), value = TRUE))))
@@ -119,16 +146,6 @@ row.names(distancematrix) <- gsub(" ", "_", row.names(distancematrix))
 row.names(distancematrix) <- gsub("__", "_", row.names(distancematrix))
 row.names(distancematrix) <- gsub("_$", "", row.names(distancematrix), perl=TRUE)
 
-# Read tree
-tree = read.newick("fagales.cut.rooted.tre")
-# Remove long branches that will affect the plot
-tree <- drop.tip(tree, c("Fagaceae_Quercus_tinkhamii", "Fagaceae_Quercus_leiophylla", "Fagaceae_Quercus_gambleana", "Fagaceae_Quercus_crispifolia", "Fagaceae_Quercus_neopalmeri", "Fagaceae_Lithocarpus_imperialis", "Fagaceae_Lithocarpus_sericobalanos", "Fagaceae_Lithocarpus_ruminatus", "Fagaceae_Lithocarpus_revolutus", "Fagaceae_Lithocarpus_hatusimae", "Fagaceae_Lithocarpus_echinifer", "Fagaceae_Lithocarpus_turbinatus", "Fagaceae_Lithocarpus_kalkmanii", "Fagaceae_Lithocarpus_beccarianus", "Fagaceae_Lithocarpus_truncatus", "Fagaceae_Colombobalanus_excelsa", "Fagaceae_Formanodendron_doichangensis"))
-
-# Remove families from names and format
-tree$tip.label <- gsub(".*aceae_", "", tree$tip.label)
-tree$tip.label <- gsub("\\.", "_", tree$tip.label)
-tree$tip.label <- gsub("__", "_", tree$tip.label)
-tree$tip.label <- gsub("_$", "", tree$tip.label, perl=TRUE)
 
 # Match tree and data sampling
 shared_list <- intersect(tree$tip.label, colnames(distancematrix))
