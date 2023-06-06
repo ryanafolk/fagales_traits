@@ -108,31 +108,6 @@ names(plotdata.reduced) <- row.names(temp)
 contMap(tree.reduced, plotdata.reduced, fsize = 0.1, lwd = 0.6, outline = FALSE)
 
 
-## reduced taxa plot
-#
-#subset <- as.matrix(dist_subset(distance, c(grep(".*maulensis.*", colnames(distance), value = TRUE), grep(".*angustifolia.*", colnames(distance), value = TRUE), grep(".*scarlatina.*", colnames(distance), value = TRUE), grep(".*lutea.*", colnames(distance), value = TRUE), grep(".*angustifolia.*", colnames(distance), value = TRUE), grep(".*chilensis.*", colnames(distance), value = TRUE), grep(".*arzae.*", colnames(distance), value = TRUE), grep(".*australis.*", colnames(distance), value = TRUE), grep(".*fulgens.*", colnames(distance), value = TRUE), grep(".*davidii.*", colnames(distance), value = TRUE))))
-#
-#names <- row.names(subset)
-#names <- gsub(".*amoena.*", "turquoise", names)
-#names <- gsub(".*ornata.*", "olivedrab1", names)
-#names <- gsub(".*lutea.*", "darkgoldenrod1", names)
-#names <- gsub(".*scarlatina.*", "red", names)
-#names <- gsub(".*davidii.*", "hotpink", names)
-#names <- gsub(".*chilensis.*", "darkorchid3", names)
-#names <- gsub(".*quilapilun.*", "steelblue1", names)
-#names <- gsub(".*australis.*", "plum", names)
-#names <- gsub(".*fulgens.*", "salmon", names)
-#names <- gsub(".*maulensis.*", "forestgreen", names)
-#names <- gsub(".*angustifolia.*", "darkorange1", names)
-#names <- gsub(".*arzae.*", "royalblue1", names)
-#
-## Color plot
-#plot(cmdscale(subset), xlab="Coordinate 1", ylab="Coordinate 2", main="MDS", col = names, pch = 19)
-#
-## Text-labeled plot
-#plot(cmdscale(distance), xlab="Coordinate 1", ylab="Coordinate 2", main="MDS")
-#text(cmdscale(distance), labels = row.names(distance), cex=.5, pos=3)
-
 
 ##############
 # Phylogenetic PCoA
@@ -177,4 +152,8 @@ names(plotdata) <- row.names(trait_mds)
 
 contMap(tree.reduced, plotdata, fsize = 0.1, lwd = 0.6, outline = FALSE)
 
+
+##############
+# Individual trait graph
+##############
 

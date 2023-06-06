@@ -1,0 +1,121 @@
+﻿taxon,Genus,Source,Total traits captured (not sub-traits),Missed traits,Wrong traits,Traits missed proportion,Traits wrong proportion,Wrong trait comment,Trait + subtrait count from raw outputs
+Alnus glutinosa,Alnus,FNA,24,5,0,0.172413793,0,,64
+Alnus incana,Alnus,FNA,17,5,0,0.227272727,0,,33
+Alnus maritima,Alnus,FNA,20,7,0,0.259259259,0,,56
+Alnus oblongifolia,Alnus,FNA,21,6,0,0.222222222,0,,61
+Alnus rhombifolia,Alnus,FNA,23,10,0,0.303030303,0,,64
+Alnus rubra,Alnus,FNA,24,5,0,0.172413793,0,,60
+Alnus serrulata,Alnus,FNA,24,6,0,0.2,0,,56
+Alnus viridis,Alnus,FNA,17,7,0,0.291666667,0,,43
+Betula alleghaniensis,Betula,FNA,21,6,0,0.222222222,0,,48
+Betula cordifolia,Betula,FNA,21,4,1,0.16,0.020833333,Chromosome count picked up as fruit count,48
+Betula glandulosa,Betula,FNA,19,5,0,0.208333333,0,,43
+Betula kenaica,Betula,FNA,16,6,0,0.272727273,0,,41
+Betula lenta,Betula,FNA,20,6,0,0.230769231,0,,45
+Betula michauxii,Betula,FNA,18,5,0,0.217391304,0,,37
+Betula minor,Betula,FNA,20,3,0,0.130434783,0,,47
+Betula murrayana,Betula,FNA,16,5,0,0.238095238,0,,36
+Betula nana,Betula,FNA,13,5,0,0.277777778,0,,24
+Betula neoalaskana,Betula,FNA,19,2,0,0.095238095,0,,46
+Betula nigra,Betula,FNA,21,4,0,0.16,0,,43
+Betula occidentalis,Betula,FNA,18,4,0,0.181818182,0,,44
+Betula papyrifera,Betula,FNA,23,4,1,0.148148148,0.018867925,Chromosome count picked up as fruit count,53
+Betula pendula,Betula,FNA,19,3,1,0.136363636,0.024390244,Chromosome count picked up as fruit count,41
+Betula populifolia,Betula,FNA,18,5,0,0.217391304,0,,45
+Betula pubescens,Betula,FNA,11,3,0,0.214285714,0,,20
+Betula pumila,Betula,FNA,17,4,0,0.19047619,0,,48
+Betula uber,Betula,FNA,18,3,0,0.142857143,0,,42
+Carpinus caroliniana,Carpinus,FNA,17,4,2,0.19047619,0.043478261,"Bud size taken as leaf size, leaf blade size taken as inflorescence size.",46
+Corylus americana,Corylus,FNA,28,0,1,0,0.016666667,Chromosome count picked up as bract count,60
+Corylus avellana,Corylus,FNA,26,1,1,0.037037037,0.018518519,Chromosome count picked up as bract count,54
+Corylus cornuta,Corylus,FNA,24,2,2,0.076923077,0.032786885,,61
+Ostrya chisosensis,Ostrya,FNA,16,0,0,0,0,,44
+Ostrya knowltonii,Ostrya,FNA,15,0,0,0,0,,43
+Ostrya virginiana,Ostrya,FNA,17,0,0,0,0,,51
+Alnus cremastogyne,Alnus,FOC,29,0,0,0,0,,61
+Alnus ferdinandi-coburgii,Alnus,FOC,32,0,0,0,0,,65
+Alnus formosana,Alnus,FOC,32,0,0,0,0,,60
+Alnus henryi,Alnus,FOC,23,0,0,0,0,,44
+Alnus hirsuta,Alnus,FOC,32,0,0,0,0,,65
+Alnus japonica,Alnus,FOC,31,0,0,0,0,,72
+Alnus lanata,Alnus,FOC,35,0,1,0,0.015873016,Leaf vein number taken as peduncle count,63
+Alnus mandshurica,Alnus,FOC,31,0,0,0,0,,69
+Alnus nepalensis,Alnus,FOC,33,1,0,0.029411765,0,Bud scale count taken as petiole count,69
+Alnus trabeculosa,Alnus,FOC,29,0,0,0,0,,69
+Betula albosinensis,Betula,FOC,27,0,0,0,0,,60
+Betula alnoides,Betula,FOC,31,0,0,0,0,,72
+Betula austrosinensis,Betula,FOC,28,0,0,0,0,,66
+Betula calcicola,Betula,FOC,28,0,0,0,0,,69
+Betula chinensis,Betula,FOC,26,0,1,0,0.016949153,,59
+Betula costata,Betula,FOC,28,0,1,0,0.016129032,Vein count taken as peduncle count,62
+Betula cylindrostachya,Betula,FOC,32,0,0,0,0,,74
+Betula dahurica,Betula,FOC,25,0,0,0,0,,63
+Betula delavayi,Betula,FOC,30,0,0,0,0,,71
+Betula ermanii,Betula,FOC,23,0,0,0,0,,64
+Betula fargesii,Betula,FOC,22,0,1,0,0.02173913,Vein count taken as inflorescence count,46
+Betula fruticosa,Betula,FOC,27,0,1,0,0.015384615,Vein count taken as inflorescence count,65
+Betula gmelinii,Betula,FOC,25,0,0,0,0,,59
+Betula gynoterminalis,Betula,FOC,24,0,1,0,0.01754386,Vein count taken as inflorescence count,57
+Betula halophila,Betula,FOC,29,0,1,0,0.015873016,Vein count taken as inflorescence count,63
+Betula humilis,Betula,FOC,27,0,1,0,0.015151515,Vein count taken as inflorescence count,66
+Betula insignis,Betula,FOC,27,0,1,0,0.017241379,Vein count taken as inflorescence count,58
+Betula jinpingensis,Betula,FOC,25,0,0,0,0,,50
+Betula jiulungensis,Betula,FOC,29,0,1,0,0.013888889,Chromosome count picked up as leaf count,72
+Betula luminifera,Betula,FOC,30,0,1,0,0.014705882,Leaf vein number taken as peduncle count,68
+Betula microphylla,Betula,FOC,29,0,1,0,0.015625,Vein count taken as inflorescence count,64
+Betula middendorfii,Betula,FOC,27,0,3,0,0.045454545,Vein count and chromosome count misapplied.,66
+Betula ovalifolia,Betula,FOC,27,0,1,0,0.014285714,Vein count taken as inflorescence count,70
+Betula pendula,Betula,FOC,31,0,3,0,0.043478261,Vein issue,69
+Betula platyphylla,Betula,FOC,31,0,1,0,0.012195122,Vein issue,82
+Betula potaninii,Betula,FOC,32,0,1,0,0.014285714,Vein issue,70
+Betula rhombibracteata,Betula,FOC,31,0,1,0,0.01369863,Vein issue,73
+Betula rotundifolia,Betula,FOC,27,0,1,0,0.016666667,Vein issue,60
+Betula schmidtii,Betula,FOC,26,0,1,0,0.017241379,Vein issue,58
+Betula tianschanica,Betula,FOC,28,0,1,0,0.014925373,Vein issue,67
+Betula trichogemma,Betula,FOC,27,0,1,0,0.016129032,Vein issue,62
+Betula utilis,Betula,FOC,26,0,1,0,0.014705882,Vein issue,68
+Carpinus chuniana,Carpinus,FOC,32,0,1,0,0.012345679,Vein issue,81
+Carpinus cordata,Carpinus,FOC,28,0,1,0,0.011764706,Vein issue,85
+Carpinus dayongina,Carpinus,FOC,29,0,1,0,0.01369863,Vein issue,73
+Carpinus fangiana,Carpinus,FOC,30,0,1,0,0.0125,Vein issue,80
+Carpinus fargesiana,Carpinus,FOC,30,0,1,0,0.012345679,Vein issue,81
+Carpinus firmifolia,Carpinus,FOC,32,0,1,0,0.012658228,Vein issue,79
+Carpinus hebestroma,Carpinus,FOC,29,0,1,0,0.014705882,Vein issue,68
+Carpinus henryana,Carpinus,FOC,29,0,1,0,0.012987013,Vein issue,77
+Carpinus hupeana,Carpinus,FOC,30,0,1,0,0.0125,Vein issue,80
+Carpinus kawakamii,Carpinus,FOC,30,0,1,0,0.014285714,Vein issue,70
+Carpinus kweichowensis,Carpinus,FOC,32,0,1,0,0.011627907,Vein issue,86
+Carpinus londoniana,Carpinus,FOC,34,0,1,0,0.011111111,Vein issue,90
+Carpinus microphylla,Carpinus,FOC,29,0,1,0,0.013333333,Vein issue,75
+Carpinus minutiserrata,Carpinus,FOC,28,0,1,0,0.014084507,Vein issue,71
+Carpinus mollicoma,Carpinus,FOC,31,0,1,0,0.014285714,Vein issue,70
+Carpinus monbeigiana,Carpinus,FOC,34,0,1,0,0.011904762,Vein issue,84
+Carpinus oblongifolia,Carpinus,FOC,33,0,1,0,0.012195122,Vein issue,82
+Carpinus omeiensis,Carpinus,FOC,30,0,1,0,0.013888889,Vein issue,72
+Carpinus polyneura,Carpinus,FOC,31,0,1,0,0.012820513,Vein issue,78
+Carpinus pubescens,Carpinus,FOC,30,0,1,0,0.012658228,Vein issue,79
+Carpinus purpurinervis,Carpinus,FOC,29,0,1,0,0.014084507,Vein issue,71
+Carpinus putoensis,Carpinus,FOC,28,0,1,0,0.012987013,Vein issue,77
+Carpinus rankanensis,Carpinus,FOC,25,0,0,0,0,,70
+Carpinus shensiensis,Carpinus,FOC,31,0,1,0,0.013157895,Vein issue,76
+Carpinus stipulata,Carpinus,FOC,30,0,1,0,0.01369863,Vein issue,73
+Carpinus sungpanensis,Carpinus,FOC,30,0,1,0,0.013888889,Vein issue,72
+Carpinus tientaiensis,Carpinus,FOC,36,0,1,0,0.010416667,Vein issue,96
+Carpinus tsaiana,Carpinus,FOC,30,0,1,0,0.013513514,Vein issue,74
+Carpinus tschonoskii,Carpinus,FOC,29,0,1,0,0.011764706,Vein issue,85
+Carpinus tsunyihensis,Carpinus,FOC,29,0,1,0,0.014084507,Vein issue,71
+Carpinus turczaninowii,Carpinus,FOC,29,0,1,0,0.011904762,Vein issue,84
+Carpinus viminea,Carpinus,FOC,33,0,1,0,0.010204082,Vein issue,98
+Corylus chinensis,Corylus,FOC,32,0,1,0,0.015384615,Vein issue,65
+Corylus fargesii,Corylus,FOC,31,0,1,0,0.014492754,Vein issue,69
+Corylus ferox,Corylus,FOC,30,0,1,0,0.015625,Vein issue,64
+Corylus heterophylla,Corylus,FOC,32,0,1,0,0.014084507,Vein issue,71
+Corylus wangii,Corylus,FOC,31,0,1,0,0.015625,Vein issue,64
+Corylus yunnanensis,Corylus,FOC,34,0,1,0,0.013333333,Vein issue,75
+Ostrya japonica,Ostrya,FOC,29,0,1,0,0.015151515,Vein issue,66
+Ostrya multinervis,Ostrya,FOC,31,0,1,0,0.013513514,Vein issue,74
+Ostrya rehderiana,Ostrya,FOC,33,0,1,0,0.013157895,Vein issue,76
+Ostrya trichocarpa,Ostrya,FOC,34,0,1,0,0.01369863,Vein issue,73
+Ostrya yunnanensis,Ostrya,FOC,35,0,1,0,0.013333333,Vein issue,75
+Ostryopsis davidiana,Ostryopsis,FOC,34,0,1,0,0.014084507,Vein issue,71
+Ostryopsis nobilis,Ostryopsis,FOC,31,0,1,0,0.017241379,Vein issue,58
