@@ -2,8 +2,8 @@
 
 ## Usage
 ```
-mkdir output
-cat discard_terms.csv unit_columns.csv > all_fields_dropped.csv
+mkdir ./trait_processing/output
+cat ./trait_processing/discard_terms.csv ./trait_processing/unit_columns.csv > ./trait_processing/all_fields_dropped.csv
 python3 ./trait_processing/traiter_process_terms.py ./trait_processing/Fagales_2023-01-26/Fagales_2023-01-26.csv ./trait_processing/Manual_trait_extraction_newheader/Fagales_fill-in_controlled_fields.csv ./trait_processing/output/out ./trait_processing/output/codeguide.csv ./trait_processing/output/distancematrix ./trait_processing/all_fields_dropped.csv ./trait_processing/concatenate_terms.csv ./trait_processing/range_terms_quantitative.csv ./trait_processing/trait_processing/range_terms_count.csv 0.95
 ```
 
