@@ -1,3 +1,4 @@
+[![DOI](https://sandbox.zenodo.org/badge/592553872.svg)](https://sandbox.zenodo.org/badge/latestdoi/592553872)
 # fagales_traits
 
 ## Usage
