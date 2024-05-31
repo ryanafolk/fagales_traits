@@ -157,3 +157,6 @@ contMap(tree.reduced, plotdata, fsize = 0.1, lwd = 0.6, outline = FALSE)
 # Individual trait graph
 ##############
 
+raw_data <- read.csv(file="out_droppedmissing_coded_onevalue.csv", row.names = NULL, header = TRUE)
+raw_data$genus <- gsub(" .*", "", raw_data$taxon)
+boxplot(tree_size_height ~ genus, data = raw_data, las=2)
